@@ -1,0 +1,6 @@
+patch:
+  traditionalize/opencc_config: s2tw.json
+  engine/filters/+:
+    - lua_filter@*unzhinese
+    - lua_filter@*simplify
+    - uniquifier

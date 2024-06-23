@@ -1,0 +1,11 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.16.1
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Sun Jun 23 23:15:01 2024"
+  rime_version: 1.11.2
+patch:
+  "style/color_scheme": luna
+  "style/horizontal": true
+  "style/font_face": "Apple Color Emoji, Segoe UI Emoji, Source Han Sans TC, Segoe UI"
+  "style/font_point": 16
