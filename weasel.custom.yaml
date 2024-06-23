@@ -5,7 +5,9 @@ customization:
   modified_time: "Sun Jun 23 23:15:01 2024"
   rime_version: 1.11.2
 patch:
-  "style/color_scheme": luna
-  "style/horizontal": true
-  "style/font_face": "Apple Color Emoji, Segoe UI Emoji, Source Han Sans TC, Segoe UI"
-  "style/font_point": 16
+  style/+:
+    color_scheme: google
+    color_scheme_dark: steam
+    horizontal: true
+    font_face: "Apple Color Emoji, Segoe UI Emoji, Source Han Sans TC, Segoe UI"
+    hover_type: hilite
