@@ -1,11 +1,11 @@
 -- This script is mainly used to simplify the traditional Chinese characters in the poetry dictionary.
-local M = {}
+local F = {}
 
-function M.init(env)
-    M.simplify = Opencc('t2s.json')
+function F.init(env)
+    F.simplify = Opencc('t2s.json')
 end
 
-function M.func(input, env)
+function F.func(input, env)
     local do_convert = env.engine.context:get_option('traditionalization')
     for cand in input:iter() do
         if cand.text:find("⬚") then
@@ -14,7 +14,7 @@ function M.func(input, env)
             if do_convert then
                 yield(cand:to_shadow_candidate(cand.type, text, cand.comment))
             else
-                local simplified_text = M.simplify:convert(text)
+                local simplified_text = F.simplify:convert(text)
                 yield(cand:to_shadow_candidate(cand.type, simplified_text, cand.comment))
             end
         else
@@ -23,4 +23,4 @@ function M.func(input, env)
     end
 end
 
-return M
+return F

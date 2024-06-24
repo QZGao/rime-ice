@@ -23,8 +23,8 @@ function M.init(env)
     M.corrections = {
         -- 错音
         ["hun dun"] = { text = "馄饨", comment = "hún tun" },
-        ["zhu jiao"] = { text = "主角", comment = "zhǔ jué" },
-        ["jiao se"] = { text = "角色", comment = "júe sè" },
+        -- ["zhu jiao"] = { text = "主角", comment = "zhǔ jué" },
+        -- ["jiao se"] = { text = "角色", comment = "júe sè" },
         ["chi pi sa"] = { text = "吃比萨", comment = "chī bǐ sà" },
         ["pi sa bing"] = { text = "比萨饼", comment = "bǐ sà bǐng" },
         ["shui fu"] = { text = "说服", comment = "shuō fú" },
@@ -51,7 +51,7 @@ function M.init(env)
         ["du le le"] = { text = "独乐乐", comment = "dú yuè lè" },
         ["zhong le le"] = { text = "众乐乐", comment = "zhòng yuè lè" },
         ["xun ma"] = { text = "荨麻", comment = "qián má" },
-        ["qian ma zhen"] = { text = "荨麻疹", comment = "xún má zhěn" },
+        -- ["qian ma zhen"] = { text = "荨麻疹", comment = "xún má zhěn" },
         ["mo ju"] = { text = "模具", comment = "mú jù" },
         ["cao zhi"] = { text = "草薙", comment = "cǎo tì" },
         ["cao zhi jing"] = { text = "草薙京", comment = "cǎo tì jīng" },
