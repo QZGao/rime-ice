@@ -14,8 +14,8 @@ patch:
     good_old_caps_lock: false
     switch_key:
       Caps_Lock: commit_code
-      Shift_L: commit_code
-      Shift_R: commit_code
+      Shift_L: noop
+      Shift_R: noop
       Control_L: noop
       Control_R: noop
 

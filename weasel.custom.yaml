@@ -9,5 +9,4 @@ patch:
     color_scheme: google
     color_scheme_dark: steam
     horizontal: true
-    font_face: "Apple Color Emoji, Segoe UI Emoji, Source Han Sans TC, Segoe UI"
-    hover_type: hilite
+    font_face: Segoe UI::7f, Apple Color Emoji, TH-Hak, Source Han Sans TC, Segoe UI
