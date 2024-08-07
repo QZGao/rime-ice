@@ -4,3 +4,10 @@ patch:
     - lua_filter@*unzhinese
     - lua_filter@*simplify
     - uniquifier
+  reduce_english_filter:
+    mode: all
+    idx: 2
+    words: [ ply ]  # mode 为 all 时，words 起补充作用。
+  translator/preedit_format/+:
+    - xform/([nl])v/$1ü/    # 显示为 nü lü
+    - xform/([nl])ue/$1üe/  # 显示为 nüe lüe
