@@ -15,9 +15,12 @@ import_tables:
   # 建议把扩展词库放到下面，有重复词条时，最上面的权重生效
   - cn_dicts/cs
   - cn_dicts/physics
-  - cn_dicts/poetry
   - cn_dicts/genshin
   - cn_dicts/honkai
+
+  - cn_dicts/hanyu
+  - cn_dicts/hanhe
+  - cn_dicts/poetry
 ...
 
 # 按需启用：

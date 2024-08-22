@@ -11,6 +11,9 @@
     "dict": {
       "type": "group",
       "dicts": [{
+        "type": "text",
+        "file": "t2s_patch.txt"
+      }, {
         "type": "ocd2",
         "file": "TSPhrases.ocd2"
       }, {
