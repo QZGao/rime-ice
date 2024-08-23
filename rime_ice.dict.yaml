@@ -13,11 +13,14 @@ import_tables:
   - cn_dicts/others   # 一些杂项
 
   # 建议把扩展词库放到下面，有重复词条时，最上面的权重生效
+  # 簡體詞庫
   - cn_dicts/cs
   - cn_dicts/physics
   - cn_dicts/genshin
   - cn_dicts/honkai
 
+  # 繁體詞庫
+  - cn_dicts/taiwanese
   - cn_dicts/hanyu
   - cn_dicts/hanhe
   - cn_dicts/poetry

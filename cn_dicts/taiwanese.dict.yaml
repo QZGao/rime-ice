@@ -1,0 +1,79 @@
+# Rime dictionary
+# encoding: utf-8
+---
+name: taiwanese
+version: "2024-08-22"
+sort: by_weight
+...
+血	xie	1000
+曝	pu	10000
+壑	huo	1000
+丘壑	qiu huo	1000
+蝸	gua	1000
+蝸牛	gua niu	1000
+淆	yao	1000
+混淆	hun yao	1000
+崖	yai	1000
+山崖	shan yai	1000
+暫	zhan	10000
+酵	xiao	1000
+酵母	xiao mu	1000
+發酵	fa xiao	1000
+攜	xi	1000
+攜帶	xi dai	1000
+賜	si	1000
+賞賜	shang si	1000
+堤	ti	1000
+河堤	he ti	1000
+垃	le	1000
+圾	se	1000
+垃圾	le se	1000
+懾	zhe	1000
+挾	xia	1000
+謅	zou	1000
+驟	zou	1000
+步驟	bu zou	1000
+隼	zhun	1000
+隼質	zhun zhi	1000
+謔	nue	1000
+戲謔	xi nue	1000
+擷	jie	1000
+採擷	cai jie	1000
+拎	ling	1000
+劊	kuai	1000
+檜	kuai	1000
+檜木	kuai mu	1000
+秦檜	qin kuai	1000
+會稽	gui ji	1000
+會稽山	gui ji shan	1000
+圳溝	zun gou	1000
+蟄	zhi	1000
+琊	ye	1000
+瑯琊	lang ye	1000
+艘	sao	1000
+艘船	sao chuan	1000
+幀	zheng	1000
+幀數	zheng shu	1000
+幀率	zheng lv	1000
+和	han	100000
+嘵咋	xiao zha	1000
+咋呼	ze hu	1000
+老撾	lao zhua	1000
+暴露	pu lu	1000
+弛緩	shi huan	1000
+海參崴	hai shen wei	1000
+崴腳	wei jiao	1000
+會稽	gui ji	1000
+大乘	da sheng	1000
+大乘佛教	da sheng fo jiao	1000
+上乘	shang sheng	1000
+口吃	kou ji	1000
+車轍	che che	1000
+南轅北轍	nan yuan bei che	1000
+包括	bao gua	1000
+括號	gua hao	1000
+
+大人	dua lang	1000
+轉大人	deng dua lang	1000
+林北	lin bei	1000
+恁爸	lin bei	1000
