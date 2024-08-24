@@ -1,0 +1,63 @@
+﻿# Rime schema
+# encoding: utf-8
+
+__include: rime_ice.schema.yaml:/
+
+schema:
+  schema_id: rime_ice_tw_dicts
+  name: rime_ice_tw_dicts
+  version: "2023-10-17"
+  dependencies:
+    - radical_pinyin  # 部件拆字，反查及辅码
+
+# engine:
+  processors:
+    - lua_processor@select_character          # 以词定字
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - affix_segmentor@radical_lookup  # 部件拆字自定义 tag
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - script_translator
+    - lua_translator@force_gc           # 暴力 GC
+  filters:
+    # - lua_filter@corrector                          # 错音错字提示
+    - reverse_lookup_filter@radical_reverse_lookup  # 部件拆字滤镜
+    - lua_filter@autocap_filter                     # 英文自动大写
+    - lua_filter@v_filter                           # v 模式 symbols 优先
+    - lua_filter@pin_cand_filter                    # 置顶候选项（顺序要求：置顶候选项 > Emoji > 简繁切换）
+    - lua_filter@long_word_filter                   # 长词优先（顺序要求：长词优先 > Emoji）
+    - lua_filter@reduce_english_filter              # 降低部分英语单词在候选项的位置
+    - simplifier@emoji                              # Emoji
+    - simplifier@traditionalize                     # 简繁切换
+    - lua_filter@search@radical_pinyin              # 部件拆字辅码
+    - uniquifier                                    # 去重
+
+translator:
+  dictionary: rime_ice_tw_dicts
+  prism: rime_ice_tw_dicts
+  enable_word_completion: true # 大于 4 音节的词条自动补全，librime > 1.11.2
+  spelling_hints: 8            # corrector.lua ：为了让错音错字提示的 Lua 同时适配全拼双拼，将拼音显示在 comment 中
+  always_show_comments: true   # corrector.lua ：Rime 默认在 preedit 等于 comment 时取消显示 comment，这里强制一直显示，供 corrector.lua 做判断用。
+  initial_quality: 1.2         # 拼音的权重应该比英文大
+  comment_format:              # 标记拼音注释，供 corrector.lua 做判断用
+    - xform/^/［/
+    - xform/$/］/
+  preedit_format:              # preedit_format 影响到输入框的显示和“Shift+回车”上屏的字符
+    - xform/([jqxy])v/$1u/     # 显示为 ju qu xu yu
+    - xform/([nl])v/$1ü/     # 显示为 nü lü
+    - xform/([nl])ue/$1üe/   # 显示为 nüe lüe
+    - xform/([nl])v/$1v/       # 显示为 nv lv
+    - xform/([nl])ue/$1ve/     # 显示为 nve lve

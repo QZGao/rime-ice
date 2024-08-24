@@ -1,9 +1,12 @@
 patch:
+  schema/dependencies/+:
+    - rime_ice_tw_dicts
   engine/translators:
     - punct_translator
     - script_translator
     - lua_translator@date_translator    # 时间、日期、星期
     - lua_translator@lunar              # 农历
+    - table_translator@rime_ice_tw_dicts
     - table_translator@custom_phrase    # 自定义短语 custom_phrase.txt
     - table_translator@melt_eng         # 英文输入
     - table_translator@cn_en            # 中英混合词汇
@@ -12,7 +15,7 @@ patch:
     - lua_translator@number_translator  # 数字、金额大写
     - lua_translator@force_gc           # 暴力 GC
   engine/filters:
-    - lua_filter@corrector                          # 错音错字提示
+    # - lua_filter@corrector                          # 错音错字提示
     - reverse_lookup_filter@radical_reverse_lookup  # 部件拆字滤镜
     - lua_filter@autocap_filter                     # 英文自动大写
     - lua_filter@v_filter                           # v 模式 symbols 优先
@@ -21,7 +24,7 @@ patch:
     - lua_filter@reduce_english_filter              # 降低部分英语单词在候选项的位置
     - simplifier@emoji                              # Emoji
     - simplifier@traditionalize                     # 簡轉繁
-    - lua_filter@*unzhinese                         # 台灣用語
+    - lua_filter@*unzhinese
     - lua_filter@*simplify                          # 繁轉簡
     - lua_filter@search@radical_pinyin              # 部件拆字辅码
     - uniquifier                                    # 去重
@@ -30,6 +33,16 @@ patch:
     mode: all
     idx: 2
     words: [ ply ]  # mode 为 all 时，words 起补充作用。
+  # translator/comment_format: ""
+  translator/prism: rime_ice
+  translator/keep_comments: true
   translator/preedit_format/+:
     - xform/([nl])v/$1ü/    # 显示为 nü lü
     - xform/([nl])ue/$1üe/  # 显示为 nüe lüe
+  rime_ice_tw_dicts:
+    dictionary: rime_ice_tw_dicts
+    enable_encoder: true
+    encode_commit_history: true
+    enable_sentence: true
+    enable_user_dict: true
+    initial_quality: 1.2
