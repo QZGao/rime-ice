@@ -23,8 +23,14 @@
     }
   }, {
     "dict": {
-      "type": "ocd2",
-      "file": "TWVariants.ocd2"
+      "type": "group",
+      "dicts": [{
+        "type": "text",
+        "file": "s2tw_patch.txt"
+      }, {
+        "type": "ocd2",
+        "file": "TWVariants.ocd2"
+      }]
     }
   }]
 }

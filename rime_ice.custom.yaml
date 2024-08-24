@@ -20,12 +20,9 @@ patch:
     - lua_filter@long_word_filter                   # 长词优先（顺序要求：长词优先 > Emoji）
     - lua_filter@reduce_english_filter              # 降低部分英语单词在候选项的位置
     - simplifier@emoji                              # Emoji
-    - simplifier@traditionalize                     # 簡轉繁
-    - lua_filter@*unzhinese                         # 台灣用語
-    - lua_filter@*simplify                          # 繁轉簡
+    - lua_filter@*zhinese                           # 簡繁轉換
     - lua_filter@search@radical_pinyin              # 部件拆字辅码
     - uniquifier                                    # 去重
-  traditionalize/opencc_config: s2tw.json
   reduce_english_filter:
     mode: all
     idx: 2
