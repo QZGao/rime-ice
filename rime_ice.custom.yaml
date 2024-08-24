@@ -3,10 +3,9 @@ patch:
     - rime_ice_tw_dicts
   rime_ice_tw_dicts:
     dictionary: rime_ice_tw_dicts
-    enable_encoder: true
-    encode_commit_history: true
-    enable_sentence: true
-    enable_user_dict: true
+    enable_encoder: false
+    enable_sentence: false
+    enable_user_dict: false
     initial_quality: 1.2
   engine/translators:
     - punct_translator
