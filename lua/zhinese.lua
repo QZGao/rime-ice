@@ -17,12 +17,12 @@ function F.func(input, env)
 				-- simplified entry, convert to traditional + suggest Taiwanese
 				local traditional = F.traditionalize:convert_word(cand.text) or {F.traditionalize:convert_text(cand.text)}
 				for _, t in ipairs(traditional) do
-					yield(cand:to_shadow_candidate(cand.type, t, "S→T"))
+					yield(cand:to_shadow_candidate(cand.type, t, cand.comment))
 				end
 				
 				local taiwanese = F.taiwanize:convert_word(cand.text) or {F.taiwanize:convert_text(cand.text)}
 				for _, t in ipairs(taiwanese) do
-					yield(cand:to_shadow_candidate(cand.type, t, "S→TW"))
+					yield(cand:to_shadow_candidate(cand.type, t, "*"))
 				end
 
 			else
@@ -38,7 +38,7 @@ function F.func(input, env)
 			else
 				-- traditional entry, convert to simplified
 				for _, s in ipairs(simplified) do
-					yield(cand:to_shadow_candidate(cand.type, s, "T→S"))
+					yield(cand:to_shadow_candidate(cand.type, s, cand.comment))
 				end
 			end
 		end
