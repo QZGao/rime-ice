@@ -1,6 +1,13 @@
 patch:
   schema/dependencies/+:
     - rime_ice_tw_dicts
+  rime_ice_tw_dicts:
+    dictionary: rime_ice_tw_dicts
+    enable_encoder: true
+    encode_commit_history: true
+    enable_sentence: true
+    enable_user_dict: true
+    initial_quality: 1.2
   engine/translators:
     - punct_translator
     - script_translator
@@ -39,10 +46,3 @@ patch:
   translator/preedit_format/+:
     - xform/([nl])v/$1ü/    # 显示为 nü lü
     - xform/([nl])ue/$1üe/  # 显示为 nüe lüe
-  rime_ice_tw_dicts:
-    dictionary: rime_ice_tw_dicts
-    enable_encoder: true
-    encode_commit_history: true
-    enable_sentence: true
-    enable_user_dict: true
-    initial_quality: 1.2
