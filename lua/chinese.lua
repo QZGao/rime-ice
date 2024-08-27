@@ -16,13 +16,17 @@ function F.func(input, env)
 			if #simplified == 1 and simplified[1] == cand.text then
 				-- simplified entry, convert to traditional + suggest Taiwanese
 				local traditional = F.traditionalize:convert_word(cand.text) or {F.traditionalize:convert_text(cand.text)}
+				local traditional_map = {}
 				for _, t in ipairs(traditional) do
 					yield(cand:to_shadow_candidate(cand.type, t, cand.comment))
+					traditional_map[t] = true
 				end
 				
 				local taiwanese = F.taiwanize:convert_word(cand.text) or {F.taiwanize:convert_text(cand.text)}
 				for _, t in ipairs(taiwanese) do
-					yield(cand:to_shadow_candidate(cand.type, t, "*"))
+					if not traditional_map[t] then
+						yield(cand:to_shadow_candidate(cand.type, t, "*"))
+					end
 				end
 
 			else
