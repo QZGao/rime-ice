@@ -10,3 +10,4 @@ patch:
     color_scheme_dark: steam
     horizontal: true
     font_face: Segoe UI::7f, Apple Color Emoji, TH-Hak, Source Han Sans TC, Segoe UI
+  preset_color_schemes/google/comment_text_color: 0x999999
