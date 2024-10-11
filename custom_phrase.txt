@@ -62,3 +62,8 @@ gone	gone
 Go程	gocheng
 code	code
 SOHO	soho
+
+zh-Hant-TW	zht
+zh-Hans-CN	zhc
+zh-Hant-HK	zhh
+en-US	enu
