@@ -20,10 +20,10 @@ import_tables:
   - cn_dicts/honkai
 
   # 繁體詞庫
-  - cn_dicts/taiwanese
-  - cn_dicts/hanyu
-  - cn_dicts/hanhe
-  - cn_dicts/poetry
+  - tw_dicts/taiwanese
+  - tw_dicts/hanyu
+  - tw_dicts/hanhe
+  - tw_dicts/poetry
 ...
 
 # 按需启用：
