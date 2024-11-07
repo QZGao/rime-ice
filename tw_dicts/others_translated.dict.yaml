@@ -1,0 +1,623 @@
+﻿# Rime dictionary
+# encoding: utf-8
+#
+#
+# https://github.com/iDvel/rime-ice
+# ------- 一些杂项，按需选择 -------
+#
+#
+---
+name: others_translated
+version: "2024-10-30"
+sort: by_weight
+...
+##### 容错词
+# 一些口语读音
+空落落	kong luo luo
+空落落	kong lao lao
+空落落的	kong luo luo de
+空落落的	kong lao lao de
+# 「阿房宫」的注音争议比较大
+阿房宮	e pang gong
+阿房宮	a pang gong
+阿房宮	e fang gong
+阿房宮	a fang gong
+阿房宮賦	e pang gong fu
+阿房宮賦	a pang gong fu
+阿房宮賦	e fang gong fu
+阿房宮賦	a fang gong fu
+# 「伯伯」方言
+伯伯	bo bo
+伯伯	bai bai
+# 「斜」的古音
+遠上寒山石徑斜	yuan shang han shan shi jing xie
+遠上寒山石徑斜	yuan shang han shan shi jing xia
+# 「骑」目前统读 qi
+坐騎	zuo qi
+坐騎	zuo ji
+鐵騎	tie qi
+鐵騎	tie ji
+一騎絕塵	yi qi jue chen
+一騎絕塵	yi ji jue chen
+一騎當千	yi qi dang qian
+一騎當千	yi ji dang qian
+一騎紅塵妃子笑	yi qi hong chen fei zi xiao
+一騎紅塵妃子笑	yi ji hong chen fei zi xiao
+走單騎	zou dan qi
+走單騎	zou dan ji
+千里走單騎	qian li zou dan qi
+千里走單騎	qian li zou dan ji
+# 「街」的粤语和东北话读音及常见的两种写法
+仆街	pu jie
+仆街	pu gai
+撲街	pu jie
+撲街	pu gai
+撲街仔	pu jie zai
+撲街仔	pu gai zai
+仆街仔	pu jie zai
+仆街仔	pu gai zai
+街溜子	jie liu zi
+街溜子	gai liu zi
+# 「錤」这个字念 ji，但是台湾媒体都会念成 qi，他的英文名 Ming-Chi Kuo 也是接近 qi
+郭明錤	guo ming ji
+郭明錤	guo ming qi
+# 「镐 gao hao」的发音，多为韩国人名，不知道 🤷‍♂️，词库里为 gao，这里额外加上 hao 音
+李昌鎬	li chang hao
+曹世鎬	cao shi hao
+張鎬哲	zhang gao zhe
+姜成鎬	jiang cheng hao
+姜鎬童	jiang hao tong
+張鎬濂	zhang hao lian
+李敏鎬	li min hao
+李陳鎬	li chen hao
+趙亮鎬	zhao liang hao
+鄭俊鎬	zheng jun hao
+
+
+##### 错音错字提示。与 corrector.lua 配合，上面的是正确的，下面是错误的
+### 错音
+餛飩	hun tun
+餛飩	hun dun
+主角	zhu jue
+主角	zhu jiao
+角色	jue se
+角色	jiao se
+比薩餅	bi sa bing
+比薩餅	pi sa bing
+吃比薩	chi bi sa
+吃比薩	chi pi sa
+說服	shuo fu
+說服	shui fu
+道行	dao heng
+道行	dao hang
+模樣	mu yang
+模樣	mo yang
+有模有樣	you mu you yang
+有模有樣	you mo you yang
+一模一樣	yi mu yi yang
+一模一樣	yi mo yi yang
+裝模作樣	zhuang mu zuo yang
+裝模作樣	zhuang mo zuo yang
+人模狗樣	ren mu gou yang
+人模狗樣	ren mo gou yang
+模板	mu ban
+模板	mo ban
+阿彌陀佛	e mi tuo fo
+阿彌陀佛	a mi tuo fo
+南無阿彌陀佛	na mo e mi tuo fo
+南無阿彌陀佛	na mo a mi tuo fo
+南無阿彌陀佛	nan wu e mi tuo fo
+南無阿彌陀佛	nan wu a mi tuo fo
+給予	ji yu
+給予	gei yu
+檳榔	bing lang
+檳榔	bin lang
+張柏芝	zhang bo zhi
+張柏芝	zhang bai zhi
+藤蔓	teng wan
+藤蔓	teng man
+弄堂	long tang
+弄堂	nong tang
+心寬體胖	xin kuan ti pan
+心寬體胖	xin kuan ti pang
+埋怨	man yuan
+埋怨	mai yuan
+虛與委蛇	xu yu wei yi
+虛與委蛇	xu yu wei she
+木訥	mu ne
+木訥	mu na
+獨樂樂	du yue le
+獨樂樂	du le le
+眾樂樂	zhong yue le
+眾樂樂	zhong le le
+蕁麻	qian ma
+蕁麻	xun ma
+蕁麻疹	xun ma zhen
+蕁麻疹	qian ma zhen
+模具	mu ju
+模具	mo ju
+草薙	cao ti
+草薙	cao zhi
+草薙京	cao ti jing
+草薙京	cao zhi jing
+草薙劍	cao ti jian
+草薙劍	cao zhi jian
+賈平凹	jia ping wa
+賈平凹	jia ping ao
+雪佛蘭	xue fu lan
+雪佛蘭	xue fo lan
+強勁	qiang jing
+強勁	qiang jin
+胴體	dong ti
+胴體	tong ti
+力能扛鼎	li neng gang ding
+力能扛鼎	li neng kang ding
+鴨綠江	ya lu jiang
+鴨綠江	ya lv jiang
+大腹便便	da fu pian pian
+大腹便便	da fu bian bian
+卡脖子	qia bo zi
+卡脖子	ka bo zi
+吱聲	zi sheng
+吱聲	zhi sheng
+摻和	chan huo
+摻和	chan he
+摻和	can huo
+摻和	can he
+稱職	chen zhi
+稱職	cheng zhi
+螺螄粉	luo si fen
+螺螄粉	luo shi fen
+調換	diao huan
+調換	tiao huan
+太行山	tai hang shan
+太行山	tai xing shan
+歇斯底里	xie si di li
+歇斯底里	jie si di li
+暖和	nuan huo
+暖和	nuan he
+模稜兩可	mo leng liang ke
+模稜兩可	mo ling liang ke
+鄱陽湖	po yang hu
+鄱陽湖	pan yang hu
+脖頸	bo geng
+脖頸	bo jing
+脖頸兒	bo geng er
+脖頸兒	bo jing er
+結紮	jie za
+結紮	jie zha
+海參崴	hai shen wai
+海參崴	hai shen wei
+厚朴	hou po
+厚朴	hou pu
+大宛馬	da yuan ma
+大宛馬	da wan ma
+齜牙	zi ya
+齜牙	ci ya
+齜著牙	zi zhe ya
+齜著牙	ci zhe ya
+齜牙咧嘴	zi ya lie zui
+齜牙咧嘴	ci ya lie zui
+頭皮屑	tou pi xie
+頭皮屑	tou pi xue
+六安	lu an
+六安	liu an
+六安縣	lu an xian
+六安縣	liu an xian
+六安市	lu an shi
+六安市	liu an shi
+六合區	lu he qu
+六合區	liu he qu
+安徽六安	an hui lu an
+安徽六安	an hui liu an
+安徽六安市	an hui lu an shi
+安徽六安市	an hui liu an shi
+安徽省六安市	an hui sheng lu an shi
+安徽省六安市	an hui sheng liu an shi
+南京六合	nan jing lu he
+南京六合	nan jing liu he
+南京六合區	nan jing lu he qu
+南京六合區	nan jing liu he qu
+南京市六合區	nan jing shi lu he qu
+南京市六合區	nan jing shi liu he qu
+偌大	ruo da
+偌大	nuo da
+飲鴆止渴	yin zhen zhi ke
+飲鴆止渴	yin jiu zhi ke
+飲鴆解渴	yin zhen jie ke
+飲鴆解渴	yin jiu jie ke
+宮商角徵羽	gong shang jue zhi yu
+宮商角徵羽	gong shang jiao zhi yu
+氙氣燈	shan qi deng
+氙氣大燈	shan qi da deng
+氙氣手電筒	shan qi shou dian tong
+### 错字
+曾經	ceng jing
+曾今	ceng jin
+按捺	an na
+按耐	an nai
+按捺不住	an na bu zhu
+按耐不住	an nai bu zhu
+別價	bie jie
+別介	bie jie
+甭價	beng jie
+甭介	beng jie
+血脈賁張	xue mai ben zhang
+血脈僨張	xue mai fen zhang
+血脈噴張	xue mai pen zhang
+契訶夫	qi he fu
+契科夫	qi ke fu
+湊合	cou he
+湊活	cou huo
+巨惠	ju hui
+鉅惠	ju hui
+摩羯座	mo jie zuo
+魔蠍座	mo xie zuo
+比薩	bi sa
+披薩	pi sa
+
+
+##### 叠字
+# 数据来源： https://zh.wikipedia.org/zh-cn/%E4%BA%8C%E5%8F%A0%E5%AD%97 https://zh.wikipedia.org/wiki/%E4%B8%89%E5%8F%A0%E5%AD%97 https://zh.wikipedia.org/wiki/%E5%9B%9B%E5%8F%A0%E5%AD%97
+# 二叠字
+兩個火
+兩個土
+兩個一
+兩個二
+兩個山
+兩個口
+兩個田
+兩個九
+兩個人
+兩個飛
+兩個戈
+兩個厶	liang ge si
+兩個厶	liang ge mou
+兩個又
+兩個香
+兩個面
+兩個兀
+兩個女
+兩個𡥦	liang ge ni
+兩個臣
+兩個巾
+兩個左
+兩個母
+兩個來
+兩個凡
+兩個夕
+兩個彐	liang ge ji
+兩個𢎘	liang ge han
+兩個魚	liang ge yu
+兩個明
+兩個朿	liang ge ci
+兩個乂
+兩個曰
+兩個屍
+兩個戶
+兩個大
+兩個八
+兩個而
+兩個羊
+兩個吉
+兩個馬
+兩個卅
+兩個巛	liang ge chuan
+兩個止
+兩個比
+兩個言
+兩個申
+兩個牛
+兩個餘
+兩個束
+兩個罒	liang ge mu
+兩個㐅	liang ge wu
+兩個金
+兩個木
+兩個水
+兩個火
+兩個風	liang ge feng
+兩個石
+兩個口
+兩個日
+兩個月
+兩個目
+兩個白
+兩個百
+兩個耳
+兩個山
+兩個屮	liang ge che
+兩個屮	liang ge cao
+兩個廿
+兩個卄	liang ge nian
+兩個蟲
+兩個虎
+兩個龍	liang ge long
+兩個馬	liang ge ma
+兩個犬
+兩個人
+兩個入
+兩個習
+兩個卪	liang ge jie
+兩個㔾	liang ge jie
+兩個幾
+兩個乙
+兩個大
+兩個夫
+兩個禾
+兩個幹
+兩個井
+兩個斤
+兩個片
+兩個牙
+兩個炎
+兩個弓
+兩個永
+兩個亦
+兩個手
+兩個毛
+兩個王
+兩個男
+兩個女
+兩個又
+兩個支
+兩個隻	liang ge zhi
+兩個古
+兩個吉
+兩個舌
+兩個言
+兩個戶
+兩個啟
+兩個來	liang ge lai
+兩個桼	liang ge qi
+兩個旡	liang ge ji
+兩個夕
+兩個歹
+兩個匕
+兩個么
+兩個玄
+兩個心
+兩個力
+兩個欠
+兩個子
+兩個予
+兩個享
+兩個立
+兩個音
+兩個竟
+兩個競
+兩個兄
+兩個見	liang ge jian
+兩個貝	liang ge bei
+兩個辛
+兩個瓜
+兩個呆
+兩個果
+兩個鳥
+兩個巢
+兩個禺	liang ge yu
+兩個巿	liang ge fu
+兩個句
+兩個奇
+兩個真
+兩個尹
+兩個昔
+兩個易
+兩個臣
+兩個面
+兩個先
+兩個老
+兩個示
+兩個至
+兩個生
+兩個車	liang ge che
+兩個車	liang ge ju
+兩個足
+兩個區	liang ge qu
+兩個香
+兩個隹	liang ge zhui
+兩個牟
+兩個豕
+兩個𠂢	liang ge pai
+兩個畐	liang ge fu
+兩個㣇	liang ge yi
+兩個邑
+兩個堯	liang ge yao
+兩個秉
+兩個倉	liang ge cang
+兩個東	liang ge dong
+兩個善
+兩個僉	liang ge qian
+兩個齒	liang ge chi
+兩個喜
+兩個走
+兩個止
+兩個昌
+兩個串
+兩個米
+兩個束
+兩個隸
+兩個不
+兩個龍
+兩個乞
+兩個夋	liang ge qun
+兩個天
+# 三叠字
+三個生
+三個秦
+三個若
+三個雲	san ge yun
+三個人
+三個刀
+三個十
+三個力
+三個原
+三個厶	san ge si
+三個厶	san ge mou
+三個又
+三個口
+三個七
+三個吉
+三個土
+三個士
+三個女
+三個子
+三個小
+三個心
+三個手
+三個日
+三個木
+三個止
+三個毛
+三個水
+三個泉
+三個火
+三個牛
+三個犬
+三個田
+三個白
+三個目
+三個直
+三個石
+三個羊
+三個耳
+三個舌
+三個屮	san ge che
+三個屮	san ge cao
+三個蟲
+三個言
+三個貝
+三個車	san ge che
+三個金
+三個隹	san ge zhui
+三個雷
+三個風	san ge feng
+三個飛	san ge fei
+三個香
+三個馬
+三個魚	san ge yu
+三個鹿
+三個龍	san ge long
+三個個
+三個丶	san ge zhu
+三個丶	san ge dian
+三個了
+三個介
+三個企
+三個舍
+三個圥	san ge lu
+三個光
+三個兔
+三個全
+三個𠙽	san ge kuai
+三個𠧪	san ge tiao
+三個𠧪	san ge you
+三個㔾	san ge jie
+三個厡	san ge yuan
+三個可
+三個因
+三個夏
+三個大
+三個天
+三個太
+三個𦉼	san ge ku
+三個寶
+三個宜
+三個客
+三個寒
+三個少
+三個山
+三個市
+三個文
+三個鬥
+三個朿	san ge ci
+三個束
+三個林
+三個果
+三個欠
+三個𣥚	san ge zou
+三個爪
+三個妥
+三個用
+三個甲
+三個百
+三個蓋
+三個県	san ge xian
+三個空
+三個亇	san ge ge
+三個竹
+三個罒	san ge mu
+三個羗	san ge qiang
+三個老
+三個月
+三個至
+三個興	san ge xing
+三個足
+三個㖖	san ge nie
+三個門	san ge men
+三個面
+三個頁	san ge ye
+三個鳥	san ge niao
+三個男
+三個立
+三個九
+三個也
+三個加
+三個動	san ge dong
+三個千
+三個方
+三個朔
+三個玉
+三個申
+三個𡿨	san ge quan
+三個去
+三個弓
+三個䖝	san ge chong
+三個丿	san ge pie
+三個戶
+三個瓜
+三個鳥
+三個米
+# 四叠字
+四個乂	si ge yi
+四個人
+四個厶	si ge si
+四個厶	si ge mou
+四個又
+四個匕
+四個工
+四個口
+四個天
+四個小
+四個屮	si ge che
+四個屮	si ge cao
+四個火
+四個牛
+四個魚	si ge yu
+四個月
+四個日
+四個林
+四個水
+四個石
+四個田
+四個甲
+四個且
+四個囚
+四個困
+四個竹
+四個老
+四個朿	si ge ci
+四個先
+四個金
+四個泉
+四個言
+四個門	si ge men
+四個果
+四個春
+四個車	si ge che
+四個風	si ge feng
+四個雷
+四個雲	si ge yun
+四個興	si ge xing
+四個龍	si ge long
+四個土

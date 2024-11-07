@@ -5,21 +5,18 @@
 name: rime_ice
 version: "2023-11-13"
 import_tables:
-  - cn_dicts/8105     # 字表
-  - cn_dicts/41448    # 大字表（按需启用）
-  - cn_dicts/base     # 基础词库
-  - cn_dicts/ext      # 扩展词库
-  - cn_dicts/tencent  # 腾讯词向量（大词库，部署时间较长）
-  - cn_dicts/others   # 一些杂项
+  - tw_dicts/8105_translated     # 字表
+  - tw_dicts/41448_translated    # 大字表（按需启用）
+  - tw_dicts/base_translated     # 基础词库
+  - tw_dicts/ext_translated      # 扩展词库
+  - tw_dicts/tencent_translated  # 腾讯词向量（大词库，部署时间较长）
+  - tw_dicts/others_translated   # 一些杂项
 
   # 建议把扩展词库放到下面，有重复词条时，最上面的权重生效
-  # 簡體詞庫
-  - cn_dicts/cs
-  - cn_dicts/physics
-  - cn_dicts/genshin
-  - cn_dicts/honkai
-
-  # 繁體詞庫
+  - tw_dicts/cs_translated
+  - tw_dicts/physics_translated
+  - tw_dicts/genshin_translated
+  - tw_dicts/honkai_translated
   - tw_dicts/taiwanese
   - tw_dicts/hanyu
   - tw_dicts/hanhe
