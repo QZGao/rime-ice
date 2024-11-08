@@ -8,7 +8,7 @@
 #
 ---
 name: others_translated
-version: "2024-10-30"
+version: "2024-11-04"
 sort: by_weight
 ...
 ##### 容错词
@@ -228,9 +228,16 @@ sort: by_weight
 飲鴆解渴	yin jiu jie ke
 宮商角徵羽	gong shang jue zhi yu
 宮商角徵羽	gong shang jiao zhi yu
+氙氣燈	xian qi deng
 氙氣燈	shan qi deng
+氙氣大燈	xian qi da deng
 氙氣大燈	shan qi da deng
+氙氣手電筒	xian qi shou dian tong
 氙氣手電筒	shan qi shou dian tong
+應該	ying gai
+應該	yin gai
+粘貼	zhan tie
+粘貼	nian tie
 ### 错字
 曾經	ceng jing
 曾今	ceng jin
