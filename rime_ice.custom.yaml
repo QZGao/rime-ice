@@ -1,0 +1,26 @@
+patch:
+  switches:
+    - name: ascii_mode
+      states: ["中", "Ａ"]
+    - name: ascii_punct
+      states: ["¥", "$"]
+    - name: traditionalization
+      states: [ 繁, 简 ]
+    - name: emoji
+      reset: 1
+      states: ["💀", "😄"]
+    - name: full_shape
+      states: ["半角", "全角"]
+    - abbrev: ["词", "单"]
+      name: search_single_char
+      states: ["正常", "单字"]
+  traditionalize/opencc_config: t2s.json
+  emoji/opencc_config: emoji_tw.json
+  cn_en/user_dict: en_dicts/tw_en
+  reduce_english_filter:
+    mode: all
+    idx: 2
+    words: [ ply ]  # mode 为 all 时，words 起补充作用。
+  translator/preedit_format/+:
+    - xform/([nl])v/$1ü/    # 显示为 nü lü
+    - xform/([nl])ue/$1üe/  # 显示为 nüe lüe
