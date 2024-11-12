@@ -26,30 +26,36 @@ class Translator:
 				f.write("")
 		translation_dict = {}
 		with open(self.translation_dict_file, 'r', encoding="utf-8-sig") as f:
+			task = progress.add_task("[cyan]Loading...", total=os.path.getsize(self.translation_dict_file))
 			for line in f:
 				if not line.strip() or line.startswith("#"):
 					continue
 				key, val = line.strip().split("\t")
 				translation_dict[key] = val
+				progress.update(task, advance=len(line.encode("utf-8")))
+			progress.remove_task(task)
 		return translation_dict
 
 	def __save_translation_dict(self, dict_file: str, dict_obj: dict):
 		with open(dict_file, 'w', encoding="utf-8-sig") as f:
+			task = progress.add_task("[cyan]Saving...", total=len(dict_obj))
 			identical = []
-			for key, val in dict_obj.items():
+			for key, val in sorted(dict_obj.items()):
 				if key == val:
 					identical.append(key)
 				else:
 					f.write(key + "\t" + val + "\n")
+					progress.update(task, advance=1)
 			if identical:
 				f.write("\n# Identical translations\n")
 				for key in identical:
 					f.write(key + "\t" + key + "\n")
+					progress.update(task, advance=1)
+			progress.remove_task(task)
 
 	def __load_file_by_line(self, from_dict_file: str):
 		with open(from_dict_file, 'r', encoding="utf-8-sig") as f:
 			task = progress.add_task(os.path.basename(from_dict_file), total=os.path.getsize(from_dict_file))
-
 			for line in f:
 				yield line
 				progress.update(task, advance=len(line.encode("utf-8")))
@@ -315,5 +321,7 @@ if __name__ == "__main__":
 		for from_dict_file, to_dict_file in dict_list:
 			translator.translate(from_dict_file, to_dict_file)
 			progress.update(task, advance=1)
+		progress.remove_task(task)
 
 		translator.save()
+		print("All done.")
