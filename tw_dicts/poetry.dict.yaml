@@ -5,6 +5,367 @@ name: poetry
 version: "2013-11-21"
 sort: by_weight
 ...
+平聲	ping sheng	10000000
+上聲	shang sheng	10000000
+去聲	qu sheng	10000000
+入聲	ru sheng	10000000
+陰平	yin ping	10000000
+陽平	yang ping	10000000
+上平聲	shang ping sheng	10000000
+下平聲	xia ping sheng	10000000
+陰上	yin shang	10000000
+陽上	yang shang	10000000
+陰去	yin qu	10000000
+陽去	yang qu	10000000
+陰入	yin ru	10000000
+陽入	yang ru	10000000
+仄聲	ze sheng	10000000
+輕聲	qing sheng	10000000
+陰平聲	yin ping sheng	10000000
+陽平聲	yang ping sheng	10000000
+陰上聲	yin shang sheng	10000000
+陽上聲	yang shang sheng	10000000
+陰去聲	yin qu sheng	10000000
+陽去聲	yang qu sheng	10000000
+陰入聲	yin ru sheng	10000000
+陽入聲	yang ru sheng	10000000
+四聲八調	si sheng ba diao	1000
+平水韻	ping shui yun	1000
+上平聲一東	shang ping sheng yi dong	100
+上平聲二冬	shang ping sheng er dong	100
+上平聲三江	shang ping sheng san jiang	100
+上平聲四支	shang ping sheng si zhi	100
+上平聲五微	shang ping sheng wu wei	100
+上平聲六魚	shang ping sheng liu yu	100
+上平聲七虞	shang ping sheng qi yu	100
+上平聲八齊	shang ping sheng ba qi	100
+上平聲九佳	shang ping sheng jiu jia	100
+上平聲十灰	shang ping sheng shi hui	100
+上平聲十一真	shang ping sheng shi yi zhen	100
+上平聲十二文	shang ping sheng shi er wen	100
+上平聲十三元	shang ping sheng shi san yuan	100
+上平聲十四寒	shang ping sheng shi si han	100
+上平聲十五刪	shang ping sheng shi wu shan	100
+下平聲一先	xia ping sheng yi xian	100
+下平聲二蕭	xia ping sheng er xiao	100
+下平聲三肴	xia ping sheng san yao	100
+下平聲四豪	xia ping sheng si hao	100
+下平聲五歌	xia ping sheng wu ge	100
+下平聲六麻	xia ping sheng liu ma	100
+下平聲七陽	xia ping sheng qi yang	100
+下平聲八庚	xia ping sheng ba geng	100
+下平聲九青	xia ping sheng jiu qing	100
+下平聲十蒸	xia ping sheng shi zheng	100
+下平聲十一尤	xia ping sheng shi yi you	100
+下平聲十二侵	xia ping sheng shi er qin	100
+下平聲十三覃	xia ping sheng shi san tan	100
+下平聲十四鹽	xia ping sheng shi si yan	100
+下平聲十五咸	xia ping sheng shi wu xian	100
+上聲一董	shang sheng yi dong	100
+上聲二腫	shang sheng er zhong	100
+上聲三講	shang sheng san jiang	100
+上聲四紙	shang sheng si zhi	100
+上聲五尾	shang sheng wu wei	100
+上聲六語	shang sheng liu yu	100
+上聲七麌	shang sheng qi yu	100
+上聲八薺	shang sheng ba ji	100
+上聲九蟹	shang sheng jiu xie	100
+上聲十賄	shang sheng shi hui	100
+上聲十一軫	shang sheng shi yi zhen	100
+上聲十二吻	shang sheng shi er wen	100
+上聲十三阮	shang sheng shi san ruan	100
+上聲十四旱	shang sheng shi si han	100
+上聲十五潸	shang sheng shi wu shan	100
+上聲十六銑	shang sheng shi lian	100
+上聲十七筱	shang sheng shi qi xiao	100
+上聲十八巧	shang sheng shi ba qiao	100
+上聲十九皓	shang sheng shi jiu hao	100
+上聲二十哿	shang sheng er shi ge	100
+上聲二十一馬	shang sheng er shi yi ma	100
+上聲二十二養	shang sheng er shi er yang	100
+上聲二十三梗	shang sheng er shi san geng	100
+上聲二十四迥	shang sheng er shi si jiong	100
+上聲二十五有	shang sheng er shi wu you	100
+上聲二十六寢	shang sheng er shi lian qin	100
+上聲二十七感	shang sheng er shi qi gan	100
+上聲二十八琰	shang sheng er shi ba yan	100
+上聲二十九豏	shang sheng er shi jiu xian	100
+去聲一送	qu sheng yi song	100
+去聲二宋	qu sheng er song	100
+去聲三絳	qu sheng san jiang	100
+去聲四寘	qu sheng si zhi	100
+去聲五未	qu sheng wu wei	100
+去聲六禦	qu sheng liu yu	100
+去聲七遇	qu sheng qi yu	100
+去聲八霽	qu sheng ba ji	100
+去聲九泰	qu sheng jiu tai	100
+去聲十卦	qu sheng shi gua	100
+去聲十一隊	qu sheng shi yi dui	100
+去聲十二震	qu sheng shi er zhen	100
+去聲十三問	qu sheng shi san wen	100
+去聲十四願	qu sheng shi si yuan	100
+去聲十五翰	qu sheng shi wu han	100
+去聲十六諫	qu sheng shi liu jian	100
+去聲十七霰	qu sheng shi qi xian	100
+去聲十八嘯	qu sheng shi ba xiao	100
+去聲十九效	qu sheng shi jiu xiao	100
+去聲二十號	qu sheng er shi hao	100
+去聲二十一個	qu sheng er shi yi ge	100
+去聲二十二禡	qu sheng er shi er ma	100
+去聲二十三漾	qu sheng er shi san yang	100
+去聲二十四敬	qu sheng er shi si jing	100
+去聲二十五徑	qu sheng er shi wu jing	100
+去聲二十六宥	qu sheng er shi liu you	100
+去聲二十七沁	qu sheng er shi qi qin	100
+去聲二十八勘	qu sheng er shi ba kan	100
+去聲二十九艷	qu sheng er shi jiu yan	100
+去聲三十陷	qu sheng san shi xian	100
+入聲一屋	ru sheng yi wu	100
+入聲二沃	ru sheng er wo	100
+入聲三覺	ru sheng san jue	100
+入聲四質	ru sheng si zhi	100
+入聲五物	ru sheng wu wu	100
+入聲六月	ru sheng liu yue	100
+入聲七曷	ru sheng qi he	100
+入聲八黠	ru sheng ba xia	100
+入聲九屑	ru sheng jiu xie	100
+入聲十藥	ru sheng shi yao	100
+入聲十一陌	ru sheng shi yi mo	100
+入聲十二錫	ru sheng shi er xi	100
+入聲十三職	ru sheng shi san zhi	100
+入聲十四緝	ru sheng shi si ji	100
+入聲十五合	ru sheng shi wu he	100
+入聲十六葉	ru sheng shi liu ye	100
+入聲十七洽	ru sheng shi qi qia	100
+上平一東	shang ping yi dong	100
+上平二冬	shang ping er dong	100
+上平三江	shang ping san jiang	100
+上平四支	shang ping si zhi	100
+上平五微	shang ping wu wei	100
+上平六魚	shang ping liu yu	100
+上平七虞	shang ping qi yu	100
+上平八齊	shang ping ba qi	100
+上平九佳	shang ping jiu jia	100
+上平十灰	shang ping shi hui	100
+上平十一真	shang ping shi yi zhen	100
+上平十二文	shang ping shi er wen	100
+上平十三元	shang ping shi san yuan	100
+上平十四寒	shang ping shi si han	100
+上平十五刪	shang ping shi wu shan	100
+下平一先	xia ping yi xian	100
+下平二蕭	xia ping er xiao	100
+下平三肴	xia ping san yao	100
+下平四豪	xia ping si hao	100
+下平五歌	xia ping wu ge	100
+下平六麻	xia ping liu ma	100
+下平七陽	xia ping qi yang	100
+下平八庚	xia ping ba geng	100
+下平九青	xia ping jiu qing	100
+下平十蒸	xia ping shi zheng	100
+下平十一尤	xia ping shi yi you	100
+下平十二侵	xia ping shi er qin	100
+下平十三覃	xia ping shi san tan	100
+下平十四鹽	xia ping shi si yan	100
+下平十五咸	xia ping shi wu xian	100
+上一董	shang yi dong	100
+上二腫	shang er zhong	100
+上三講	shang san jiang	100
+上四紙	shang si zhi	100
+上五尾	shang wu wei	100
+上六語	shang liu yu	100
+上七麌	shang qi yu	100
+上八薺	shang ba ji	100
+上九蟹	shang jiu xie	100
+上十賄	shang shi hui	100
+上十一軫	shang shi yi zhen	100
+上十二吻	shang shi er wen	100
+上十三阮	shang shi san ruan	100
+上十四旱	shang shi si han	100
+上十五潸	shang shi wu shan	100
+上十六銑	shang shi lian	100
+上十七筱	shang shi qi xiao	100
+上十八巧	shang shi ba qiao	100
+上十九皓	shang shi jiu hao	100
+上二十哿	shang er shi ge	100
+上二十一馬	shang er shi yi ma	100
+上二十二養	shang er shi er yang	100
+上二十三梗	shang er shi san geng	100
+上二十四迥	shang er shi si jiong	100
+上二十五有	shang er shi wu you	100
+上二十六寢	shang er shi lian qin	100
+上二十七感	shang er shi qi gan	100
+上二十八琰	shang er shi ba yan	100
+上二十九豏	shang er shi jiu xian	100
+去一送	qu yi song	100
+去二宋	qu er song	100
+去三絳	qu san jiang	100
+去四寘	qu si zhi	100
+去五未	qu wu wei	100
+去六禦	qu liu yu	100
+去七遇	qu qi yu	100
+去八霽	qu ba ji	100
+去九泰	qu jiu tai	100
+去十卦	qu shi gua	100
+去十一隊	qu shi yi dui	100
+去十二震	qu shi er zhen	100
+去十三問	qu shi san wen	100
+去十四願	qu shi si yuan	100
+去十五翰	qu shi wu han	100
+去十六諫	qu shi liu jian	100
+去十七霰	qu shi qi xian	100
+去十八嘯	qu shi ba xiao	100
+去十九效	qu shi jiu xiao	100
+去二十號	qu er shi hao	100
+去二十一個	qu er shi yi ge	100
+去二十二禡	qu er shi er ma	100
+去二十三漾	qu er shi san yang	100
+去二十四敬	qu er shi si jing	100
+去二十五徑	qu er shi wu jing	100
+去二十六宥	qu er shi liu you	100
+去二十七沁	qu er shi qi qin	100
+去二十八勘	qu er shi ba kan	100
+去二十九艷	qu er shi jiu yan	100
+去三十陷	qu san shi xian	100
+入一屋	ru yi wu	100
+入二沃	ru er wo	100
+入三覺	ru san jue	100
+入四質	ru si zhi	100
+入五物	ru wu wu	100
+入六月	ru liu yue	100
+入七曷	ru qi he	100
+入八黠	ru ba xia	100
+入九屑	ru jiu xie	100
+入十藥	ru shi yao	100
+入十一陌	ru shi yi mo	100
+入十二錫	ru shi er xi	100
+入十三職	ru shi san zhi	100
+入十四緝	ru shi si ji	100
+入十五合	ru shi wu he	100
+入十六葉	ru shi liu ye	100
+入十七洽	ru shi qi qia	100
+一東	yi dong	100
+二冬	er dong	100
+三江	san jiang	100
+四支	si zhi	100
+五微	wu wei	100
+六魚	liu yu	100
+七虞	qi yu	100
+八齊	ba qi	100
+九佳	jiu jia	100
+十灰	shi hui	100
+十一真	shi yi zhen	100
+十二文	shi er wen	100
+十三元	shi san yuan	100
+十四寒	shi si han	100
+十五刪	shi wu shan	100
+一先	yi xian	100
+二蕭	er xiao	100
+三肴	san yao	100
+四豪	si hao	100
+五歌	wu ge	100
+六麻	liu ma	100
+七陽	qi yang	100
+八庚	ba geng	100
+九青	jiu qing	100
+十蒸	shi zheng	100
+十一尤	shi yi you	100
+十二侵	shi er qin	100
+十三覃	shi san tan	100
+十四鹽	shi si yan	100
+十五咸	shi wu xian	100
+一董	yi dong	100
+二腫	er zhong	100
+三講	san jiang	100
+四紙	si zhi	100
+五尾	wu wei	100
+六語	liu yu	100
+七麌	qi yu	100
+八薺	ba ji	100
+九蟹	jiu xie	100
+十賄	shi hui	100
+十一軫	shi yi zhen	100
+十二吻	shi er wen	100
+十三阮	shi san ruan	100
+十四旱	shi si han	100
+十五潸	shi wu shan	100
+十六銑	shi lian	100
+十七筱	shi qi xiao	100
+十八巧	shi ba qiao	100
+十九皓	shi jiu hao	100
+二十哿	er shi ge	100
+二十一馬	er shi yi ma	100
+二十二養	er shi er yang	100
+二十三梗	er shi san geng	100
+二十四迥	er shi si jiong	100
+二十五有	er shi wu you	100
+二十六寢	er shi lian qin	100
+二十七感	er shi qi gan	100
+二十八琰	er shi ba yan	100
+二十九豏	er shi jiu xian	100
+一送	yi song	100
+二宋	er song	100
+三絳	san jiang	100
+四寘	si zhi	100
+五未	wu wei	100
+六禦	liu yu	100
+七遇	qi yu	100
+八霽	ba ji	100
+九泰	jiu tai	100
+十卦	shi gua	100
+十一隊	shi yi dui	100
+十二震	shi er zhen	100
+十三問	shi san wen	100
+十四願	shi si yuan	100
+十五翰	shi wu han	100
+十六諫	shi liu jian	100
+十七霰	shi qi xian	100
+十八嘯	shi ba xiao	100
+十九效	shi jiu xiao	100
+二十號	er shi hao	100
+二十一個	er shi yi ge	100
+二十二禡	er shi er ma	100
+二十三漾	er shi san yang	100
+二十四敬	er shi si jing	100
+二十五徑	er shi wu jing	100
+二十六宥	er shi liu you	100
+二十七沁	er shi qi qin	100
+二十八勘	er shi ba kan	100
+二十九艷	er shi jiu yan	100
+三十陷	san shi xian	100
+一屋	yi wu	100
+二沃	er wo	100
+三覺	san jue	100
+四質	si zhi	100
+五物	wu wu	100
+六月	liu yue	100
+七曷	qi he	100
+八黠	ba xia	100
+九屑	jiu xie	100
+十藥	shi yao	100
+十一陌	shi yi mo	100
+十二錫	shi er xi	100
+十三職	shi san zhi	100
+十四緝	shi si ji	100
+十五合	shi wu he	100
+十六葉	shi liu ye	100
+十七洽	shi qi qia	100
+中華新韻	zhong hua xin yun	1000
+一麻	yi ma	10000000
+二波	er bo	10000000
+三皆	san jie	10000000
+四開	si kai	10000000
+五微	wu wei	10000000
+六豪	liu hao	10000000
+七尤	qi you	10000000
+八寒	ba han	10000000
+九文	jiu wen	10000000
+十唐	shi tang	10000000
+十一庚	shi yi geng	10000000
+十二齊	shi er qi	10000000
+十三支	shi san zhi	10000000
+十四姑	shi si gu	10000000
+中華通韻	zhong hua tong yun	1000
+
 㘅泥鷰	xian ni yan	100
 㠯保真乎	yi bao zhen hu	100
 㴉楊舟於會稽兮	ji yang zhou yu hui ji xi	100
@@ -129,7 +490,7 @@ sort: by_weight
 一槩而相量	yi gai er xiang liang	100
 一樹碧無情	yi shu bi wu qing	100
 一樽竟藉青苔臥	yi zun jing ji qing tai wo	100
-一樽聊爲晚涼開	yi zun liao wei wan liang kai	100
+一樽聊為晚涼開	yi zun liao wei wan liang kai	100
 一歲一枯榮	yi sui yi ku rong	100
 一段新愁	yi duan xin chou	100
 一水護田將綠繞	yi shui hu tian jiang lv rao	100
@@ -144,8 +505,8 @@ sort: by_weight
 一滴何曾到九泉	yi di he zeng dao jiu quan	100
 一炷後庭香裊	yi zhu hou ting xiang niao	100
 一爐龍麝錦帷旁	yi lu long she jin wei pang	100
-一爲取龍城	yi wei qu long cheng	100
-一爲遷客去長沙	yi wei qian ke qu zhang sha	100
+一為取龍城	yi wei qu long cheng	100
+一為遷客去長沙	yi wei qian ke qu zhang sha	100
 一牀絃索	yi chuang xian suo	100
 一片冰心在玉壺	yi pian bing xin zai yu hu	100
 一片孤城萬仞山	yi pian gu cheng wan ren shan	100
@@ -299,7 +660,7 @@ sort: by_weight
 三月正當三十日	san yue zheng dang san shi ri	100
 三月殘花落更開	san yue can hua luo geng kai	100
 三朝出入榮	san chao chu ru rong	100
-三歲爲婦	san sui wei fu	100
+三歲為婦	san sui wei fu	100
 三歲貫女	san sui guan nv	100
 三歲食貧	san sui shi pin	100
 三清攜手路非遙	san qing xie shou lu fei yao	100
@@ -471,7 +832,7 @@ sort: by_weight
 不可束也	bu ke shu ye	100
 不可求思	bu ke qiu si	100
 不可泳思	bu ke yong si	100
-不可爲也	bu ke wei ye	100
+不可為也	bu ke wei ye	100
 不可獲而復登	bu ke huo er fu deng	100
 不可畏也	bu ke wei ye	100
 不可與明	bu ke yu ming	100
@@ -562,7 +923,7 @@ sort: by_weight
 不忍別君後	bu ren bie jun hou	100
 不忍把伊書跡	bu ren ba yi shu ji	100
 不忍更思惟	bu ren geng si wei	100
-不忍爲此之常愁	bu ren wei ci zhi chang chou	100
+不忍為此之常愁	bu ren wei ci zhi chang chou	100
 不忍登高臨遠	bu ren deng gao lin yuan	100
 不忍見君之蔽壅	bu ren jian jun zhi bi yong	100
 不忮不求	bu zhi bu qiu	100
@@ -642,7 +1003,7 @@ sort: by_weight
 不歸	bu gui	100
 不歸家	bu gui jia	100
 不死何俟	bu si he qi	100
-不死何爲	bu si he wei	100
+不死何為	bu si he wei	100
 不殄心憂	bu tian xin you	100
 不殄禋祀	bu tian yin si	100
 不求友生	bu qiu you sheng	100
@@ -657,8 +1018,8 @@ sort: by_weight
 不濡其翼	bu ru qi yi	100
 不烖我躬	bu zai wo gong	100
 不照人圓	bu zhao ren yuan	100
-不爲虐兮	bu wei nve xi	100
-不爲遠山凝翠黛	bu wei yuan shan ning cui dai	100
+不為虐兮	bu wei nve xi	100
+不為遠山凝翠黛	bu wei yuan shan ning cui dai	100
 不狩不獵	bu shou bu lie	100
 不獲世之塵垢	bu huo shi zhi chen gou	100
 不瑕有害	bu xia you hai	100
@@ -741,7 +1102,7 @@ sort: by_weight
 不臧覆用	bu zang fu yong	100
 不自我先	bu zi wo xian	100
 不自我後	bu zi wo hou	100
-不自爲政	bu zi wei zheng	100
+不自為政	bu zi wei zheng	100
 不自著羅衣	bu zi zhu luo yi	100
 不致寒暄	bu zhi han xuan	100
 不與人期	bu yu ren qi	100
@@ -847,7 +1208,7 @@ sort: by_weight
 且放白鹿青崖間	qie fang bai lu qing ya jian	100
 且樂生前一杯酒	qie le sheng qian yi bei jiu	100
 且欲近尋彭澤宰	qie yu jin xun peng ze zai	100
-且爲王孫立斯須	qie wei wang sun li si xu	100
+且為王孫立斯須	qie wei wang sun li si xu	100
 且留取	qie liu qu	100
 且登臨	qie deng lin	100
 且看欲盡花經眼	qie kan yu jin hua jing yan	100
@@ -873,7 +1234,7 @@ sort: by_weight
 世俗更而變化兮	shi su geng er bian hua xi	100
 世執其功	shi zhi qi gong	100
 世孰云而知之	shi shu yun er zhi zhi	100
-世孰可爲明之	shi shu ke wei ming zhi	100
+世孰可為明之	shi shu ke wei ming zhi	100
 世幽昧以昡曜兮	shi you mei yi xuan yao xi	100
 世從俗而變化兮	shi cong su er bian hua xi	100
 世德作求	shi de zuo qiu	100
@@ -899,7 +1260,7 @@ sort: by_weight
 丘中有李	qiu zhong you li	100
 丘中有麥	qiu zhong you mai	100
 丘中有麻	qiu zhong you ma	100
-丘爲	qiu wei	100
+丘為	qiu wei	100
 丘陵翔儛兮	qiu ling xiang wu xi	100
 丞相祠堂何處尋	cheng xiang ci tang he chu xun	100
 並光明於列星	bing guang ming yu lie xing	100
@@ -907,7 +1268,7 @@ sort: by_weight
 並坐鼓瑟	bing zuo gu se	100
 並坐鼓簧	bing zuo gu huang	100
 並日夜而無正	bing ri ye er wu zheng	100
-並紉茅絲以爲索	bing ren mao si yi wei suo	100
+並紉茅絲以為索	bing ren mao si yi wei suo	100
 並驅從兩牡兮	bing qu cong liang mu xi	100
 並驅從兩狼兮	bing qu cong liang lang xi	100
 並驅從兩肩兮	bing qu cong liang jian xi	100
@@ -964,7 +1325,7 @@ sort: by_weight
 丹鳳城南秋夜長	dan feng cheng nan qiu ye zhang	100
 主人下馬客在船	zhu ren xia ma ke zai chuan	100
 主人不相識	zhu ren bu xiang shi	100
-主人何爲言少錢	zhu ren he wei yan shao qian	100
+主人何為言少錢	zhu ren he wei yan shao qian	100
 主人忘歸客不發	zhu ren wang gui ke bu fa	100
 主人有酒歡今夕	zhu ren you jiu huan jin xi	100
 主此盛德兮	zhu ci sheng de xi	100
@@ -999,7 +1360,7 @@ sort: by_weight
 久余是勝	jiu yu shi sheng	100
 久作天涯客	jiu zuo tian ya ke	100
 久斑兩鬢如霜雪	jiu ban liang bin ru shuang xue	100
-久爲簪組束	jiu wei zan zu shu	100
+久為簪組束	jiu wei zan zu shu	100
 久絕邊庭信	jiu jue bian ting xin	100
 之子不猶	zhi zi bu you	100
 之子之遠	zhi zi zhi yuan	100
@@ -1184,7 +1545,7 @@ sort: by_weight
 予其懲	yu qi cheng	100
 予其懲而毖後患	yu qi cheng er bi hou huan	100
 予又改作兮	yu you gai zuo xi	100
-予又改爲兮	yu you gai wei xi	100
+予又改為兮	yu you gai wei xi	100
 予又改造兮	yu you gai zao xi	100
 予又集于蓼	yu you ji yu liao	100
 予口卒瘏	yu kou zu tu	100
@@ -1336,7 +1697,7 @@ sort: by_weight
 五子用失乎家巷	wu zi yong shi hu jia xiang	100
 五嶽尋仙不辭遠	wu yue xun xian bu ci yuan	100
 五嶽祭秩皆三公	wu yue ji zhi jie san gong	100
-五日爲期	wu ri wei qi	100
+五日為期	wu ri wei qi	100
 五更疏欲斷	wu geng shu yu duan	100
 五更鼓角聲悲壯	wu geng gu jiao sheng bei zhuang	100
 五月不可觸	wu yue bu ke chu	100
@@ -1385,7 +1746,7 @@ sort: by_weight
 交枝相映	jiao zhi xiang ying	100
 交枝紅杏籠煙泣	jiao zhi hong xing long yan qi	100
 交淡媒勞	jiao dan mei lao	100
-交相爲瘉	jiao xiang wei yu	100
+交相為瘉	jiao xiang wei yu	100
 交韔二弓	jiao chang er gong	100
 亦不夷懌	yi bu yi yi	100
 亦不女從	yi bu nv cong	100
@@ -1477,7 +1838,7 @@ sort: by_weight
 人之好我	ren zhi hao wo	100
 人之心不與吾心同	ren zhi xin bu yu wu xin tong	100
 人之無良	ren zhi wu liang	100
-人之爲言	ren zhi wei yan	100
+人之為言	ren zhi wei yan	100
 人之齊聖	ren zhi qi sheng	100
 人乞祭餘驕妾婦	ren qi ji yu jiao qie fu	100
 人事有代謝	ren shi you dai xie	100
@@ -1603,12 +1964,12 @@ sort: by_weight
 今來典斯郡	jin lai dian si jun	100
 今修飾而窺鏡兮	jin xiu shi er kui jing xi	100
 今其集兮惟鴞	jin qi ji xi wei xiao	100
-今反表以爲裏兮	jin fan biao yi wei li xi	100
+今反表以為裏兮	jin fan biao yi wei li xi	100
 今夕何夕	jin xi he xi	100
 今夕到湘中	jin xi dao xiang zhong	100
 今夕復何夕	jin xi fu he xi	100
 今夕是何年	jin xi shi he nian	100
-今夕爲何夕	jin xi wei he xi	100
+今夕為何夕	jin xi wei he xi	100
 今夜仙郎自姓和	jin ye xian lang zi xing he	100
 今夜偏知春氣暖	jin ye pian zhi chun qi nuan	100
 今夜山深處	jin ye shan shen chu	100
@@ -1646,14 +2007,14 @@ sort: by_weight
 今日龍鍾人共老	jin ri long zhong ren gong lao	100
 今春不減前春恨	jin chun bu jian qian chun hen	100
 今朝幾個來	jin zhao ji ge lai	100
-今朝爲此別	jin zhao wei ci bie	100
+今朝為此別	jin zhao wei ci bie	100
 今朝蟢子飛	jin zhao xi zi fei	100
 今朝郡齋冷	jin zhao jun zhai leng	100
 今朝都到眼前來	jin zhao dou dao yan qian lai	100
 今此下民	jin ci xia min	100
 今無其器存其辭	jin wu qi qi cun qi ci	100
-今爲羌笛出塞聲	jin wei qiang di chu sai sheng	100
-今直爲此蕭艾也	jin zhi wei ci xiao ai ye	100
+今為羌笛出塞聲	jin wei qiang di chu sai sheng	100
+今直為此蕭艾也	jin zhi wei ci xiao ai ye	100
 今看兩楹奠	jin kan liang ying dian	100
 今者不樂	jin zhe bu le	100
 今茲之正	jin zi zhi zheng	100
@@ -1723,7 +2084,7 @@ sort: by_weight
 令纔拋後愛微嚬	ling cai pao hou ai wei pin	100
 令聞不已	ling wen bu yi	100
 令聞令望	ling wen ling wang	100
-令薜荔以爲理兮	ling bi li yi wei li xi	100
+令薜荔以為理兮	ling bi li yi wei li xi	100
 令飄風兮先驅	ling piao feng xi xian qu	100
 以事一人	yi shi yi ren	100
 以事婦人乎	yi shi fu ren hu	100
@@ -1750,7 +2111,7 @@ sort: by_weight
 以其介圭	yi qi jie gui	100
 以其婦子	yi qi fu zi	100
 以其騂黑	yi qi xing hei	100
-以其骨爲醢些	yi qi gu wei hai xie	100
+以其骨為醢些	yi qi gu wei hai xie	100
 以力耕乎	yi li geng hu	100
 以動作只	yi dong zuo zhi	100
 以勖寡人	yi xu gua ren	100
@@ -1806,15 +2167,15 @@ sort: by_weight
 以燕天子	yi yan tian zi	100
 以燕樂嘉賓之心	yi yan le jia bin zhi xin	100
 以燕翼子	yi yan yi zi	100
-以爲君獨服此蕙兮	yi wei jun du fu ci hui xi	100
-以爲封禪玉檢明堂基	yi wei feng chan yu jian ming tang ji	100
-以爲民逑	yi wei min qiu	100
-以爲王休	yi wei wang xiu	100
-以爲酒食	yi wei jiu shi	100
+以為君獨服此蕙兮	yi wei jun du fu ci hui xi	100
+以為封禪玉檢明堂基	yi wei feng chan yu jian ming tang ji	100
+以為民逑	yi wei min qiu	100
+以為王休	yi wei wang xiu	100
+以為酒食	yi wei jiu shi	100
 以爾車來	yi er che lai	100
 以爾鉤援	yi er gou yuan	100
 以畜萬邦	yi chu wan bang	100
-以直鍼而爲釣兮	yi zhi zhen er wei diao xi	100
+以直鍼而為釣兮	yi zhi zhen er wei diao xi	100
 以矢其音	yi shi qi yin	100
 以社以方	yi she yi fang	100
 以祈爾爵	yi qi er jue	100
@@ -1904,7 +2265,7 @@ sort: by_weight
 伊思兮往古	yi si xi wang gu	100
 伊我后兮不聰	yi wo hou xi bu cong	100
 伊皐之倫以充廬	yi gao zhi lun yi chong lu	100
-伊胡爲慝	yi hu wei te	100
+伊胡為慝	yi hu wei te	100
 伊誰云從	yi shui yun cong	100
 伊誰云憎	yi shui yun zeng	100
 伍子逢殃兮	wu zi feng yang xi	100
@@ -2033,7 +2394,7 @@ sort: by_weight
 但見羣鷗日日來	dan jian qun ou ri ri lai	100
 但覺新來懶上樓	dan jue xin lai lan shang lou	100
 但逢佳節約重陪	dan feng jia jie yue zhong pei	100
-但道困苦乞爲奴	dan dao kun ku qi wei nu	100
+但道困苦乞為奴	dan dao kun ku qi wei nu	100
 但願人長久	dan yuan ren zhang jiu	100
 但願長醉不復醒	dan yuan zhang zui bu fu xing	100
 但願長醉不願醒	dan yuan zhang zui bu yuan xing	100
@@ -2198,14 +2559,14 @@ sort: by_weight
 何氣通焉	he qi tong yan	100
 何氾濫之浮雲兮	he fan lan zhi fu yun xi	100
 何求於嫂	he qiu yu sao	100
-何求爲我	he qiu wei wo	100
+何求為我	he qiu wei wo	100
 何求美人折	he qiu mei ren zhe	100
 何況一國之事兮	he kuang yi guo zhi shi xi	100
 何況江頭路	he kuang jiang tou lu	100
 何況落紅無數	he kuang luo hong wu shu	100
 何滿子	he man zi	100
 何瀆神	he du shen	100
-何爲四方些	he wei si fang xie	100
+何為四方些	he wei si fang xie	100
 何獸能言	he shou neng yan	100
 何獻蒸肉之膏	he xian zheng rou zhi gao	100
 何環穿自閭社丘陵	he huan chuan zi lv she qiu ling	100
@@ -2274,7 +2635,7 @@ sort: by_weight
 何試上自予	he shi shang zi yu	100
 何誕之節兮	he dan zhi jie xi	100
 何變化以作詐	he bian hua yi zuo zha	100
-何變易之可爲	he bian yi zhi ke wei	100
+何變易之可為	he bian yi zhi ke wei	100
 何貞臣之無辠兮	he zhen chen zhi wu zui xi	100
 何踐吾期	he jian wu qi	100
 何辜于天	he gu yu tian	100
@@ -2282,7 +2643,7 @@ sort: by_weight
 何逢長之	he feng zhang zhi	100
 何道取之	he dao qu zhi	100
 何遜而今漸老	he xun er jin jian lao	100
-何遠爲些	he yuan wei xie	100
+何遠為些	he yuan wei xie	100
 何錫予之	he xi yu zhi	100
 何開而明	he kai er ming	100
 何闔而晦	he he er hui	100
@@ -2296,15 +2657,15 @@ sort: by_weight
 何顛易厥首	he dian yi jue shou	100
 何馮弓挾矢	he feng gong xie shi	100
 何騷騷而自故	he sao sao er zi gu	100
-余不忍爲此態也	yu bu ren wei ci tai ye	100
+余不忍為此態也	yu bu ren wei ci tai ye	100
 余亦乘舟歸鹿門	yu yi cheng zhou gui lu men	100
 余亦能高詠	yu yi neng gao yong	100
 余亦謝時去	yu yi xie shi qu	100
-余以蘭爲可恃兮	yu yi lan wei ke shi xi	100
+余以蘭為可恃兮	yu yi lan wei ke shi xi	100
 余何畏懼兮	yu he wei ju xi	100
 余何留兮中州	yu he liu xi zhong zhou	100
 余因稱乎清商	yu yin cheng hu qing shang	100
-余固知謇謇之爲患兮	yu gu zhi jian jian zhi wei huan xi	100
+余固知謇謇之為患兮	yu gu zhi jian jian zhi wei huan xi	100
 余安能兮久居	yu an neng xi jiu ju	100
 余將焉所程	yu jiang yan suo cheng	100
 余將董道而不豫兮	yu jiang dong dao er bu yu xi	100
@@ -2322,7 +2683,7 @@ sort: by_weight
 余深愍兮慘怛	yu shen min xi can da	100
 余焉能忍與此終古	yu yan neng ren yu ci zhong gu	100
 余猶惡其佻巧	yu you e qi tiao qiao	100
-余獨好脩以爲常	yu du hao xiu yi wei chang	100
+余獨好脩以為常	yu du hao xiu yi wei chang	100
 余生終無所依	yu sheng zhong wu suo yi	100
 余眷眷兮獨悲	yu juan juan xi du bei	100
 余私娛茲兮	yu si yu zi xi	100
@@ -2339,8 +2700,8 @@ sort: by_weight
 作召公考	zuo zhao gong kao	100
 作廟翼翼	zuo miao yi yi	100
 作此好歌	zuo ci hao ge	100
-作爲式穀	zuo wei shi gu	100
-作爲此詩	zuo wei ci shi	100
+作為式穀	zuo wei shi gu	100
+作為此詩	zuo wei ci shi	100
 作箇歸期天定許	zuo ge gui qi tian ding xu	100
 作豐伊匹	zuo feng yi pi	100
 作邑于豐	zuo yi yu feng	100
@@ -2387,7 +2748,7 @@ sort: by_weight
 使不挾四方	shi bu xie si fang	100
 使人聽此凋朱顏	shi ren ting ci diao zhu yan	100
 使君壽考	shi jun shou kao	100
-使夫百草爲之不芳	shi fu bai cao wei zhi bu fang	100
+使夫百草為之不芳	shi fu bai cao wei zhi bu fang	100
 使我三軍淚如雨	shi wo san jun lei ru yu	100
 使我不得開心顏	shi wo bu de kai xin yan	100
 使我不能息兮	shi wo bu neng xi xi	100
@@ -2402,10 +2763,10 @@ sort: by_weight
 使祝融兮先行	shi zhu rong xi xian xing	100
 使素女兮鼓簧	shi su nv xi gu huang	100
 使臣將王命	shi chen jiang wang ming	100
-使芳草爲藪幽	shi fang cao wei sou you	100
+使芳草為藪幽	shi fang cao wei sou you	100
 使行人到此	shi xing ren dao ci	100
 使讒諛而日得	shi chan yu er ri de	100
-使貞臣爲無由	shi zhen chen wei wu you	100
+使貞臣為無由	shi zhen chen wei wu you	100
 使麒麟可得羈而係兮	shi qi lin ke de ji er xi xi	100
 來假來饗	lai jia lai xiang	100
 來假祁祁	lai jia qi qi	100
@@ -2629,7 +2990,7 @@ sort: by_weight
 倉兄填兮	cang xiong tian xi	100
 倉庚于飛	cang geng yu fei	100
 倉庚喈喈	cang geng jie jie	100
-倒上以爲下	dao shang yi wei xia	100
+倒上以為下	dao shang yi wei xia	100
 倒之顛之	dao zhi dian zhi	100
 倒壓波痕清淺	dao ya bo hen qing qian	100
 倒瀉半湖明月	dao xie ban hu ming yue	100
@@ -2739,7 +3100,7 @@ sort: by_weight
 側身西望長咨嗟	ce shen xi wang zhang zi jie	100
 偶似山林客	ou shi shan lin ke	100
 偶來松樹下	ou lai song shu xia	100
-偶坐爲林泉	ou zuo wei lin quan	100
+偶坐為林泉	ou zuo wei lin quan	100
 偶成	ou cheng	100
 偶然值林叟	ou ran zhi lin sou	100
 偶逢佳士亦寫真	ou feng jia shi yi xie zhen	100
@@ -2760,7 +3121,7 @@ sort: by_weight
 傍海棠偏愛	bang hai tang pian ai	100
 傍花隨柳過前川	bang hua sui liu guo qian chuan	100
 傍鄰聞者多歎息	bang lin wen zhe duo tan xi	100
-備以爲交佩	bei yi wei jiao pei	100
+備以為交佩	bei yi wei jiao pei	100
 備言燕私	bei yan yan si	100
 催促年光	cui cu nian guang	100
 催發寒梢凍蕊	cui fa han shao dong rui	100
@@ -3212,7 +3573,7 @@ sort: by_weight
 其流湯湯	qi liu tang tang	100
 其湛曰樂	qi zhan yue le	100
 其灌其栵	qi guan qi lie	100
-其爲飄風	qi wei piao feng	100
+其為飄風	qi wei piao feng	100
 其甘如薺	qi gan ru ji	100
 其直如矢	qi zhi ru shi	100
 其祁孔有	qi qi kong you	100
@@ -3444,7 +3805,7 @@ sort: by_weight
 分野中峯變	fen ye zhong feng bian	100
 切淟涊之流俗	qie tian nian zhi liu su	100
 刑于寡妻	xing yu gua qi	100
-刓方以爲圜兮	wan fang yi wei huan xi	100
+刓方以為圜兮	wan fang yi wei huan xi	100
 列子隱身而窮處兮	lie zi yin shen er qiong chu xi	100
 列新夷與椒楨	lie xin yi yu jiao zhen	100
 列星安陳	lie xing an chen	100
@@ -3467,7 +3828,7 @@ sort: by_weight
 初日郢門山	chu ri ying men shan	100
 初春小雨	chu chun xiao yu	100
 初湯臣摯	chu tang chen zhi	100
-初爲霓裳後六幺	chu wei ni chang hou liu yao	100
+初為霓裳後六幺	chu wei ni chang hou liu yao	100
 初發揚子寄元大校書	chu fa yang zi ji yuan da xiao shu	100
 初相見	chu xiang jian	100
 初聞征雁已無蟬	chu wen zheng yan yi wu chan	100
@@ -3475,7 +3836,7 @@ sort: by_weight
 初若是而逢殆	chu ruo shi er feng dai	100
 初識謝娘時	chu shi xie niang shi	100
 判司卑官不堪說	pan si bei guan bu kan shuo	100
-判死爲紅顏	pan si wei hong yan	100
+判死為紅顏	pan si wei hong yan	100
 判獨離而不服	pan du li er bu fu	100
 別來不寄一行書	bie lai bu ji yi xing shu	100
 別來久	bie lai jiu	100
@@ -3681,7 +4042,7 @@ sort: by_weight
 勾引東風	gou yin dong feng	100
 勿予禍適	wu yu huo shi	100
 勿以吹簫伴	wu yi chui xiao ban	100
-勿以爲笑	wu yi wei xiao	100
+勿以為笑	wu yi wei xiao	100
 勿士行枚	wu shi xing mei	100
 勿替引之	wu ti yin zhi	100
 勿罔君子	wu wang jun zi	100
@@ -3701,7 +4062,7 @@ sort: by_weight
 化作斷魂心字	hua zuo duan hun xin zi	100
 化作此花幽獨	hua zuo ci hua you du	100
 化作相思淚	hua zuo xiang si lei	100
-化爲狼與豺	hua wei lang yu chai	100
+化為狼與豺	hua wei lang yu chai	100
 化鶴歸來	hua he gui lai	100
 北土非吾願	bei tu fei wu yuan	100
 北山	bei shan	100
@@ -3716,7 +4077,7 @@ sort: by_weight
 北斗七星高	bei dou qi xing gao	100
 北斗兼春遠	bei dou jian chun yuan	100
 北斗掛城邊	bei dou gua cheng bian	100
-北斗爲我折中兮	bei dou wei wo zhe zhong xi	100
+北斗為我折中兮	bei dou wei wo zhe zhong xi	100
 北斗闌干南斗斜	bei dou lan gan nan dou xie	100
 北方不可以止些	bei fang bu ke yi zhi xie	100
 北有中天百尺臺	bei you zhong tian bai chi tai	100
@@ -3752,7 +4113,7 @@ sort: by_weight
 匪其止共	fei qi zhi gong	100
 匪報也	fei bao ye	100
 匪大猶是經	fei da you shi jing	100
-匪女之爲美	fei nv zhi wei mei	100
+匪女之為美	fei nv zhi wei mei	100
 匪媒不得	fei mei bu de	100
 匪安匪舒	fei an fei shu	100
 匪安匪遊	fei an fei you	100
@@ -3768,7 +4129,7 @@ sort: by_weight
 匪東方則明	fei dong fang ze ming	100
 匪棘其欲	fei ji qi yu	100
 匪用其良	fei yong qi liang	100
-匪用爲教	fei yong wei jiao	100
+匪用為教	fei yong wei jiao	100
 匪由勿語	fei you wu yu	100
 匪疚匪棘	fei jiu fei ji	100
 匪直也人	fei zhi ye ren	100
@@ -3808,7 +4169,7 @@ sort: by_weight
 十分端是載離愁	shi fen duan shi zai li chou	100
 十分衛郎清瘦	shi fen wei lang qing shou	100
 十千維耦	shi qian wei ou	100
-十四爲君婦	shi si wei jun fu	100
+十四為君婦	shi si wei jun fu	100
 十四萬衆猶虎貔	shi si wan zhong you hu pi	100
 十年一夢淒涼	shi nian yi meng qi liang	100
 十年一覺揚州夢	shi nian yi jue yang zhou meng	100
@@ -3896,7 +4257,7 @@ sort: by_weight
 千金縱買相如賦	qian jin zong mai xiang ru fu	100
 千金裘	qian jin qiu	100
 千金買光景	qian jin mai guang jing	100
-千鈞爲輕	qian jun wei qing	100
+千鈞為輕	qian jun wei qing	100
 千門萬戶曈曈日	qian men wan hu tong tong ri	100
 千霜萬雪	qian shuang wan xue	100
 千點淚	qian dian lei	100
@@ -3979,7 +4340,7 @@ sort: by_weight
 南山尚相送	nan shan shang xiang song	100
 南山崔崔	nan shan cui cui	100
 南山律律	nan shan lv lv	100
-南山截竹爲觱栗	nan shan jie zhu wei bi li	100
+南山截竹為觱栗	nan shan jie zhu wei bi li	100
 南山有杞	nan shan you qi	100
 南山有枸	nan shan you gou	100
 南山有栲	nan shan you kao	100
@@ -4129,7 +4490,7 @@ sort: by_weight
 厭厭睡起	yan yan shui qi	100
 厭厭良人	yan yan liang ren	100
 厭浥行露	yan yi xing lu	100
-厭白玉以爲面兮	yan bai yu yi wei mian xi	100
+厭白玉以為面兮	yan bai yu yi wei mian xi	100
 厭鶯聲到枕	yan ying sheng dao zhen	100
 厲而不爽些	li er bu shuang xie	100
 厹矛鋈錞	rou mao wu chun	100
@@ -4182,8 +4543,8 @@ sort: by_weight
 又不道	you bu dao	100
 又中秋	you zhong qiu	100
 又何予之	you he yu zhi	100
-又何以爲此伴也	you he yi wei ci ban ye	100
-又何以爲此援也	you he yi wei ci yuan ye	100
+又何以為此伴也	you he yi wei ci ban ye	100
+又何以為此援也	you he yi wei ci yuan ye	100
 又何以異虖犬羊	you he yi yi hu quan yang	100
 又何可以淹留	you he ke yi yan liu	100
 又何必用夫行媒	you he bi yong fu xing mei	100
@@ -4283,16 +4644,16 @@ sort: by_weight
 及茲契幽絕	ji zi qi you jue	100
 及行迷之未遠	ji xing mi zhi wei yuan	100
 反予來赫	fan yu lai he	100
-反以我爲讎	fan yi wo wei chou	100
-反以茲爲腐也	fan yi zi wei fu ye	100
+反以我為讎	fan yi wo wei chou	100
+反以茲為腐也	fan yi zi wei fu ye	100
 反信讒而齌怒	fan xin chan er ji nu	100
 反成乃亡	fan cheng nai wang	100
 反故居些	fan gu ju xie	100
 反既有此他志	fan ji you ci ta zhi	100
 反是不思	fan shi bu si	100
 反是生女好	fan shi sheng nv hao	100
-反爲小人之所賊	fan wei xiao ren zhi suo zei	100
-反爲讐而見怨	fan wei chou er jian yuan	100
+反為小人之所賊	fan wei xiao ren zhi suo zei	100
+反為讐而見怨	fan wei chou er jian yuan	100
 反蒙辜而被疑	fan meng gu er bei yi	100
 反離羣而贅肬	fan li qun er zhui you	100
 反離謗而見攘	fan li bang er jian rang	100
@@ -4355,7 +4716,7 @@ sort: by_weight
 古今如夢	gu jin ru meng	100
 古今愁	gu jin chou	100
 古來征戰幾人回	gu lai zheng zhan ji ren hui	100
-古來材大難爲用	gu lai cai da nan wei yong	100
+古來材大難為用	gu lai cai da nan wei yong	100
 古來白骨無人收	gu lai bai gu wu ren shou	100
 古來聖賢皆寂寞	gu lai sheng xian jie ji mo	100
 古來萬事東流水	gu lai wan shi dong liu shui	100
@@ -4421,7 +4782,7 @@ sort: by_weight
 只有春知處	zhi you chun zhi chu	100
 只有相思無盡處	zhi you xiang si wu jin chu	100
 只有香如故	zhi you xiang ru gu	100
-只爲相思老	zhi wei xiang si lao	100
+只為相思老	zhi wei xiang si lao	100
 只疑雲霧窟	zhi yi yun wu ku	100
 只等送歸船	zhi deng song gui chuan	100
 只與蠻牋象管	zhi yu man jian xiang guan	100
@@ -4461,7 +4822,7 @@ sort: by_weight
 可以濯吾足	ke yi zhuo wu zu	100
 可以濯溉	ke yi zhuo gai	100
 可以濯罍	ke yi zhuo lei	100
-可以爲錯	ke yi wei cuo	100
+可以為錯	ke yi wei cuo	100
 可以縫裳	ke yi feng chang	100
 可以薦嘉客	ke yi jian jia ke	100
 可以餴饎	ke yi fen chi	100
@@ -4510,7 +4871,7 @@ sort: by_weight
 右睹兮呼梟	you du xi hu xiao	100
 右蒼龍之躣躣	you cang long zhi qu qu	100
 右衽拂於不周兮	you ren fu yu bu zhou xi	100
-右雷公以爲衛	you lei gong yi wei wei	100
+右雷公以為衛	you lei gong yi wei wei	100
 叵耐無端處	po nai wu duan chu	100
 司空曙	si kong shu	100
 司馬光	si ma guang	100
@@ -4533,7 +4894,7 @@ sort: by_weight
 吉日維戊	ji ri wei wu	100
 吉甫作誦	ji fu zuo song	100
 吉甫燕喜	ji fu yan xi	100
-吉蠲爲饎	ji juan wei chi	100
+吉蠲為饎	ji juan wei chi	100
 同伴	tong ban	100
 同來玩月人何在	tong lai wan yue ren he zai	100
 同學少年多不賤	tong xue shao nian duo bu jian	100
@@ -4767,7 +5128,7 @@ sort: by_weight
 吳酸蒿蔞	wu suan hao lou	100
 吳醴白櫱	wu li bai nie	100
 吳館巢荒	wu guan chao huang	100
-吳鴻好爲傳歸信	wu hong hao wei chuan gui xin	100
+吳鴻好為傳歸信	wu hong hao wei chuan gui xin	100
 吸沆瀣以充虛	xi hang xie yi chong xu	100
 吸湛露之浮源兮	xi zhan lu zhi fu yuan xi	100
 吸精粹而吐氛濁兮	xi jing cui er tu fen zhuo xi	100
@@ -4801,9 +5162,9 @@ sort: by_weight
 吾令帝閽開關兮	wu ling di hun kai guan xi	100
 吾令義和弭節兮	wu ling yi he mi jie xi	100
 吾令豐隆椉雲兮	wu ling feng long cheng yun xi	100
-吾令蹇脩以爲理	wu ling jian xiu yi wei li	100
+吾令蹇脩以為理	wu ling jian xiu yi wei li	100
 吾令鳳鳥飛騰兮	wu ling feng niao fei teng xi	100
-吾令鴆爲媒兮	wu ling zhen wei mei xi	100
+吾令鴆為媒兮	wu ling zhen wei mei xi	100
 吾使厲神占之兮	wu shi li shen zhan zhi xi	100
 吾又何怨乎今之人	wu you he yuan hu jin zhi ren	100
 吾告堵敖以不長	wu gao du ao yi bu zhang	100
@@ -4813,7 +5174,7 @@ sort: by_weight
 吾寧悃悃款款	wu ning kun kun kuan kuan	100
 吾寧愛與憎	wu ning ai yu zeng	100
 吾將上下而求索	wu jiang shang xia er qiu suo	100
-吾將以爲類兮	wu jiang yi wei lei xi	100
+吾將以為類兮	wu jiang yi wei lei xi	100
 吾將往乎南疑	wu jiang wang hu nan yi	100
 吾將從彭咸之所居	wu jiang cong peng xian zhi suo ju	100
 吾將從王喬而娛戲	wu jiang cong wang qiao er yu xi	100
@@ -4913,7 +5274,7 @@ sort: by_weight
 命有殷國	ming you yin guo	100
 命此文王	ming ci wen wang	100
 命程伯休父	ming cheng bo xiu fu	100
-命靈氛爲余占之	ming ling fen wei yu zhan zhi	100
+命靈氛為余占之	ming ling fen wei yu zhan zhi	100
 咂花心	za hua xin	100
 咋夜雨霏霏	za ye yu fei fei	100
 和凝	he ning	100
@@ -4965,7 +5326,7 @@ sort: by_weight
 哀哀父母	ai ai fu mu	100
 哀哉不能言	ai zai bu neng yan	100
 哀哉兮淈淈	ai zai xi gu gu	100
-哀哉爲猶	ai zai wei you	100
+哀哉為猶	ai zai wei you	100
 哀哉王孫慎勿疏	ai zai wang sun shen wu shu	100
 哀子胥之慎事	ai zi xu zhi shen shi	100
 哀居者之誠貞	ai ju zhe zhi cheng zhen	100
@@ -5066,7 +5427,7 @@ sort: by_weight
 問大微之所居	wen da wei zhi suo ju	100
 問天道之所在	wen tian dao zhi suo zai	100
 問姓驚初見	wen xing jing chu jian	100
-問客何爲來	wen ke he wei lai	100
+問客何為來	wen ke he wei lai	100
 問怎生禁得	wen zen sheng jin de	100
 問我來何方	wen wo lai he fang	100
 問我諸姑	wen wo zhu gu	100
@@ -5170,7 +5531,7 @@ sort: by_weight
 嗟爾朋友	jie er peng you	100
 嗟爾遠道之人	jie er yuan dao zhi ren	100
 嗟舊日沈腰	jie jiu ri shen yao	100
-嗟英俊兮未爲雙	jie ying jun xi wei wei shuang	100
+嗟英俊兮未為雙	jie ying jun xi wei wei shuang	100
 嗟萬事難忘	jie wan shi nan wang	100
 嗟行之人	jie xing zhi ren	100
 嗣武受之	si wu shou zhi	100
@@ -5181,7 +5542,7 @@ sort: by_weight
 嘈嘈切切錯雜彈	cao cao qie qie cuo za dan	100
 嘈嘈虛枕納溪聲	cao cao xu zhen na xi sheng	100
 嘉南州之炎德兮	jia nan zhou zhi yan de xi	100
-嘉己行兮無爲	jia ji xing xi wu wei	100
+嘉己行兮無為	jia ji xing xi wu wei	100
 嘉我未老	jia wo wei lao	100
 嘉殽脾臄	jia xiao pi jue	100
 嘉皇既歿終不返兮	jia huang ji mo zhong bu fan xi	100
@@ -5194,9 +5555,9 @@ sort: by_weight
 嘉賓復滿堂	jia bin fu man tang	100
 嘒嘒管聲	hui hui guan sheng	100
 嘒彼小星	hui bi xiao xing	100
-嘔啞嘲哳難爲聽	ou ya zhao zha nan wei ting	100
+嘔啞嘲哳難為聽	ou ya zhao zha nan wei ting	100
 嘗其旨否	chang qi zhi fou	100
-嘗與鴛鴦爲侶	chang yu yuan yang wei lv	100
+嘗與鴛鴦為侶	chang yu yuan yang wei lv	100
 嘗被君之厚德	chang bei jun zhi hou de	100
 嘗被君之渥洽	chang bei jun zhi wo qia	100
 嘯歌傷懷	xiao ge shang huai	100
@@ -5261,8 +5622,8 @@ sort: by_weight
 四方是維	si fang shi wei	100
 四方有羨	si fang you xian	100
 四方爰發	si fang yuan fa	100
-四方爲則	si fang wei ze	100
-四方爲綱	si fang wei gang	100
+四方為則	si fang wei ze	100
+四方為綱	si fang wei gang	100
 四方環鎮嵩當中	si fang huan zhen song dang zhong	100
 四時佳興與人同	si shi jia xing yu ren tong	100
 四時遞來而卒歲兮	si shi di lai er zu sui xi	100
@@ -5344,7 +5705,7 @@ sort: by_weight
 因氣變而遂曾舉兮	yin qi bian er sui ceng ju xi	100
 因甚天也慳春	yin shen tian ye qian chun	100
 因縞素而哭之	yin gao su er ku zhi	100
-因芙蓉而爲媒兮	yin fu rong er wei mei xi	100
+因芙蓉而為媒兮	yin fu rong er wei mei xi	100
 因過竹院逢僧話	yin guo zhu yuan feng seng hua	100
 因離別	yin li bie	100
 因風想玉珂	yin feng xiang yu ke	100
@@ -5375,7 +5736,7 @@ sort: by_weight
 國人知之	guo ren zhi zhi	100
 國初已來畫鞍馬	guo chu yi lai hua an ma	100
 國家成敗吾豈敢	guo jia cheng bai wu qi gan	100
-國家爲只	guo jia wei zhi	100
+國家為只	guo jia wei zhi	100
 國富強而法立兮	guo fu qiang er fa li xi	100
 國既卒斬	guo ji zu zhan	100
 國有驥而不椉兮	guo you ji er bu cheng xi	100
@@ -5416,7 +5777,7 @@ sort: by_weight
 在南山之側	zai nan shan zhi ce	100
 在南山之陽	zai nan shan zhi yang	100
 在周之庭	zai zhou zhi ting	100
-在地願爲連理枝	zai di yuan wei lian li zhi	100
+在地願為連理枝	zai di yuan wei lian li zhi	100
 在坰之野	zai jiong zhi ye	100
 在城闕兮	zai cheng que xi	100
 在夏后之世	zai xia hou zhi shi	100
@@ -5730,7 +6091,7 @@ sort: by_weight
 多情只有春庭月	duo qing zhi you chun ting yue	100
 多情多感	duo qing duo gan	100
 多情應笑	duo qing ying xiao	100
-多情爲誰追惜	duo qing wei shui zhui xi	100
+多情為誰追惜	duo qing wei shui zhui xi	100
 多情自古傷離別	duo qing zi gu shang li bie	100
 多我覯痻	duo wo gou min	100
 多歧路	duo qi lu	100
@@ -5857,7 +6218,7 @@ sort: by_weight
 夢江南	meng jiang nan	100
 夢沈書遠	meng shen shu yuan	100
 夢深薇露	meng shen wei lu	100
-夢爲遠別啼難喚	meng wei yuan bie ti nan huan	100
+夢為遠別啼難喚	meng wei yuan bie ti nan huan	100
 夢牽情役幾時休	meng qian qing yi ji shi xiu	100
 夢縞衣	meng gao yi	100
 夢翠翹	meng cui qiao	100
@@ -5949,7 +6310,7 @@ sort: by_weight
 大道如青天	da dao ru qing tian	100
 大道直如髮	da dao zhi ru fa	100
 大邦有子	da bang you zi	100
-大邦爲讎	da bang wei chou	100
+大邦為讎	da bang wei chou	100
 大邦維屏	da bang wei ping	100
 大都秋雁少	da du qiu yan shao	100
 大酺	da pu	100
@@ -6005,7 +6366,7 @@ sort: by_weight
 天問	tian wen	100
 天地一沙鷗	tian di yi sha ou	100
 天地四方	tian di si fang	100
-天地爲之久低昂	tian di wei zhi jiu di ang	100
+天地為之久低昂	tian di wei zhi jiu di ang	100
 天地英雄氣	tian di ying xiong qi	100
 天外三峯削不成	tian wai san feng xue bu cheng	100
 天外鴻聲枕上聞	tian wai hong sheng zhen shang wen	100
@@ -6026,7 +6387,7 @@ sort: by_weight
 天寒夢澤深	tian han meng ze shen	100
 天寒日暮	tian han ri mu	100
 天寒翠袖薄	tian han cui xiu bao	100
-天實爲之	tian shi wei zhi	100
+天實為之	tian shi wei zhi	100
 天將離恨惱疏狂	tian jiang li hen nao shu kuang	100
 天庭明兮雲霓藏	tian ting ming xi yun ni cang	100
 天式從橫	tian shi cong heng	100
@@ -6058,7 +6419,7 @@ sort: by_weight
 天涯情味	tian ya qing wei	100
 天涯搔首	tian ya sao shou	100
 天涯涕淚一身遙	tian ya ti lei yi shen yao	100
-天涯爲客	tian ya wei ke	100
+天涯為客	tian ya wei ke	100
 天涯節序匆匆	tian ya jie xu cong cong	100
 天涯舊恨	tian ya jiu hen	100
 天涯芳信	tian ya fang xin	100
@@ -6115,7 +6476,7 @@ sort: by_weight
 天香	tian xiang	100
 天高而氣清	tian gao er qi qing	100
 天黏衰草	tian nian shuai cao	100
-太一爲余聽之	tai yi wei yu ting zhi	100
+太一為余聽之	tai yi wei yu ting zhi	100
 太上隱者	tai shang yin zhe	100
 太乙近天都	tai yi jin tian dou	100
 太公不遇文王兮	tai gong bu yu wen wang xi	100
@@ -6141,7 +6502,7 @@ sort: by_weight
 夫何惡之	fu he e zhi	100
 夫何極而不至兮	fu he ji er bu zhi xi	100
 夫何煢獨而不予聽	fu he qiong du er bu yu ting	100
-夫何爲周流	fu he wei zhou liu	100
+夫何為周流	fu he wei zhou liu	100
 夫何索求	fu he suo qiu	100
 夫何辠尤	fu he zui you	100
 夫何長	fu he zhang	100
@@ -6150,7 +6511,7 @@ sort: by_weight
 夫唯靈脩之故也	fu wei ling xiu zhi gu ye	100
 夫因兵亂守蓬茅	fu yin bing luan shou peng mao	100
 夫婿輕薄兒	fu xu qing bao er	100
-夫子何爲者	fu zi he wei zhe	100
+夫子何為者	fu zi he wei zhe	100
 夫孰異道而相安	fu shu yi dao er xiang an	100
 夫孰非義而可用兮	fu shu fei yi er ke yong xi	100
 夫尺有所短	fu chi you suo duan	100
@@ -6227,7 +6588,7 @@ sort: by_weight
 女執懿筐	nv zhi yi kuang	100
 女媧有體	nv wa you ti	100
 女嬃之嬋媛兮	nv xu zhi chan yuan xi	100
-女嬋媛兮爲余太息	nv chan yuan xi wei yu tai xi	100
+女嬋媛兮為余太息	nv chan yuan xi wei yu tai xi	100
 女子之祥	nv zi zhi xiang	100
 女子今有行	nv zi jin you xing	100
 女子善懷	nv zi shan huai	100
@@ -6271,7 +6632,7 @@ sort: by_weight
 好景虛設	hao jing xu she	100
 好桂樹之冬榮	hao gui shu zhi dong rong	100
 好樂無荒	hao le wu huang	100
-好爲廬山謠	hao wei lu shan yao	100
+好為廬山謠	hao wei lu shan yao	100
 好爾無射	hao er wu she	100
 好箇霜天	hao ge shuang tian	100
 好聲須記得來時	hao sheng xu ji de lai shi	100
@@ -6568,7 +6929,7 @@ sort: by_weight
 子車奄息	zi che yan xi	100
 子車鍼虎	zi che zhen hu	100
 子非三閭大夫與	zi fei san lv dai fu yu	100
-子魂魄兮爲鬼雄	zi hun po xi wei gui xiong	100
+子魂魄兮為鬼雄	zi hun po xi wei gui xiong	100
 孑孑干旄	jie jie gan mao	100
 孑孑干旌	jie jie gan jing	100
 孑孑干旟	jie jie gan yu	100
@@ -6665,7 +7026,7 @@ sort: by_weight
 孰云網恢恢	shu yun wang hui hui	100
 孰使亂惑	shu shi luan huo	100
 孰使萃之	shu shi cui zhi	100
-孰侵辱之可爲	shu qin ru zhi ke wei	100
+孰侵辱之可為	shu qin ru zhi ke wei	100
 孰信脩而慕之	shu xin xiu er mu zhi	100
 孰兩東門之可蕪	shu liang dong men zhi ke wu	100
 孰初作之	shu chu zuo zhi	100
@@ -6678,7 +7039,7 @@ sort: by_weight
 孰江河之可涸	shu jiang he zhi ke he	100
 孰無施而有報兮	shu wu shi er you bao xi	100
 孰營度之	shu ying du zhi	100
-孰爲忠直	shu wei zhong zhi	100
+孰為忠直	shu wei zhong zhi	100
 孰由兮賢者	shu you xi xian zhe	100
 孰申旦而別之	shu shen dan er bie zhi	100
 孰知余之從容	shu zhi yu zhi cong rong	100
@@ -6687,10 +7048,10 @@ sort: by_weight
 孰知察其黑白	shu zhi cha qi hei bai	100
 孰能思而不隱兮	shu neng si er bu yin xi	100
 孰能施於無報	shu neng shi yu wu bao	100
-孰能若兮願爲輔	shu neng ruo xi yuan wei fu	100
+孰能若兮願為輔	shu neng ruo xi yuan wei fu	100
 孰虛僞之可長	shu xu wei zhi ke zhang	100
 孰道尚之	shu dao shang zhi	100
-孰離合兮可爲	shu li he xi ke wei	100
+孰離合兮可為	shu li he xi ke wei	100
 孰非善而可服	shu fei shan er ke fu	100
 孰魁摧之可久兮	shu kui cui zhi ke jiu xi	100
 學書初學衛夫人	xue shu chu xue wei fu ren	100
@@ -6858,7 +7219,7 @@ sort: by_weight
 家父作誦	jia fu zuo song	100
 家童鼻息已雷鳴	jia tong bi xi yi lei ming	100
 家臨九江水	jia lin jiu jiang shui	100
-宸遊不爲三元夜	chen you bu wei san yuan ye	100
+宸遊不為三元夜	chen you bu wei san yuan ye	100
 容兮遂兮	rong xi sui xi	100
 容則秀雅	rong ze xiu ya	100
 容態好比	rong tai hao bi	100
@@ -7002,7 +7363,7 @@ sort: by_weight
 寢成孔安	qin cheng kong an	100
 寤寐思服	wu mei si fu	100
 寤寐求之	wu mei qiu zhi	100
-寤寐無爲	wu mei wu wei	100
+寤寐無為	wu mei wu wei	100
 寤從容以周流兮	wu cong rong yi zhou liu xi	100
 寤言不寐	wu yan bu mei	100
 寤辟有摽	wu pi you biao	100
@@ -7056,8 +7417,8 @@ sort: by_weight
 寧浮沅而馳騁兮	ning fu yuan er chi cheng xi	100
 寧溘死以流亡兮	ning ke si yi liu wang xi	100
 寧溘死而流亡兮	ning ke si er liu wang xi	100
-寧爲江海之泥塗兮	ning wei jiang hai zhi ni tu xi	100
-寧爲荼毒	ning wei tu du	100
+寧為江海之泥塗兮	ning wei jiang hai zhi ni tu xi	100
+寧為荼毒	ning wei tu du	100
 寧獻王	ning xian wang	100
 寧窮處而守高	ning qiong chu er shou gao	100
 寧自今矣	ning zi jin yi	100
@@ -7119,7 +7480,7 @@ sort: by_weight
 寺人之令	si ren zhi ling	100
 寺人孟子	si ren meng zi	100
 寺即陳將吳明徹戰場	si ji chen jiang wu ming che zhan chang	100
-封介山而爲之禁兮	feng jie shan er wei zhi jin xi	100
+封介山而為之禁兮	feng jie shan er wei zhi jin xi	100
 封建厥福	feng jian jue fu	100
 封比干之丘壟	feng bi gan zhi qiu long	100
 封狐千里些	feng hu qian li xie	100
@@ -7374,7 +7735,7 @@ sort: by_weight
 少壯能幾時	shao zhuang neng ji shi	100
 少婦今春意	shao fu jin chun yi	100
 少婦城南欲斷腸	shao fu cheng nan yu duan chang	100
-少孤爲客早	shao gu wei ke zao	100
+少孤為客早	shao gu wei ke zao	100
 少小幽燕客	shao xiao you yan ke	100
 少小雖非投筆吏	shao xiao sui fei tou bi li	100
 少小離家老大回	shao xiao li jia lao da hui	100
@@ -7419,7 +7780,7 @@ sort: by_weight
 尚欲布名乎天下	shang yu bu ming hu tian xia	100
 尚求其雌	shang qiu qi ci	100
 尚無庸	shang wu yong	100
-尚無爲	shang wu wei	100
+尚無為	shang wu wei	100
 尚無造	shang wu zao	100
 尚由由而進之	shang you you er jin zhi	100
 尚能飯否	shang neng fan fou	100
@@ -7583,7 +7944,7 @@ sort: by_weight
 山沈遠照	shan shen yuan zhao	100
 山深聞鷓鴣	shan shen wen zhe gu	100
 山無重數	shan wu zhong shu	100
-山爲樽	shan wei zun	100
+山為樽	shan wei zun	100
 山石	shan shi	100
 山石犖确行徑微	shan shi luo que xing jing wei	100
 山空天入海	shan kong tian ru hai	100
@@ -7663,7 +8024,7 @@ sort: by_weight
 巖扉松逕長寂寥	yan fei song jing zhang ji liao	100
 巖穴處而隱藏	yan xue chu er yin cang	100
 川澤訏訏	chuan ze xu xu	100
-川爲淨其波	chuan wei jing qi bo	100
+川為淨其波	chuan wei jing qi bo	100
 川谷何洿	chuan gu he wu	100
 川谷兮淵淵	chuan gu xi yuan yuan	100
 川谷徑復	chuan gu jing fu	100
@@ -7867,7 +8228,7 @@ sort: by_weight
 年年征戰	nian nian zheng zhan	100
 年年戰骨埋荒外	nian nian zhan gu mai huang wai	100
 年年拈出	nian nian nian chu	100
-年年知爲誰生	nian nian zhi wei shui sheng	100
+年年知為誰生	nian nian zhi wei shui sheng	100
 年年社日停針線	nian nian she ri ting zhen xian	100
 年年翠陰庭樹	nian nian cui yin ting shu	100
 年年越溪女	nian nian yue xi nv	100
@@ -7898,7 +8259,7 @@ sort: by_weight
 幹不庭方	gan bu ting fang	100
 幹惟畫肉不畫骨	gan wei hua rou bu hua gu	100
 幻蒼崖雲樹	huan cang ya yun shu	100
-幼爲長所育	you wei zhang suo yu	100
+幼為長所育	you wei zhang suo yu	100
 幽人應未眠	you ren ying wei mian	100
 幽人歸獨臥	you ren gui du wo	100
 幽咽泉流水下灘	you ye quan liu shui xia tan	100
@@ -8061,7 +8422,7 @@ sort: by_weight
 廢周邵於遐夷	fei zhou shao yu xia yi	100
 廢徹不遲	fei che bu chi	100
 廢池喬木	fei chi qiao mu	100
-廢爲殘賊	fei wei can zei	100
+廢為殘賊	fei wei can zei	100
 廢閣光涼	fei ge guang liang	100
 廣大無所極些	guang da wu suo ji xie	100
 廣澤生明月	guang ze sheng ming yue	100
@@ -8076,7 +8437,7 @@ sort: by_weight
 建彼旄矣	jian bi mao yi	100
 建德非吾土	jian de fei wu tu	100
 建旐設旄	jian zhao she mao	100
-建日月以爲蓋兮	jian ri yue yi wei gai xi	100
+建日月以為蓋兮	jian ri yue yi wei gai xi	100
 建業暮鐘時	jian ye mu zhong shi	100
 建烈業兮垂勳	jian lie ye xi chui xun	100
 建爾元子	jian er yuan zi	100
@@ -8125,7 +8486,7 @@ sort: by_weight
 弓矢斯張	gong shi si zhang	100
 弓矢既調	gong shi ji diao	100
 弔千古	diao qian gu	100
-弔影分爲千里雁	diao ying fen wei qian li yan	100
+弔影分為千里雁	diao ying fen wei qian li yan	100
 引八維以自道兮	yin ba wei yi zi dao xi	100
 引日月以指極兮	yin ri yue yi zhi ji xi	100
 引真仙	yin zhen xian	100
@@ -8157,7 +8518,7 @@ sort: by_weight
 弱柳好花盡拆	ruo liu hao hua jin chai	100
 弱柳絲千縷	ruo liu si qian lv	100
 弱柳萬條垂翠帶	ruo liu wan tiao chui cui dai	100
-弱水汨其爲難兮	ruo shui mi qi wei nan xi	100
+弱水汨其為難兮	ruo shui mi qi wei nan xi	100
 弱顏固植	ruo yan gu zhi	100
 張九齡	zhang jiu ling	100
 張仲孝友	zhang zhong xiao you	100
@@ -8450,7 +8811,7 @@ sort: by_weight
 徙倚欲何依	xi yi yu he yi	100
 從今又幾年	cong jin you ji nian	100
 從今又添	cong jin you tian	100
-從今四海爲家日	cong jin si hai wei jia ri	100
+從今四海為家日	cong jin si hai wei jia ri	100
 從以孫子	cong yi sun zi	100
 從以騂牡	cong yi xing mu	100
 從來多古意	cong lai duo gu yi	100
@@ -8470,7 +8831,7 @@ sort: by_weight
 從拂柳	cong fu liu	100
 從此君王不早朝	cong ci jun wang bu zao chao	100
 從此隔音塵	cong ci ge yin chen	100
-從水蛟而爲徙兮	cong shui jiao er wei xi xi	100
+從水蛟而為徙兮	cong shui jiao er wei xi xi	100
 從渠牀下	cong qu chuang xia	100
 從玄鶴與鷦明	cong xuan he yu jiao ming	100
 從臣才藝咸第一	cong chen cai yi xian di yi	100
@@ -8493,7 +8854,7 @@ sort: by_weight
 御苑砧聲向晚多	yu yuan zhen sheng xiang wan duo	100
 御街行	yu jie xing	100
 御陌袖鞭垂	yu mo xiu bian chui	100
-徧爲爾德	bian wei er de	100
+徧為爾德	bian wei er de	100
 復令識者久歎嗟	fu ling shi zhe jiu tan jie	100
 復值接輿醉	fu zhi jie yu zui	100
 復周公之宇	fu zhou gong zhi yu	100
@@ -8555,7 +8916,7 @@ sort: by_weight
 徹彼桑土	che bi sang tu	100
 徹我牆屋	che wo qiang wu	100
 徹我疆土	che wo jiang tu	100
-徹田爲糧	che tian wei liang	100
+徹田為糧	che tian wei liang	100
 徹申伯土田	che shen bo tu tian	100
 徹申伯土疆	che shen bo tu jiang	100
 心上愁痕	xin shang chou hen	100
@@ -8619,8 +8980,8 @@ sort: by_weight
 心煩慮亂	xin fan lv luan	100
 心煩憒兮意無聊	xin fan kui xi yi wu liao	100
 心煩憺兮忘食事	xin fan dan xi wang shi shi	100
-心爲兮切傷	xin wei xi qie shang	100
-心爲兮隔錯	xin wei xi ge cuo	100
+心為兮切傷	xin wei xi qie shang	100
+心為兮隔錯	xin wei xi ge cuo	100
 心猶豫而狐疑	xin you yu er hu yi	100
 心猶豫而狐疑兮	xin you yu er hu yi xi	100
 心紆軫宗而增傷	xin yu zhen zong er zeng shang	100
@@ -8724,7 +9085,7 @@ sort: by_weight
 念去來	nian qu lai	100
 念去去	nian qu qu	100
 念君兮不忘	nian jun xi bu wang	100
-念國之爲虐	nian guo zhi wei nve	100
+念國之為虐	nian guo zhi wei nve	100
 念天地之悠悠	nian tian di zhi you you	100
 念女嬃之嬋媛兮	nian nv xu zhi chan yuan xi	100
 念奴嬌	nian nu jiao	100
@@ -9112,7 +9473,7 @@ sort: by_weight
 悲哉于嗟兮	bei zai yu jie xi	100
 悲回風	bei hui feng	100
 悲回風之搖蕙兮	bei hui feng zhi yao hui xi	100
-悲太山之爲隍兮	bei tai shan zhi wei huang xi	100
+悲太山之為隍兮	bei tai shan zhi wei huang xi	100
 悲夷猶而冀進兮	bei yi you er ji jin xi	100
 悲帷翠帳	bei wei cui zhang	100
 悲恨相續	bei hen xiang xu	100
@@ -9177,7 +9538,7 @@ sort: by_weight
 情滿徐妝	qing man xu zhuang	100
 情澹澹其若淵	qing dan dan qi ruo yuan	100
 情知春去後	qing zhi chun qu hou	100
-情竭爲知音	qing jie wei zhi yin	100
+情竭為知音	qing jie wei zhi yin	100
 情純潔而罔薉兮	qing chun jie er wang hui xi	100
 情素潔於紐帛	qing su jie yu niu bo	100
 情絕	qing jue	100
@@ -9259,7 +9620,7 @@ sort: by_weight
 惟昊天兮昭靈	wei hao tian xi zhao ling	100
 惟是兮用憂	wei shi xi yong you	100
 惟是有	wei shi you	100
-惟時何爲	wei shi he wei	100
+惟時何為	wei shi he wei	100
 惟時俗兮疾正	wei shi su xi ji zheng	100
 惟有兩行低雁	wei you liang xing di yan	100
 惟有垂楊自舞	wei you chui yang zi wu	100
@@ -9580,7 +9941,7 @@ sort: by_weight
 憑繡檻	ping xiu kan	100
 憑誰問	ping shui wen	100
 憑誰指與	ping shui zhi yu	100
-憑誰爲歌長恨	ping shui wei ge zhang hen	100
+憑誰為歌長恨	ping shui wei ge zhang hen	100
 憑軒涕泗流	ping xuan ti si liu	100
 憑闌久	ping lan jiu	100
 憑闌十里芰荷香	ping lan shi li ji he xiang	100
@@ -9697,7 +10058,7 @@ sort: by_weight
 懷沙	huai sha	100
 懷沙礫而自沈兮	huai sha li er zi shen xi	100
 懷琬琰之華英	huai wan yan zhi hua ying	100
-懷琬琰以爲心	huai wan yan yi wei xin	100
+懷琬琰以為心	huai wan yan yi wei xin	100
 懷瑤象而佩瓊兮	huai yao xiang er pei qiong xi	100
 懷瑾握瑜兮	huai jin wo yu xi	100
 懷芬香而挾蕙兮	huai fen xiang er xie hui xi	100
@@ -9754,8 +10115,8 @@ sort: by_weight
 我事孔庶	wo shi kong shu	100
 我亦多情	wo yi duo qing	100
 我亦舉家清	wo yi ju jia qing	100
-我以爲兄	wo yi wei xiong	100
-我以爲君	wo yi wei jun	100
+我以為兄	wo yi wei xiong	100
+我以為君	wo yi wei jun	100
 我任我輦	wo ren wo nian	100
 我位孔貶	wo wei kong bian	100
 我住長江頭	wo zhu zhang jiang tou	100
@@ -9949,7 +10310,7 @@ sort: by_weight
 或醉或否	huo zui huo fou	100
 或降于阿	huo jiang yu a	100
 或隱居而深藏	huo yin ju er shen cang	100
-或靡事不爲	huo mi shi bu wei	100
+或靡事不為	huo mi shi bu wei	100
 或飲于池	huo yin yu chi	100
 或騎麒麟翳鳳凰	huo qi qi lin yi feng huang	100
 或黃或白	huo huang huo bai	100
@@ -10070,7 +10431,7 @@ sort: by_weight
 折得梅花獨自看	zhe de mei hua du zi kan	100
 折戟沈沙鐵未消	zhe ji shen sha tie wei xiao	100
 折柳樊圃	zhe liu fan pu	100
-折瓊枝以爲羞兮	zhe qiong zhi yi wei xiu xi	100
+折瓊枝以為羞兮	zhe qiong zhi yi wei xiu xi	100
 折瓊枝以繼佩	zhe qiong zhi yi ji pei	100
 折疏麻兮瑤華	zhe shu ma xi yao hua	100
 折盡梅花	zhe jin mei hua	100
@@ -10167,19 +10528,19 @@ sort: by_weight
 持此謝高鳥	chi ci xie gao niao	100
 持玉盞	chi yu zhan	100
 持謝鄰家子	chi xie lin jia zi	100
-指九天以爲正兮	zhi jiu tian yi wei zheng xi	100
+指九天以為正兮	zhi jiu tian yi wei zheng xi	100
 指列宿以白情兮	zhi lie su yi bai qing xi	100
 指嶓冢之西隈兮	zhi bo zhong zhi xi wei xi	100
-指彭咸以爲儀	zhi peng xian yi wei yi	100
+指彭咸以為儀	zhi peng xian yi wei yi	100
 指揮若定失蕭曹	zhi hui ruo ding shi xiao cao	100
 指日月使延照兮	zhi ri yue shi yan zhao xi	100
 指暮天	zhi mu tian	100
-指正義兮爲曲	zhi zheng yi xi wei qu	100
+指正義兮為曲	zhi zheng yi xi wei qu	100
 指炎神而直馳兮	zhi yan shen er zhi chi xi	100
 指神京	zhi shen jing	100
-指蒼天以爲正	zhi cang tian yi wei zheng	100
+指蒼天以為正	zhi cang tian yi wei zheng	100
 指蓬萊	zhi peng lai	100
-指西海以爲期	zhi xi hai yi wei qi	100
+指西海以為期	zhi xi hai yi wei qi	100
 指點牡丹初綻朵	zhi dian mu dan chu zhan duo	100
 挐黃梁些	na huang liang xie	100
 挑兮達兮	tiao xi da xi	100
@@ -10289,15 +10650,15 @@ sort: by_weight
 揚州一覺	yang zhou yi jue	100
 揚州初去日	yang zhou chu qu ri	100
 揚州慢	yang zhou man	100
-揚彗光兮爲旗	yang hui guang xi wei qi	100
+揚彗光兮為旗	yang hui guang xi wei qi	100
 揚枹兮拊鼓	yang bao xi fu gu	100
-揚氛氣兮爲旌	yang fen qi xi wei jing	100
+揚氛氣兮為旌	yang fen qi xi wei jing	100
 揚流兮洋洋	yang liu xi yang yang	100
 揚流波之潢潢兮	yang liu bo zhi huang huang xi	100
 揚精華以眩燿兮	yang jing hua yi xuan yao xi	100
 揚雲霓之晻藹兮	yang yun ni zhi an ai xi	100
 揚靈兮未極	yang ling xi wei ji	100
-換我心爲你心	huan wo xin wei ni xin	100
+換我心為你心	huan wo xin wei ni xin	100
 換譜伊涼	huan pu yi liang	100
 握佩玖兮中路躇	wo pei jiu xi zhong lu chu	100
 握剞劂而不用兮	wo ji jue er bu yong xi	100
@@ -10314,7 +10675,7 @@ sort: by_weight
 援北斗兮酌桂漿	yuan bei dou xi zhuo gui jiang	100
 援玉枹兮擊鳴鼓	yuan yu bao xi ji ming gu	100
 援瓟瓜兮接糧	yuan bo gua xi jie liang	100
-援芙蕖兮爲蓋	yuan fu qu xi wei gai	100
+援芙蕖兮為蓋	yuan fu qu xi wei gai	100
 損儀容	sun yi rong	100
 搏獸于敖	bo shou yu ao	100
 搓得蛾兒黃欲就	cuo de e er huang yu jiu	100
@@ -10394,7 +10755,7 @@ sort: by_weight
 據青冥而攄虹兮	ju qing ming er shu hong xi	100
 擡望眼	tai wang yan	100
 擥大薄之芳茞兮	lan da bao zhi fang chen xi	100
-擥慧星以爲旍兮	lan hui xing yi wei jing xi	100
+擥慧星以為旍兮	lan hui xing yi wei jing xi	100
 擥木根以結茝兮	lan mu gen yi jie chai xi	100
 擥涕而竚眙	lan ti er zhu yi	100
 擥瑤木之橝枝兮	lan yao mu zhi dian zhi xi	100
@@ -10533,10 +10894,10 @@ sort: by_weight
 教人見了關情	jiao ren jian le guan qing	100
 教人魂夢逐楊花	jiao ren hun meng zhu yang hua	100
 教兒且覆掌中杯	jiao er qie fu zhang zhong bei	100
-教妾若爲容	jiao qie ruo wei rong	100
+教妾若為容	jiao qie ruo wei rong	100
 教誨爾子	jiao hui er zi	100
 敝予又改作兮	bi yu you gai zuo xi	100
-敝予又改爲兮	bi yu you gai wei xi	100
+敝予又改為兮	bi yu you gai wei xi	100
 敝予又改造兮	bi yu you gai zao xi	100
 敝笱	bi gou	100
 敝笱在梁	bi gou zai liang	100
@@ -10611,7 +10972,7 @@ sort: by_weight
 數點漁燈依古岸	shu dian yu deng yi gu an	100
 數點雨聲風約住	shu dian yu sheng feng yue zhu	100
 斂兵衛	lian bing wei	100
-斂怨以爲德	lian yuan yi wei de	100
+斂怨以為德	lian yuan yi wei de	100
 斂愁眉	lian chou mei	100
 斂愁黛	lian chou dai	100
 斂態䆫前	lian tai chuang qian	100
@@ -10678,7 +11039,7 @@ sort: by_weight
 料得明朝	liao de ming chao	100
 料故園	liao gu yuan	100
 料有牽情處	liao you qian qing chu	100
-料爲我厭厭	liao wei wo yan yan	100
+料為我厭厭	liao wei wo yan yan	100
 料當年	liao dang nian	100
 料知短兵不敢接	liao zhi duan bing bu gan jie	100
 料素娥	liao su e	100
@@ -10809,7 +11170,7 @@ sort: by_weight
 斷腸君信否	duan chang jun xin fou	100
 斷腸無處尋	duan chang wu chu xun	100
 斷腸爭忍回顧	duan chang zheng ren hui gu	100
-斷腸爲花須盡狂	duan chang wei hua xu jin kuang	100
+斷腸為花須盡狂	duan chang wei hua xu jin kuang	100
 斷腸片片飛紅	duan chang pian pian fei hong	100
 斷腸移破秦箏柱	duan chang yi po qin zheng zhu	100
 斷腸芳艸碧	duan chang fang cao bi	100
@@ -10843,7 +11204,7 @@ sort: by_weight
 方之舟之	fang zhi zhou zhi	100
 方今太平日無事	fang jin tai ping ri wu shi	100
 方仲春而東遷	fang zhong chun er dong qian	100
-方何爲期	fang he wei qi	100
+方何為期	fang he wei qi	100
 方叔元老	fang shu yuan lao	100
 方叔涖止	fang shu li zhi	100
 方叔率止	fang shu lv zhi	100
@@ -10869,7 +11230,7 @@ sort: by_weight
 於乎有哀	yu hu you ai	100
 於乎皇王	yu hu huang wang	100
 於乎皇考	yu hu huang kao	100
-於今爲庶爲青門	yu jin wei shu wei qing men	100
+於今為庶為青門	yu jin wei shu wei qing men	100
 於今腐草無螢火	yu jin fu cao wu ying huo	100
 於女信宿	yu nv xin su	100
 於女信處	yu nv xin chu	100
@@ -11005,7 +11366,7 @@ sort: by_weight
 既立之監	ji li zhi jian	100
 既紉蘭佩	ji ren lan pei	100
 既至金門遠	ji zhi jin men yuan	100
-既莫足與爲美政兮	ji mo zu yu wei mei zheng xi	100
+既莫足與為美政兮	ji mo zu yu wei mei zheng xi	100
 既見君子	ji jian jun zi	100
 既見復關	ji jian fu guan	100
 既設我旟	ji she wo yu	100
@@ -11077,7 +11438,7 @@ sort: by_weight
 日暮滄波起	ri mu cang bo qi	100
 日暮漢宮傳蠟燭	ri mu han gong chuan la zhu	100
 日暮秋風起	ri mu qiu feng qi	100
-日暮聊爲梁父吟	ri mu liao wei liang fu yin	100
+日暮聊為梁父吟	ri mu liao wei liang fu yin	100
 日暮詩成天又雪	ri mu shi cheng tian you xue	100
 日暮鄉關何處是	ri mu xiang guan he chu shi	100
 日暮飲歸何處客	ri mu yin gui he chu ke	100
@@ -11150,7 +11511,7 @@ sort: by_weight
 早朝大明宮	zao chao da ming gong	100
 早梅香滿山郭	zao mei xiang man shan guo	100
 早求仙	zao qiu xian	100
-早爲不逢巫峽夢	zao wei bu feng wu xia meng	100
+早為不逢巫峽夢	zao wei bu feng wu xia meng	100
 早白髮	zao bai fa	100
 早知乘四載	zao zhi cheng si zai	100
 早知恁般麼	zao zhi nen ban me	100
@@ -11166,7 +11527,7 @@ sort: by_weight
 旭日始旦	xu ri shi dan	100
 旱既大甚	han ji da shen	100
 旱既太甚	han ji tai shen	100
-旱魃爲虐	han ba wei nve	100
+旱魃為虐	han ba wei nve	100
 旱麓	han lu	100
 旹不可兮再得	shi bu ke xi zai de	100
 旻天兮清涼	min tian xi qing liang	100
@@ -11250,7 +11611,7 @@ sort: by_weight
 明眸皓齒今何在	ming mou hao chi jin he zai	100
 明翠搖蟬翼	ming cui yao chan yi	100
 明鏡照新粧	ming jing zhao xin zhuang	100
-昏以爲期	hun yi wei qi	100
+昏以為期	hun yi wei qi	100
 昏姻之故	hun yin zhi gu	100
 昏姻孔云	hun yin kong yun	100
 昏微遵跡	hun wei zun ji	100
@@ -11554,7 +11915,7 @@ sort: by_weight
 是以有慶矣	shi yi you qing yi	100
 是以有袞衣兮	shi yi you gun yi xi	100
 是以有譽處兮	shi yi you yu chu xi	100
-是以爲刺	shi yi wei ci	100
+是以為刺	shi yi wei ci	100
 是以見放	shi yi jian fang	100
 是以陷鄰境	shi yi xian lin jing	100
 是任是負	shi ren shi fu	100
@@ -11767,7 +12128,7 @@ sort: by_weight
 暗想從前	an xiang cong qian	100
 暗想昔時懽笑事	an xiang xi shi huan xiao shi	100
 暗想歡娛何計好	an xiang huan yu he ji hao	100
-暗想爲雲女	an xiang wei yun nv	100
+暗想為雲女	an xiang wei yun nv	100
 暗想玉容何所似	an xiang yu rong he suo shi	100
 暗想當初	an xiang dang chu	100
 暗拋紅豆	an pao hong dou	100
@@ -11830,7 +12191,7 @@ sort: by_weight
 暮愁鎖	mu chou suo	100
 暮春即事	mu chun ji shi	100
 暮煙籠蘚砌	mu yan long xian qi	100
-暮爲行雨標格	mu wei xing yu biao ge	100
+暮為行雨標格	mu wei xing yu biao ge	100
 暮禽相與還	mu qin xiang yu hai	100
 暮蟬聲盡落斜陽	mu chan sheng jin luo xie yang	100
 暮雨朝雲去不還	mu yu chao yun qu bu hai	100
@@ -11900,11 +12261,11 @@ sort: by_weight
 曰歸曰歸	yue gui yue gui	100
 曰殺羔羊	yue sha gao yang	100
 曰求厥章	yue qiu jue zhang	100
-曰爲改歲	yue wei gai sui	100
+曰為改歲	yue wei gai sui	100
 曰父母且	yue fu mu qie	100
 曰至渭陽	yue zhi wei yang	100
-曰黃昏以爲期兮	yue huang hun yi wei qi xi	100
-曰黃昬以爲期	yue huang hun yi wei qi	100
+曰黃昏以為期兮	yue huang hun yi wei qi xi	100
+曰黃昬以為期	yue huang hun yi wei qi	100
 曲中情	qu zhong qing	100
 曲屋步壛	qu wu bu yan	100
 曲屏香暖	qu ping xiang nuan	100
@@ -12044,7 +12405,7 @@ sort: by_weight
 曾不容刀	ceng bu rong dao	100
 曾不崇朝	ceng bu chong chao	100
 曾不知其玷	ceng bu zhi qi dian	100
-曾不知夏之爲丘兮	ceng bu zhi xia zhi wei qiu xi	100
+曾不知夏之為丘兮	ceng bu zhi xia zhi wei qiu xi	100
 曾不知路之曲直兮	ceng bu zhi lu zhi qu zhi xi	100
 曾伴狂客	ceng ban kuang ke	100
 曾侍瑤池宴	ceng shi yao chi yan	100
@@ -12079,7 +12440,7 @@ sort: by_weight
 曾歔欷余鬱邑兮	ceng xu xi yu yu yi xi	100
 曾溼西湖雨	ceng shi xi hu yu	100
 曾照彩雲歸	ceng zhao cai yun gui	100
-曾爲大梁客	ceng wei da liang ke	100
+曾為大梁客	ceng wei da liang ke	100
 曾畫樓	ceng hua lou	100
 曾知舊游處	ceng zhi jiu you chu	100
 曾經向	ceng jing xiang	100
@@ -12422,7 +12783,7 @@ sort: by_weight
 朕皇考曰伯庸	zhen huang kao yue bo yong	100
 朕與先生解戰袍	zhen yu xian sheng jie zhan pao	100
 望一成消滅	wang yi cheng xiao mie	100
-望三五以爲像兮	wang san wu yi wei xiang xi	100
+望三五以為像兮	wang san wu yi wei xiang xi	100
 望不盡	wang bu jin	100
 望中地遠天闊	wang zhong di yuan tian kuo	100
 望中煙水遙	wang zhong yan shui yao	100
@@ -12510,7 +12871,7 @@ sort: by_weight
 朝朝馬策與刀環	chao chao ma ce yu dao huan	100
 朝濯髮乎洧盤	chao zhuo fa hu wei pan	100
 朝濯髮於湯谷兮	chao zhuo fa yu tang gu xi	100
-朝爲越溪女	chao wei yue xi nv	100
+朝為越溪女	chao wei yue xi nv	100
 朝發兮蔥嶺	chao fa xi cong ling	100
 朝發枉陼兮	chao fa wang zhu xi	100
 朝發軔於天津兮	chao fa ren yu tian jin xi	100
@@ -12588,8 +12949,8 @@ sort: by_weight
 本支百世	ben zhi bai shi	100
 本朝蕪而不治	ben chao wu er bu zhi	100
 本欲聖朝除弊政	ben yu sheng chao chu bi zheng	100
-本爲聖朝除弊事	ben wei sheng chao chu bi shi	100
-本爲聖朝除弊政	ben wei sheng chao chu bi zheng	100
+本為聖朝除弊事	ben wei sheng chao chu bi shi	100
+本為聖朝除弊政	ben wei sheng chao chu bi zheng	100
 朱唇未動	zhu chun wei dong	100
 朱嗣發	zhu si fa	100
 朱塵筵些	zhu chen yan xie	100
@@ -12798,7 +13159,7 @@ sort: by_weight
 杳杳神京路	yao yao shen jing lu	100
 杳杳鐘聲晚	yao yao zhong sheng wan	100
 杳杳音塵都絕	yao yao yin chen dou jue	100
-杳無消息若爲情	yao wu xiao xi ruo wei qing	100
+杳無消息若為情	yao wu xiao xi ruo wei qing	100
 杼中情而屬詩	zhu zhong qing er shu shi	100
 杼柚其空	zhu zhou qi kong	100
 松下問童子	song xia wen tong zi	100
@@ -13179,7 +13540,7 @@ sort: by_weight
 榴花不似舞裙紅	liu hua bu shi wu qun hong	100
 榻上庭前屹相向	ta shang ting qian yi xiang xiang	100
 構我二人	gou wo er ren	100
-構桂木而爲室	gou gui mu er wei shi	100
+構桂木而為室	gou gui mu er wei shi	100
 槐陰轉午	huai yin zhuan wu	100
 槳聲伊軋知何向	jiang sheng yi ya zhi he xiang	100
 槿花籬外竹橫橋	jin hua li wai zhu heng qiao	100
@@ -13196,7 +13557,7 @@ sort: by_weight
 樂子之無知	le zi zhi wu zhi	100
 樂幽心屢止	le you xin lv zhi	100
 樂府	le fu	100
-樂府吹爲橫笛曲	le fu chui wei heng di qu	100
+樂府吹為橫笛曲	le fu chui wei heng di qu	100
 樂彼之園	le bi zhi yuan	100
 樂既和奏	le ji he zou	100
 樂極哀來月東出	le ji ai lai yue dong chu	100
@@ -13246,7 +13607,7 @@ sort: by_weight
 樹底人家朱戶	shu di ren jia zhu hu	100
 樹底纖纖擡素手	shu di xian xian tai su shou	100
 樹接南山近	shu jie nan shan jin	100
-樹木猶爲人愛惜	shu mu you wei ren ai xi	100
+樹木猶為人愛惜	shu mu you wei ren ai xi	100
 樹木鬱鬱	shu mu yu yu	100
 樹杪參旗	shu miao can qi	100
 樹杪玉堂懸	shu miao yu tang xuan	100
@@ -13535,7 +13896,7 @@ sort: by_weight
 此去隨所偶	ci qu sui suo ou	100
 此去難留	ci qu nan liu	100
 此地	ci di	100
-此地一爲別	ci di yi wei bie	100
+此地一為別	ci di yi wei bie	100
 此地分衿	ci di fen jin	100
 此地別燕丹	ci di bie yan dan	100
 此地曾輕別	ci di ceng qing bie	100
@@ -13559,7 +13920,7 @@ sort: by_weight
 此情可待成追憶	ci qing ke dai cheng zhui yi	100
 此情江海深	ci qing jiang hai shen	100
 此情深處	ci qing shen chu	100
-此情誰信爲狂夫	ci qing shui xin wei kuang fu	100
+此情誰信為狂夫	ci qing shui xin wei kuang fu	100
 此情誰共說	ci qing shui gong shuo	100
 此情誰得知	ci qing shui de zhi	100
 此情誰會倚斜陽	ci qing shui hui yi xie yang	100
@@ -13868,7 +14229,7 @@ sort: by_weight
 比干菹醢	bi gan ju hai	100
 比德好閒	bi de hao xian	100
 比物四驪	bi wu si li	100
-比王僑而爲耦	bi wang qiao er wei ou	100
+比王僑而為耦	bi wang qiao er wei ou	100
 毖彼泉水	bi bi quan shui	100
 毛文錫	mao wen xi	100
 毛滂	mao pang	100
@@ -13960,8 +14321,8 @@ sort: by_weight
 水濱之木	shui bin zhi mu	100
 水無情	shui wu qing	100
 水煙輕	shui yan qing	100
-水爲沼	shui wei zhao	100
-水爲鄉	shui wei xiang	100
+水為沼	shui wei zhao	100
+水為鄉	shui wei xiang	100
 水盼蘭情	shui pan lan qing	100
 水碧沙明兩岸苔	shui bi sha ming liang an tai	100
 水碧風清	shui bi feng qing	100
@@ -14005,7 +14366,7 @@ sort: by_weight
 水驛春回	shui yi chun hui	100
 水龍吟	shui long yin	100
 永世克孝	yong shi ke xiao	100
-永以爲好也	yong yi wei hao ye	100
+永以為好也	yong yi wei hao ye	100
 永余思兮怞怞	yong yu si xi chou chou	100
 永作鴛鴦伴	yong zuo yuan yang ban	100
 永嘯呼些	yong xiao hu xie	100
@@ -14076,7 +14437,7 @@ sort: by_weight
 汝何之	ru he zhi	100
 汝何博謇而好脩兮	ru he bo jian er hao xiu xi	100
 汝墳	ru fen	100
-汝從事愈宜爲辭	ru cong shi yu yi wei ci	100
+汝從事愈宜為辭	ru cong shi yu yi wei ci	100
 汝筮予之	ru shi yu zhi	100
 江上小堂巢翡翠	jiang shang xiao tang chao fei cui	100
 江上小棠巢翡翠	jiang shang xiao tang chao fei cui	100
@@ -14147,7 +14508,7 @@ sort: by_weight
 江湘油油長流汩兮	jiang xiang you you zhang liu gu xi	100
 江漢	jiang han	100
 江漢之滸	jiang han zhi hu	100
-江漢曾爲客	jiang han ceng wei ke	100
+江漢曾為客	jiang han ceng wei ke	100
 江漢浮浮	jiang han fu fu	100
 江漢湯湯	jiang han tang tang	100
 江燕話歸成曉別	jiang yan hua gui cheng xiao bie	100
@@ -14540,7 +14901,7 @@ sort: by_weight
 涉丹水而駝騁兮	she dan shui er tuo cheng xi	100
 涉江	she jiang	100
 涉江采菱	she jiang cai ling	100
-涉渭爲亂	she wei wei luan	100
+涉渭為亂	she wei wei luan	100
 涉青雲以氾濫游兮	she qing yun yi fan lan you xi	100
 涌起彈棋局	yong qi dan qi ju	100
 涓涓清露	juan juan qing lu	100
@@ -14563,7 +14924,7 @@ sort: by_weight
 涼夜伴孤吟	liang ye ban gu yin	100
 涼夜何其	liang ye he qi	100
 涼州曲	liang zhou qu	100
-涼州胡人爲我吹	liang zhou hu ren wei wo chui	100
+涼州胡人為我吹	liang zhou hu ren wei wo chui	100
 涼彼武王	liang bi wu wang	100
 涼思	liang si	100
 涼曰不可	liang yue bu ke	100
@@ -14722,7 +15083,7 @@ sort: by_weight
 深秋寒夜銀河靜	shen qiu han ye yin he jing	100
 深竹暗浮煙	shen zhu an fu yan	100
 深處麝煙長	shen chu she yan zhang	100
-深谷爲陵	shen gu wei ling	100
+深谷為陵	shen gu wei ling	100
 深鎖春光一院愁	shen suo chun guang yi yuan chou	100
 深閉朱門伴舞腰	shen bi zhu men ban wu yao	100
 深閨人靜掩屏幃	shen gui ren jing yan ping wei	100
@@ -14747,6 +15108,7 @@ sort: by_weight
 淺醉還醒	qian zui hai xing	100
 淺醉閒眠	qian zui xian mian	100
 添得黃鸝四五聲	tian de huang li si wu sheng	100
+添酒回燈重開宴	tian jiu hui deng zhong kai yan	100
 添酒回鐙重開宴	tian jiu hui deng zhong kai yan	100
 淼南渡之焉如	miao nan du zhi yan ru	100
 淼淼暗無邊	miao miao an wu bian	100
@@ -14755,7 +15117,7 @@ sort: by_weight
 清人在消	qing ren zai xiao	100
 清人在軸	qing ren zai zhou	100
 清光未減	qing guang wei jian	100
-清光猶爲君	qing guang you wei jun	100
+清光猶為君	qing guang you wei jun	100
 清和冷月到簾櫳	qing he leng yue dao lian long	100
 清塵收露	qing chen shou lu	100
 清夜背燈嬌又醉	qing ye bei deng jiao you zui	100
@@ -15186,7 +15548,7 @@ sort: by_weight
 澹容與而獨倚兮	dan rong yu er du yi xi	100
 澹彩穿花	dan cai chuan hua	100
 澹梳粧	dan shu zhuang	100
-澹無爲而自得	dan wu wei er zi de	100
+澹無為而自得	dan wu wei er zi de	100
 澹然空水對斜暉	dan ran kong shui dui xie hui	100
 澹然而自樂兮	dan ran er zi le xi	100
 澹然離言說	dan ran li yan shuo	100
@@ -15281,7 +15643,7 @@ sort: by_weight
 烝衎烈祖	zheng kan lie zu	100
 烟冪冪	yan mi mi	100
 烟草粘飛蝶	yan cao zhan fei die	100
-烹羊宰牛且爲樂	peng yang zai niu qie wei le	100
+烹羊宰牛且為樂	peng yang zai niu qie wei le	100
 烽火連三月	feng huo lian san yue	100
 焉乃逝㠯徘徊	yan nai shi yi pai huai	100
 焉得夫朴牛	yan de fu pu niu	100
@@ -15292,7 +15654,7 @@ sort: by_weight
 焉托乘而上浮	yan tuo cheng er shang fu	100
 焉有石林	yan you shi lin	100
 焉有虯龍	yan you qiu long	100
-焉洋洋而爲客	yan yang yang er wei ke	100
+焉洋洋而為客	yan yang yang er wei ke	100
 焉發憤而抒情	yan fa fen er shu qing	100
 焉皇皇而更索	yan huang huang er geng suo	100
 焉知二十載	yan zhi er shi zai	100
@@ -15314,7 +15676,7 @@ sort: by_weight
 無人收廢帳	wu ren shou fei zhang	100
 無人收拾理則那	wu ren shou shi li ze na	100
 無人會	wu ren hui	100
-無人爲主	wu ren wei zhu	100
+無人為主	wu ren wei zhu	100
 無人盡日飛花雪	wu ren jin ri fei hua xue	100
 無人知此心	wu ren zhi ci xin	100
 無人知此意	wu ren zhi ci yi	100
@@ -15323,7 +15685,7 @@ sort: by_weight
 無人野水荒灣	wu ren ye shui huang wan	100
 無以下體	wu yi xia ti	100
 無以我公歸兮	wu yi wo gong gui xi	100
-無以爲先	wu yi wei xian	100
+無以為先	wu yi wei xian	100
 無伯樂之相善兮	wu bo le zhi xiang shan xi	100
 無使君勞	wu shi jun lao	100
 無使尨也吠	wu shi mang ye fei	100
@@ -15442,8 +15804,8 @@ sort: by_weight
 無然泄泄	wu ran xie xie	100
 無然畔援	wu ran pan yuan	100
 無然謔謔	wu ran xue xue	100
-無爲在歧路	wu wei zai qi lu	100
-無爲夸毗	wu wei kua pi	100
+無為在歧路	wu wei zai qi lu	100
+無為夸毗	wu wei kua pi	100
 無父何怙	wu fu he hu	100
 無父母詒罹	wu fu mu yi li	100
 無物似情濃	wu wu shi qing nong	100
@@ -15761,74 +16123,74 @@ sort: by_weight
 爰采唐矣	yuan cai tang yi	100
 爰采葑矣	yuan cai feng yi	100
 爰采麥矣	yuan cai mai yi	100
-爲下國綴旒	wei xia guo zhui liu	100
-爲下國駿厖	wei xia guo jun pang	100
-爲乘陽氣行時令	wei cheng yang qi xing shi ling	100
-爲他人作嫁衣裳	wei ta ren zuo jia yi chang	100
-爲他沉醉不成泥	wei ta chen zui bu cheng ni	100
-爲伊才減江淹	wei yi cai jian jiang yan	100
-爲伊消得人憔悴	wei yi xiao de ren qiao cui	100
-爲伊淚落	wei yi lei luo	100
-爲余先乎平路	wei yu xian hu ping lu	100
-爲余浩歎	wei yu hao tan	100
-爲余駕飛龍兮	wei yu jia fei long xi	100
-爲俎孔碩	wei zu kong shuo	100
-爲公子裘	wei gong zi qiu	100
-爲公子裳	wei gong zi chang	100
-爲君憔悴盡	wei jun qiao cui jin	100
-爲君持酒勸斜陽	wei jun chi jiu quan xie yang	100
-爲君翻作琵琶行	wei jun fan zuo pi pa xing	100
-爲君裛淚	wei jun yi lei	100
-爲周室輔	wei zhou shi fu	100
-爲問天戎竇車騎	wei wen tian rong dou che qi	100
-爲問家何在	wei wen jia he zai	100
-爲問新愁	wei wen xin chou	100
-爲問暗香閒艷	wei wen an xiang xian yan	100
-爲問蟠桃熟也無	wei wen pan tao shu ye wu	100
-爲問門前客	wei wen men qian ke	100
-爲問頻相見	wei wen pin xiang jian	100
-爲嗚咽	wei wu yan	100
-爲報空潭橘	wei bao kong tan ju	100
-爲妾將上明君	wei qie jiang shang ming jun	100
-爲客五湖愁	wei ke wu hu chou	100
-爲岡爲陵	wei gang wei ling	100
-爲思君	wei si jun	100
-爲惜珊瑚鞭不下	wei xi shan hu bian bu xia	100
-爲感君王輾轉思	wei gan jun wang zhan zhuan si	100
-爲我一揮手	wei wo yi hui shou	100
-爲我南飛傳我意	wei wo nan fei chuan wo yi	100
-爲我度量掘臼科	wei wo du liang jue jiu ke	100
-爲是玉郎長不見	wei shi yu lang zhang bu jian	100
-爲有	wei you	100
-爲有源頭活水來	wei you yuan tou huo shui lai	100
-爲有雲屏無限嬌	wei you yun ping wu xian jiao	100
-爲梟爲鴟	wei xiao wei chi	100
-爲此春酒	wei ci chun jiu	100
-爲民不利	wei min bu li	100
-爲物雖微情不淺	wei wu sui wei qing bu qian	100
-爲猶不遠	wei you bu yuan	100
-爲猶將多	wei you jiang duo	100
-爲玉尊	wei yu zun	100
-爲王前驅	wei wang qian qu	100
-爲當時	wei dang shi	100
-爲章于天	wei zhang yu tian	100
-爲絺爲綌	wei chi wei xi	100
-爲緣交頸睡南塘	wei yuan jiao jing shui nan tang	100
-爲蕭娘	wei xiao niang	100
-爲螻蟻之所裁	wei lou yi zhi suo cai	100
-爲言憔悴如許	wei yan qiao cui ru xu	100
-爲誰嬌鬢尚如許	wei shui jiao bin shang ru xu	100
-爲誰流下瀟湘去	wei shui liu xia xiao xiang qu	100
-爲誰都著眉端聚	wei shui dou zhu mei duan ju	100
-爲誰頻斷續	wei shui pin duan xu	100
-爲謀爲毖	wei mou wei bi	100
-爲豆孔庶	wei dou kong shu	100
-爲賓爲客	wei bin wei ke	100
-爲酒爲醴	wei jiu wei li	100
-爲韓姞相攸	wei han ji xiang you	100
-爲鬼爲蜮	wei gui wei yu	100
-爲鳳皇作鶉籠兮	wei feng huang zuo chun long xi	100
-爲龍爲光	wei long wei guang	100
+為下國綴旒	wei xia guo zhui liu	100
+為下國駿厖	wei xia guo jun pang	100
+為乘陽氣行時令	wei cheng yang qi xing shi ling	100
+為他人作嫁衣裳	wei ta ren zuo jia yi chang	100
+為他沉醉不成泥	wei ta chen zui bu cheng ni	100
+為伊才減江淹	wei yi cai jian jiang yan	100
+為伊消得人憔悴	wei yi xiao de ren qiao cui	100
+為伊淚落	wei yi lei luo	100
+為余先乎平路	wei yu xian hu ping lu	100
+為余浩歎	wei yu hao tan	100
+為余駕飛龍兮	wei yu jia fei long xi	100
+為俎孔碩	wei zu kong shuo	100
+為公子裘	wei gong zi qiu	100
+為公子裳	wei gong zi chang	100
+為君憔悴盡	wei jun qiao cui jin	100
+為君持酒勸斜陽	wei jun chi jiu quan xie yang	100
+為君翻作琵琶行	wei jun fan zuo pi pa xing	100
+為君裛淚	wei jun yi lei	100
+為周室輔	wei zhou shi fu	100
+為問天戎竇車騎	wei wen tian rong dou che qi	100
+為問家何在	wei wen jia he zai	100
+為問新愁	wei wen xin chou	100
+為問暗香閒艷	wei wen an xiang xian yan	100
+為問蟠桃熟也無	wei wen pan tao shu ye wu	100
+為問門前客	wei wen men qian ke	100
+為問頻相見	wei wen pin xiang jian	100
+為嗚咽	wei wu yan	100
+為報空潭橘	wei bao kong tan ju	100
+為妾將上明君	wei qie jiang shang ming jun	100
+為客五湖愁	wei ke wu hu chou	100
+為岡為陵	wei gang wei ling	100
+為思君	wei si jun	100
+為惜珊瑚鞭不下	wei xi shan hu bian bu xia	100
+為感君王輾轉思	wei gan jun wang zhan zhuan si	100
+為我一揮手	wei wo yi hui shou	100
+為我南飛傳我意	wei wo nan fei chuan wo yi	100
+為我度量掘臼科	wei wo du liang jue jiu ke	100
+為是玉郎長不見	wei shi yu lang zhang bu jian	100
+為有	wei you	100
+為有源頭活水來	wei you yuan tou huo shui lai	100
+為有雲屏無限嬌	wei you yun ping wu xian jiao	100
+為梟為鴟	wei xiao wei chi	100
+為此春酒	wei ci chun jiu	100
+為民不利	wei min bu li	100
+為物雖微情不淺	wei wu sui wei qing bu qian	100
+為猶不遠	wei you bu yuan	100
+為猶將多	wei you jiang duo	100
+為玉尊	wei yu zun	100
+為王前驅	wei wang qian qu	100
+為當時	wei dang shi	100
+為章于天	wei zhang yu tian	100
+為絺為綌	wei chi wei xi	100
+為緣交頸睡南塘	wei yuan jiao jing shui nan tang	100
+為蕭娘	wei xiao niang	100
+為螻蟻之所裁	wei lou yi zhi suo cai	100
+為言憔悴如許	wei yan qiao cui ru xu	100
+為誰嬌鬢尚如許	wei shui jiao bin shang ru xu	100
+為誰流下瀟湘去	wei shui liu xia xiao xiang qu	100
+為誰都著眉端聚	wei shui dou zhu mei duan ju	100
+為誰頻斷續	wei shui pin duan xu	100
+為謀為毖	wei mou wei bi	100
+為豆孔庶	wei dou kong shu	100
+為賓為客	wei bin wei ke	100
+為酒為醴	wei jiu wei li	100
+為韓姞相攸	wei han ji xiang you	100
+為鬼為蜮	wei gui wei yu	100
+為鳳皇作鶉籠兮	wei feng huang zuo chun long xi	100
+為龍為光	wei long wei guang	100
 爵祿盛只	jue lu sheng zhi	100
 父何以鱞	fu he yi guan	100
 父信讒而不好	fu xin chan er bu hao	100
@@ -15918,7 +16280,7 @@ sort: by_weight
 物情惟有醉中真	wu qing wei you zui zhong zhen	100
 物有微而隕性兮	wu you wei er yun xing xi	100
 物有所不足	wu you suo bu zu	100
-物有純而不可爲	wu you chun er bu ke wei	100
+物有純而不可為	wu you chun er bu ke wei	100
 物色舊時同	wu se jiu shi tong	100
 物華空有舊池塘	wu hua kong you jiu chi tang	100
 特地恨難平	te di hen nan ping	100
@@ -16020,7 +16382,7 @@ sort: by_weight
 猶染枯香	you ran ku xiang	100
 猶求友聲	you qiu you sheng	100
 猶照綺屏箏	you zhao qi ping zheng	100
-猶爲離人照落花	you wei li ren zhao luo hua	100
+猶為離人照落花	you wei li ren zhao luo hua	100
 猶疑照顏色	you yi zhao yan se	100
 猶結同心苣	you jie tong xin ju	100
 猶繫別時紅豆	you xi bie shi hong dou	100
@@ -16063,7 +16425,7 @@ sort: by_weight
 獨冤抑而無極兮	du yuan yi er wu ji xi	100
 獨凭朱欄思深	du ping zhu lan si shen	100
 獨向小樓東畔	du xiang xiao lou dong pan	100
-獨在異鄉爲異客	du zai yi xiang wei yi ke	100
+獨在異鄉為異客	du zai yi xiang wei yi ke	100
 獨坐含嚬吹鳳竹	du zuo han pin chui feng zhu	100
 獨坐幽篁裏	du zuo you huang li	100
 獨坐敬亭山	du zuo jing ting shan	100
@@ -16094,7 +16456,7 @@ sort: by_weight
 獨無匹兮	du wu pi xi	100
 獨焭焭而南行兮	du qiong qiong er nan xing xi	100
 獨煢煢而南行	du qiong qiong er nan xing	100
-獨爲匪民	du wei fei min	100
+獨為匪民	du wei fei min	100
 獨申旦而不寐兮	du shen dan er bu mei xi	100
 獨留青冢向黃昏	du liu qing zhong xiang huang hun	100
 獨秀先些	du xiu xian xie	100
@@ -16127,7 +16489,7 @@ sort: by_weight
 獻之皇祖	xian zhi huang zu	100
 獻于公所	xian yu gong suo	100
 獻其貔皮	xian qi pi pi	100
-獻寶玉以爲石	xian bao yu yi wei shi	100
+獻寶玉以為石	xian bao yu yi wei shi	100
 獻愁供恨	xian chou gong hen	100
 獻歲發春兮	xian sui fa chun xi	100
 獻爾發功	xian er fa gong	100
@@ -16559,7 +16921,7 @@ sort: by_weight
 田園荒盡尚徵苗	tian yuan huang jin shang zheng miao	100
 田夫荷鋤至	tian fu he chu zhi	100
 田家	tian jia	100
-田爲	tian wei	100
+田為	tian wei	100
 田田多少	tian tian duo shao	100
 田畯至喜	tian jun zhi xi	100
 田祖有神	tian zu you shen	100
@@ -16769,7 +17131,7 @@ sort: by_weight
 疏河千里	shu he qian li	100
 疏煙淡日	shu yan dan ri	100
 疏疏淡淡	shu shu dan dan	100
-疏石蘭兮爲芳	shu shi lan xi wei fang	100
+疏石蘭兮為芳	shu shi lan xi wei fang	100
 疏簾高捲	shu lian gao juan	100
 疏糲亦足飽我飢	shu li yi zu bao wo ji	100
 疏緩節兮安歌	shu huan jie xi an ge	100
@@ -16825,7 +17187,7 @@ sort: by_weight
 登樂遊原	deng le you yuan	100
 登樓	deng lou	100
 登石巒以遠望兮	deng shi luan yi yuan wang xi	100
-登立爲帝	deng li wei di	100
+登立為帝	deng li wei di	100
 登綺席	deng qi xi	100
 登總持閣	deng zong chi ge	100
 登羊角兮扶輿	deng yang jiao xi fu yu	100
@@ -16880,7 +17242,7 @@ sort: by_weight
 白波九道流雪山	bai bo jiu dao liu xue shan	100
 白牡騂剛	bai mu xing gang	100
 白狼河北音書斷	bai lang he bei yin shu duan	100
-白玉兮爲鎮	bai yu xi wei zhen	100
+白玉兮為鎮	bai yu xi wei zhen	100
 白玉蟾	bai yu chan	100
 白皓膠只	bai hao jiao zhi	100
 白石晧晧	bai shi hao hao	100
@@ -16903,8 +17265,8 @@ sort: by_weight
 白蘋花滿湔裙處	bai ping hua man jian qun chu	100
 白蘋遠散濃香	bai ping yuan san nong xiang	100
 白蘋香裏小沙汀	bai ping xiang li xiao sha ting	100
-白虎爲之前後	bai hu wei zhi qian hou	100
-白虎騁而爲右騑	bai hu cheng er wei you fei	100
+白虎為之前後	bai hu wei zhi qian hou	100
+白虎騁而為右騑	bai hu cheng er wei you fei	100
 白蜺嬰茀	bai ni ying fu	100
 白門寥落意多違	bai men liao luo yi duo wei	100
 白雪歌送武判官歸京	bai xue ge song wu pan guan gui jing	100
@@ -16917,12 +17279,12 @@ sort: by_weight
 白露既下百草兮	bai lu ji xia bai cao xi	100
 白露未已	bai lu wei yi	100
 白露未晞	bai lu wei xi	100
-白露爲霜	bai lu wei shuang	100
+白露為霜	bai lu wei shuang	100
 白露紛以塗塗兮	bai lu fen yi tu tu xi	100
 白頭宮女在	bai tou gong nv zai	100
 白頭搔更短	bai tou sao geng duan	100
 白頭誓不歸	bai tou shi bu gui	100
-白首爲誰雄	bai shou wei shui xiong	100
+白首為誰雄	bai shou wei shui xiong	100
 白首臥松雲	bai shou wo song yun	100
 白馬嘶春色	bai ma si chun se	100
 白馬嚼齧黃金勒	bai ma jue nie huang jin lei	100
@@ -16980,7 +17342,7 @@ sort: by_weight
 百貿易兮傅賣	bai mao yi xi fu mai	100
 百辟其刑之	bai pi qi xing zhi	100
 百辟卿士	bai pi qing shi	100
-百辟爲憲	bai pi wei xian	100
+百辟為憲	bai pi wei xian	100
 的的鏡盟釵誓	de de jing meng chai shi	100
 皆向沙場老	jie xiang sha chang lao	100
 皆歸䠶鞠	jie gui she ju	100
@@ -17327,7 +17689,7 @@ sort: by_weight
 瞻望父兮	zhan wang fu xi	100
 瞻烏爰止	zhan wu yuan zhi	100
 瞻言百里	zhan yan bai li	100
-瞽以爲無明	gu yi wei wu ming	100
+瞽以為無明	gu yi wei wu ming	100
 瞿唐灩澦堆	qu tang yan yu dui	100
 瞿塘石城草蕭瑟	qu tang shi cheng cao xiao se	100
 矇瞍奏公	meng sou zou gong	100
@@ -17514,7 +17876,7 @@ sort: by_weight
 神歡體自輕	shen huan ti zi qing	100
 神浮游以高厲	shen fu you yi gao li	100
 神章靈篇兮	shen zhang ling pian xi	100
-神縱欲福難爲功	shen zong yu fu nan wei gong	100
+神縱欲福難為功	shen zong yu fu nan wei gong	100
 神罔兩而無舍	shen wang liang er wu she	100
 神罔時怨	shen wang shi yuan	100
 神罔時恫	shen wang shi dong	100
@@ -17544,7 +17906,7 @@ sort: by_weight
 福祿來反	fu lu lai fan	100
 福祿來崇	fu lu lai chong	100
 福祿來成	fu lu lai cheng	100
-福祿來爲	fu lu lai wei	100
+福祿來為	fu lu lai wei	100
 福祿如茨	fu lu ru ci	100
 福祿宜之	fu lu yi zhi	100
 福祿攸降	fu lu you jiang	100
@@ -17584,10 +17946,10 @@ sort: by_weight
 秉文之德	bing wen zhi de	100
 秉玉英兮結誓	bing yu ying xi jie shi	100
 秉畀炎火	bing bi yan huo	100
-秉電策兮爲鞭	bing dian ce xi wei bian	100
+秉電策兮為鞭	bing dian ce xi wei bian	100
 秉鞭作牧	bing bian zuo mu	100
-秋之爲氣也	qiu zhi wei qi ye	100
-秋以爲期	qiu yi wei qi	100
+秋之為氣也	qiu zhi wei qi ye	100
+秋以為期	qiu yi wei qi	100
 秋來書更疏	qiu lai shu geng shu	100
 秋來未著花	qiu lai wei zhu hua	100
 秋到長門秋草黃	qiu dao zhang men qiu cao huang	100
@@ -17863,7 +18225,7 @@ sort: by_weight
 端居恥聖明	duan ju chi sheng ming	100
 端門方喜翠華臨	duan men fang xi cui hua lin	100
 競佞諛兮讒鬩	jing ning yu xi chan xi	100
-競周容以爲度	jing zhou rong yi wei du	100
+競周容以為度	jing zhou rong yi wei du	100
 競學樗蒲賭荔枝	jing xue chu pu du li zhi	100
 競引還家問都邑	jing yin hai jia wen dou yi	100
 競把黃金買賦	jing ba huang jin mai fu	100
@@ -17902,7 +18264,7 @@ sort: by_weight
 竿旗穿市	gan qi chuan shi	100
 笑倚春風相對語	xiao yi chun feng xiang dui yu	100
 笑倚江頭招遠客	xiao yi jiang tou zhao yuan ke	100
-笑倩旁人爲正冠	xiao qian pang ren wei zheng guan	100
+笑倩旁人為正冠	xiao qian pang ren wei zheng guan	100
 笑呵呵	xiao he he	100
 笑和嬌語太倡狂	xiao he jiao yu tai chang kuang	100
 笑問客從何處來	xiao wen ke cong he chu lai	100
@@ -18088,14 +18450,14 @@ sort: by_weight
 粧臺約鬢低纖手	zhuang tai yue bin di xian shou	100
 粲粲衣服	can can yi fu	100
 精氣入而麤穢除	jing qi ru er cu hui chu	100
-精瓊爢以爲粻	jing qiong mi yi wei zhang	100
+精瓊爢以為粻	jing qiong mi yi wei zhang	100
 精皎皎以往來	jing jiao jiao yi wang lai	100
 精神出	jing shen chu	100
 精色內白	jing se nei bai	100
 精越裂而衰耄	jing yue lie er shuai mao	100
 精醇粹而始壯	jing chun cui er shi zhuang	100
 糝徑楊花鋪白氈	san jing yang hua pu bai zhan	100
-糾思心以爲纕兮	jiu si xin yi wei rang xi	100
+糾思心以為纕兮	jiu si xin yi wei rang xi	100
 糾糾葛屨	jiu jiu ge ju	100
 紂暴虐以失位兮	zhou bao nve yi shi wei xi	100
 約之閣閣	yue zhi ge ge	100
@@ -18146,7 +18508,7 @@ sort: by_weight
 紅燭自憐無好計	hong zhu zi lian wu hao ji	100
 紅牋寫寄表情深	hong jian xie ji biao qing shen	100
 紅牋小字憑誰附	hong jian xiao zi ping shui fu	100
-紅牋爲無色	hong jian wei wu se	100
+紅牋為無色	hong jian wei wu se	100
 紅磁候火	hong ci hou huo	100
 紅箋小字	hong jian xiao zi	100
 紅粉樓前月照	hong fen lou qian yue zhao	100
@@ -18195,7 +18557,7 @@ sort: by_weight
 紅顏棄軒冕	hong yan qi xuan mian	100
 紆余轡兮自休	yu yu pei xi zi xiu	100
 紆余轡兮躊躇	yu yu pei xi chou chu	100
-紉秋蘭以爲佩	ren qiu lan yi wei pei	100
+紉秋蘭以為佩	ren qiu lan yi wei pei	100
 紉荃蕙與辛夷	ren quan hui yu xin yi	100
 紉蕙兮永辭	ren hui xi yong ci	100
 純嘏爾常矣	chun gu er chang yi	100
@@ -18279,7 +18641,7 @@ sort: by_weight
 細數落花因坐久	xi shu luo hua yin zuo jiu	100
 細斟北斗	xi zhen bei dou	100
 細柳垂金縷	xi liu chui jin lv	100
-細柳新蒲爲誰綠	xi liu xin pu wei shui lv	100
+細柳新蒲為誰綠	xi liu xin pu wei shui lv	100
 細看來	xi kan lai	100
 細看諸處好	xi kan zhu chu hao	100
 細算浮生千萬緒	xi suan fu sheng qian wan xu	100
@@ -18332,7 +18694,7 @@ sort: by_weight
 終日行人爭攀折	zhong ri xing ren zheng pan zhe	100
 終日長相憶	zhong ri zhang xiang yi	100
 終是有心投漢珮	zhong shi you xin tou han pei	100
-終是爲伊	zhong shi wei yi	100
+終是為伊	zhong shi wei yi	100
 終是疎狂留不住	zhong shi shu kuang liu bu zhu	100
 終是聖明天子事	zhong shi sheng ming tian zi shi	100
 終有一般情別	zhong you yi ban qing bie	100
@@ -18344,7 +18706,7 @@ sort: by_weight
 終溫且惠	zhong wen qie hui	100
 終然允臧	zhong ran yun zang	100
 終然殀乎羽之野	zhong ran yao hu yu zhi ye	100
-終然爲害	zhong ran wei hai	100
+終然為害	zhong ran wei hai	100
 終窶且貧	zhong ju qie pin	100
 終罷斯結廬	zhong ba si jie lu	100
 終羞人問	zhong xiu ren wen	100
@@ -18677,7 +19039,7 @@ sort: by_weight
 緣愁萬縷	yuan chou wan lv	100
 緣澗還復去	yuan jian hai fu qu	100
 緣鵠飾玉	yuan hu shi yu	100
-編愁苦以爲膺	bian chou ku yi wei ying	100
+編愁苦以為膺	bian chou ku yi wei ying	100
 緩唱棹歌極浦去	huan chang zhao ge ji pu qu	100
 緩唱漁歌歸去	huan chang yu ge gui qu	100
 緩尋芳草得歸遲	huan xun fang cao de gui chi	100
@@ -18733,7 +19095,7 @@ sort: by_weight
 總是淒涼意	zong shi qi liang yi	100
 總是玉關情	zong shi yu guan qing	100
 總是當時攜手處	zong shi dang shi xie shou chu	100
-總爲浮雲能蔽日	zong wei fu yun neng bi ri	100
+總為浮雲能蔽日	zong wei fu yun neng bi ri	100
 總角丱兮	zong jiao guan xi	100
 總角之宴	zong jiao zhi yan	100
 總還鷗鷺	zong hai ou lu	100
@@ -18846,13 +19208,13 @@ sort: by_weight
 罔敷求先王	wang fu qiu xian wang	100
 罔流涕以聊慮兮	wang liu ti yi liao lv xi	100
 罔芒芒之無紀	wang mang mang zhi wu ji	100
-罔薜荔兮爲帷	wang bi li xi wei wei	100
+罔薜荔兮為帷	wang bi li xi wei wei	100
 罙入其阻	shen ru qi zu	100
 罨畫園林溪紺碧	yan hua yuan lin xi gan bi	100
 罨畫橋邊春水	yan hua qiao bian chun shui	100
 罪從大辟皆除死	zui cong da pi jie chu si	100
 罪罟不收	zui gu bu shou	100
-置以爲像兮	zhi yi wei xiang xi	100
+置以為像兮	zhi yi wei xiang xi	100
 置我鞀鼓	zhi wo tao gu	100
 置我鞉鼓	zhi wo tao gu	100
 置猿狖於櫺檻兮	zhi yuan you yu ling kan xi	100
@@ -18866,7 +19228,7 @@ sort: by_weight
 罷歸無舊業	ba gui wu jiu ye	100
 罷相作	ba xiang zuo	100
 罻羅張而在下	wei luo zhang er zai xia	100
-罾何爲兮木上	zeng he wei xi mu shang	100
+罾何為兮木上	zeng he wei xi mu shang	100
 羅帳燈昏	luo zhang deng hun	100
 羅帳罷鑪燻	luo zhang ba lu xun	100
 羅帳裊香平	luo zhang niao xiang ping	100
@@ -18953,7 +19315,7 @@ sort: by_weight
 美人既醉	mei ren ji zui	100
 美人清江畔	mei ren qing jiang pan	100
 美人相並立瓊軒	mei ren xiang bing li qiong xuan	100
-美人胡爲隔秋水	mei ren hu wei ge qiu shui	100
+美人胡為隔秋水	mei ren hu wei ge qiu shui	100
 美人驚起	mei ren jing qi	100
 美冒衆流	mei mao zhong liu	100
 美如玉	mei ru yu	100
@@ -19078,7 +19440,7 @@ sort: by_weight
 翠簾慵卷	cui lian yong juan	100
 翠綃封淚	cui xiao feng lei	100
 翠綃香減	cui xiao xiang jian	100
-翠縹兮爲裳	cui piao xi wei chang	100
+翠縹兮為裳	cui piao xi wei chang	100
 翠翹慵整倚雲屏	cui qiao yong zheng yi yun ping	100
 翠翹攲鬢	cui qiao qi bin	100
 翠翹金縷雙鸂鶒	cui qiao jin lv shuang xi chi	100
@@ -19176,7 +19538,7 @@ sort: by_weight
 老夫不知其所往	lao fu bu zhi qi suo wang	100
 老夫灌灌	lao fu guan guan	100
 老妻畫紙成棋局	lao qi hua zhi cheng qi ju	100
-老妻畫紙爲棋局	lao qi hua zhi wei qi ju	100
+老妻畫紙為棋局	lao qi hua zhi wei qi ju	100
 老子婆娑	lao zi po suo	100
 老子經行處	lao zi jing xing chu	100
 老將行	lao jiang xing	100
@@ -19185,7 +19547,7 @@ sort: by_weight
 老病有孤舟	lao bing you gu zhou	100
 老眼平生空四海	lao yan ping sheng kong si hai	100
 老至居人下	lao zhi ju ren xia	100
-老馬反爲駒	lao ma fan wei ju	100
+老馬反為駒	lao ma fan wei ju	100
 老魚吹浪	lao yu chui lang	100
 考卜維王	kao bo wei wang	100
 考慎其相	kao shen qi xiang	100
@@ -19208,7 +19570,7 @@ sort: by_weight
 而厥身不危敗	er jue shen bu wei bai	100
 而吉妃是得	er ji fei shi de	100
 而后帝不若	er hou di bu ruo	100
-而多爲恤	er duo wei xu	100
+而多為恤	er duo wei xu	100
 而妻彼雒嬪	er qi bi luo pin	100
 而式弘大	er shi hong da	100
 而快鼌飽	er kuai chao bao	100
@@ -19300,7 +19662,7 @@ sort: by_weight
 聞南藩樂而欲往兮	wen nan fan le er yu wang xi	100
 聞官軍收河南河北	wen guan jun shou he nan he bei	100
 聞琴解佩神仙侶	wen qin jie pei shen xian lv	100
-聞百里之爲虜兮	wen bai li zhi wei lu xi	100
+聞百里之為虜兮	wen bai li zhi wei lu xi	100
 聞省想而不可得	wen sheng xiang er bu ke de	100
 聞笛	wen di	100
 聞素女兮微歌	wen su nv xi wei ge	100
@@ -19321,7 +19683,7 @@ sort: by_weight
 聞風坐相悅	wen feng zuo xiang yue	100
 聯極望	lian ji wang	100
 聯步趨丹陛	lian bu qu dan bi	100
-聯蕙芷以爲佩兮	lian hui zhi yi wei pei xi	100
+聯蕙芷以為佩兮	lian hui zhi yi wei pei xi	100
 聲促	sheng cu	100
 聲價如故	sheng jia ru gu	100
 聲哀哀而懷高丘兮	sheng ai ai er huai gao qiu xi	100
@@ -19348,8 +19710,8 @@ sort: by_weight
 職思其居	zhi si qi ju	100
 職思其憂	zhi si qi you	100
 職涼善背	zhi liang shan bei	100
-職爲亂階	zhi wei luan jie	100
-職盜爲寇	zhi dao wei kou	100
+職為亂階	zhi wei luan jie	100
+職盜為寇	zhi dao wei kou	100
 職競用力	zhi jing yong li	100
 職競由人	zhi jing you ren	100
 聽人笑語	ting ren xiao yu	100
@@ -19481,13 +19843,13 @@ sort: by_weight
 胡然我念之	hu ran wo nian zhi	100
 胡然而天也	hu ran er tian ye	100
 胡然而帝也	hu ran er di ye	100
-胡爲乎中露	hu wei hu zhong lu	100
-胡爲乎來哉	hu wei hu lai zai	100
-胡爲乎株林	hu wei hu zhu lin	100
-胡爲乎泥中	hu wei hu ni zhong	100
-胡爲我作	hu wei wo zuo	100
-胡爲此堂	hu wei ci tang	100
-胡爲虺蜴	hu wei hui yi	100
+胡為乎中露	hu wei hu zhong lu	100
+胡為乎來哉	hu wei hu lai zai	100
+胡為乎株林	hu wei hu zhu lin	100
+胡為乎泥中	hu wei hu ni zhong	100
+胡為我作	hu wei wo zuo	100
+胡為此堂	hu wei ci tang	100
+胡為虺蜴	hu wei hui yi	100
 胡琴琵琶與羌笛	hu qin pi pa yu qiang di	100
 胡瞻爾庭有縣特兮	hu zhan er ting you xian te xi	100
 胡瞻爾庭有縣貆兮	hu zhan er ting you xian huan xi	100
@@ -19631,7 +19993,7 @@ sort: by_weight
 臨高山些	lin gao shan xie	100
 自云良家子	zi yun liang jia zi	100
 自今以始	zi jin yi shi	100
-自令放爲	zi ling fang wei	100
+自令放為	zi ling fang wei	100
 自伯之東	zi bo zhi dong	100
 自何能穀	zi he neng gu	100
 自公令之	zi gong ling zhi	100
@@ -19681,7 +20043,7 @@ sort: by_weight
 自我人究究	zi wo ren jiu jiu	100
 自我徂爾	zi wo cu er	100
 自明及晦	zi ming ji hui	100
-自昔何爲	zi xi he wei	100
+自昔何為	zi xi he wei	100
 自春來	zi chun lai	100
 自是不歸歸便得	zi shi bu gui gui bian de	100
 自是休文	zi shi xiu wen	100
@@ -19695,7 +20057,7 @@ sort: by_weight
 自求辛螫	zi qiu xin shi	100
 自河南經亂	zi he nan jing luan	100
 自清涼無汗	zi qing liang wu han	100
-自爾爲佳節	zi er wei jia jie	100
+自爾為佳節	zi er wei jia jie	100
 自牧歸荑	zi mu gui ti	100
 自獨俾臧	zi du bi zang	100
 自當逢雨露	zi dang feng yu lu	100
@@ -19737,7 +20099,7 @@ sort: by_weight
 至今九年而不復	zhi jin jiu nian er bu fu	100
 至今商女	zhi jin shang nv	100
 至今殘破膽	zhi jin can po dan	100
-至今爲梗	zhi jin wei geng	100
+至今為梗	zhi jin wei geng	100
 至今猶惹御爐香	zhi jin you re yu lu xiang	100
 至今猶憶李將軍	zhi jin you yi li jiang jun	100
 至今窺牧馬	zhi jin kui mu ma	100
@@ -19788,7 +20150,7 @@ sort: by_weight
 與朱山人	yu zhu shan ren	100
 與梅並作十分春	yu mei bing zuo shi fen chun	100
 與波上下	yu bo shang xia	100
-與泰初而爲鄰	yu tai chu er wei lin	100
+與泰初而為鄰	yu tai chu er wei lin	100
 與爾同消萬古愁	yu er tong xiao wan gu chou	100
 與爾臨衝	yu er lin chong	100
 與王趨夢兮	yu wang qu meng xi	100
@@ -19797,7 +20159,7 @@ sort: by_weight
 與神龍乎休息	yu shen long hu xiu xi	100
 與空階榆莢	yu kong jie yu jia	100
 與織女兮合婚	yu zhi nv xi he hun	100
-與纁黃以爲期	yu xun huang yi wei qi	100
+與纁黃以為期	yu xun huang yi wei qi	100
 與美人抽怨兮	yu mei ren chou yuan xi	100
 與親故別	yu qin gu bie	100
 與詩平	yu shi ping	100
@@ -19825,12 +20187,12 @@ sort: by_weight
 興離騷之微文兮	xing li sao zhi wei wen xi	100
 興雨祁祁	xing yu qi qi	100
 興雨祈祈	xing yu qi qi	100
-舉世以爲恒俗兮	ju shi yi wei heng su xi	100
+舉世以為恒俗兮	ju shi yi wei heng su xi	100
 舉世皆濁我獨清	ju shi jie zhuo wo du qing	100
 舉世皆然兮	ju shi jie ran xi	100
 舉傑壓陛	ju jie ya bi	100
 舉天罼兮掩邪	ju tian bi xi yan xie	100
-舉斗柄㠯爲麾	ju dou bing yi wei hui	100
+舉斗柄㠯為麾	ju dou bing yi wei hui	100
 舉杯消愁愁更愁	ju bei xiao chou chou geng chou	100
 舉杯邀明月	ju bei yao ming yue	100
 舉賢而授能兮	ju xian er shou neng xi	100
@@ -20160,7 +20522,7 @@ sort: by_weight
 若是適來新夢見	ruo shi shi lai xin meng jian	100
 若有人兮山之阿	ruo you ren xi shan zhi a	100
 若此無罪	ruo ci wu zui	100
-若爲情	ruo wei qing	100
+若為情	ruo wei qing	100
 若由夷之純美兮	ruo you yi zhi chun mei xi	100
 若竹柏之異心	ruo zhu bai zhi yi xin	100
 若縱火於秋蓬	ruo zong huo yu qiu peng	100
@@ -20221,7 +20583,7 @@ sort: by_weight
 茹藘在阪	ru lv zai ban	100
 荀令如今頓老	xun ling ru jin dun lao	100
 荃不察余之中情兮	quan bu cha yu zhi zhong qing xi	100
-荃蕙化而爲茅	quan hui hua er wei mao	100
+荃蕙化而為茅	quan hui hua er wei mao	100
 草不潰茂	cao bu kui mao	100
 草初齊	cao chu qi	100
 草暗斜川	cao an xie chuan	100
@@ -20476,11 +20838,11 @@ sort: by_weight
 萬般方寸	wan ban fang cun	100
 萬葉千聲皆是恨	wan ye qian sheng jie shi hen	100
 萬變其情豈可蓋兮	wan bian qi qing qi ke gai xi	100
-萬象爲賓客	wan xiang wei bin ke	100
+萬象為賓客	wan xiang wei bin ke	100
 萬邦之屏	wan bang zhi ping	100
 萬邦之方	wan bang zhi fang	100
 萬邦作孚	wan bang zuo fu	100
-萬邦爲憲	wan bang wei xian	100
+萬邦為憲	wan bang wei xian	100
 萬里孤雲	wan li gu yun	100
 萬里寒光生積雪	wan li han guang sheng ji xue	100
 萬里平湖秋色冷	wan li ping hu qiu se leng	100
@@ -20614,7 +20976,7 @@ sort: by_weight
 蓀何㠯兮愁苦	sun he yi xi chou ku	100
 蓀壁兮紫壇	sun bi xi zi tan	100
 蓀橈兮蘭旌	sun rao xi lan jing	100
-蓀獨宜兮爲民正	sun du yi xi wei min zheng	100
+蓀獨宜兮為民正	sun du yi xi wei min zheng	100
 蓀詳聾而不聞	sun xiang long er bu wen	100
 蓄怨兮積思	xu yuan xi ji si	100
 蓄英	xu ying	100
@@ -20623,7 +20985,7 @@ sort: by_weight
 蓋云歸處	gai yun gui chu	100
 蓋亦勿思	gai yi wu si	100
 蓋嘉運	gai jia yun	100
-蓋爲余而造怒	gai wei yu er zao nu	100
+蓋為余而造怒	gai wei yu er zao nu	100
 蓋見茲以永歎兮	gai jian zi yi yong tan xi	100
 蓍蔡兮踊躍	shi cai xi yong yue	100
 蓬壺蕖侵	peng hu qu qin	100
@@ -20634,7 +20996,7 @@ sort: by_weight
 蓬萊宮闕對南山	peng lai gong que dui nan shan	100
 蓬萊文章建安骨	peng lai wen zhang jian an gu	100
 蓬萊此去無多路	peng lai ci qu wu duo lu	100
-蓬門今始爲君開	peng men jin shi wei jun kai	100
+蓬門今始為君開	peng men jin shi wei jun kai	100
 蓬門未識綺羅香	peng men wei shi qi luo xiang	100
 蓮冠穩篸鈿篦橫	lian guan wen can tian bi heng	100
 蓮凋月慘儀形	lian diao yue can yi xing	100
@@ -20882,7 +21244,7 @@ sort: by_weight
 蛛絲罩	zhu si zhao	100
 蛛網添絲屋角晴	zhu wang tian si wu jiao qing	100
 蛜蚨兮噍噍	yi fu xi jiao jiao	100
-蛟何爲兮水裔	jiao he wei xi shui yi	100
+蛟何為兮水裔	jiao he wei xi shui yi	100
 蛟絲結網露珠多	jiao si jie wang lu zhu duo	100
 蛟綃霧縠籠香雪	jiao xiao wu hu long xiang xue	100
 蛟饞龍怒	jiao chan long nu	100
@@ -20961,7 +21323,7 @@ sort: by_weight
 蟬吟人靜	chan yin ren jing	100
 蟬噪夕陽餘	chan zao xi yang yu	100
 蟬寂漠而無聲	chan ji mo er wu sheng	100
-蟬翼爲重	chan yi wei zhong	100
+蟬翼為重	chan yi wei zhong	100
 蟬聲斷續悲殘月	chan sheng duan xu bei can yue	100
 蟬髩美人愁絕	chan bin mei ren chou jue	100
 蟬鬢低含綠	chan bin di han lv	100
@@ -21002,7 +21364,7 @@ sort: by_weight
 衆女嫉余之蛾眉兮	zhong nv ji yu zhi e mei xi	100
 衆孰可與深謀	zhong shu ke yu shen mou	100
 衆枉聚而矯直	zhong wang ju er jiao zhi	100
-衆果以我爲患	zhong guo yi wo wei huan	100
+衆果以我為患	zhong guo yi wo wei huan	100
 衆比周以肩迫兮	zhong bi zhou yi jian po xi	100
 衆皆競進以貪婪兮	zhong jie jing jin yi tan lan xi	100
 衆稺且狂	zhong zhi qie kuang	100
@@ -21010,7 +21372,7 @@ sort: by_weight
 衆穢盛兮沓沓	zhong hui sheng xi da da	100
 衆維魚矣	zhong wei yu yi	100
 衆芳搖落獨鮮妍	zhong fang yao luo du xian yan	100
-衆莫知兮余所爲	zhong mo zhi xi yu suo wei	100
+衆莫知兮余所為	zhong mo zhi xi yu suo wei	100
 衆薆然而蔽之	zhong ai ran er bi zhi	100
 衆裏尋他千百度	zhong li xun ta qian bai du	100
 衆讒人之嫉妒兮	zhong chan ren zhi ji du xi	100
@@ -21103,7 +21465,7 @@ sort: by_weight
 衡陽雁去無留意	heng yang yan qu wu liu yi	100
 衣上灞陵雨	yi shang ba ling yu	100
 衣上酒痕詩裏字	yi shang jiu hen shi li zi	100
-衣不苟而爲溫	yi bu gou er wei wen	100
+衣不苟而為溫	yi bu gou er wei wen	100
 衣冠身惹御爐香	yi guan shen re yu lu xiang	100
 衣帶漸寬終不悔	yi dai jian kuan zhong bu hui	100
 衣攝葉以儲與兮	yi she ye yi chu yu xi	100
@@ -21169,7 +21531,7 @@ sort: by_weight
 裳襜襜而含風兮	chang chan chan er han feng xi	100
 裳錦褧裳	chang jin jiong chang	100
 裴迪	pei di	100
-製芰荷以爲衣兮	zhi ji he yi wei yi xi	100
+製芰荷以為衣兮	zhi ji he yi wei yi xi	100
 褎如充耳	xiu ru chong er	100
 褒公鄂公毛髮動	bao gong e gong mao fa dong	100
 褒姒烕之	bao si mie zhi	100
@@ -21249,10 +21611,10 @@ sort: by_weight
 要褭奔亡兮	yao niao ben wang xi	100
 覃及鬼方	tan ji gui fang	100
 覆俾我悖	fu bi wo bei	100
-覆出爲惡	fu chu wei e	100
+覆出為惡	fu chu wei e	100
 覆怨其正	fu yuan qi zheng	100
 覆狂以喜	fu kuang yi xi	100
-覆用爲虐	fu yong wei nve	100
+覆用為虐	fu yong wei nve	100
 覆背善詈	fu bei shan li	100
 覆舟斟尋	fu zhou zhen xun	100
 覆謂我僭	fu wei wo jian	100
@@ -21469,13 +21831,13 @@ sort: by_weight
 記翠箔張燈	ji cui bo zhang deng	100
 記醉蹋南屏	ji zui ta nan ping	100
 記長楸走馬	ji zhang qiu zou ma	100
-訟謂閭娵爲醜惡	song wei lv ju wei chou e	100
+訟謂閭娵為醜惡	song wei lv ju wei chou e	100
 訪中興	fang zhong xing	100
 訪予落止	fang yu luo zhi	100
 訪劉郎	fang liu lang	100
 訪太昊兮道要	fang tai hao xi dao yao	100
 訪舊傷離欲斷魂	fang jiu shang li yu duan hun	100
-訪舊半爲鬼	fang jiu ban wei gui	100
+訪舊半為鬼	fang jiu ban wei gui	100
 訪落	fang luo	100
 訪袁拾遺不遇	fang yuan shi yi bu yu	100
 訪鄰尋里	fang lin xun li	100
@@ -21490,7 +21852,7 @@ sort: by_weight
 許渾	xu hun	100
 訴五帝以置辭	su wu di yi zhi ci	100
 訴衷情	su zhong qing	100
-訿玉璧兮爲石	zi yu bi xi wei shi	100
+訿玉璧兮為石	zi yu bi xi wei shi	100
 詎肯感激徒媕婀	ju ken gan ji tu an e	100
 詒厥孫謀	yi jue sun mou	100
 詒孫子	yi sun zi	100
@@ -21618,7 +21980,7 @@ sort: by_weight
 誰得似	shui de shi	100
 誰從作爾室	shui cong zuo er shi	100
 誰從穆公	shui cong mu gong	100
-誰復著手爲摩挲	shui fu zhu shou wei ma sa	100
+誰復著手為摩挲	shui fu zhu shou wei ma sa	100
 誰念北樓上	shui nian bei lou shang	100
 誰怕	shui pa	100
 誰愛風流高格調	shui ai feng liu gao ge diao	100
@@ -21634,10 +21996,10 @@ sort: by_weight
 誰是	shui shi	100
 誰歎賞	shui tan shang	100
 誰無父母	shui wu fu mu	100
-誰爲含愁獨不見	shui wei han chou du bu jian	100
-誰爲我	shui wei wo	100
-誰爲此禍	shui wei ci huo	100
-誰爲表予心	shui wei biao yu xin	100
+誰為含愁獨不見	shui wei han chou du bu jian	100
+誰為我	shui wei wo	100
+誰為此禍	shui wei ci huo	100
+誰為表予心	shui wei biao yu xin	100
 誰生厲階	shui sheng li jie	100
 誰知其數	shui zhi qi shu	100
 誰知別有深情	shui zhi bie you shen qing	100
@@ -21675,7 +22037,7 @@ sort: by_weight
 誰識	shui shi	100
 誰道閒情拋棄久	shui dao xian qing pao qi jiu	100
 誰遣風沙暗南浦	shui qian feng sha an nan pu	100
-誰適爲容	shui shi wei rong	100
+誰適為容	shui shi wei rong	100
 誰適與謀	shui shi yu mou	100
 誰采蘋花寄取	shui cai ping hua ji qu	100
 課後先	ke hou xian	100
@@ -21686,7 +22048,7 @@ sort: by_weight
 調角斷清秋	diao jiao duan qing qiu	100
 談笑無還期	tan xiao wu hai qi	100
 談笑間	tan xiao jian	100
-請君爲我傾耳聽	qing jun wei wo qing er ting	100
+請君為我傾耳聽	qing jun wei wo qing er ting	100
 請君莫向那岸邊	qing jun mo xiang na an bian	100
 請君試問東流水	qing jun shi wen dong liu shui	100
 請奏鳴琴廣陵客	qing zou ming qin guang ling ke	100
@@ -21779,7 +22141,7 @@ sort: by_weight
 謫居臥病潯陽城	zhe ju wo bing xun yang cheng	100
 謬諫	miu jian	100
 謳和揚阿	ou he yang a	100
-謹厚以爲豐	jin hou yi wei feng	100
+謹厚以為豐	jin hou yi wei feng	100
 謹爾侯度	jin er hou du	100
 謾倚遍危闌	man yi bian wei lan	100
 謾留羅帶結	man liu luo dai jie	100
@@ -21799,7 +22161,7 @@ sort: by_weight
 讀罷淚沾襟	du ba lei zhan jin	100
 變一庭淒冷	bian yi ting qi leng	100
 變古易俗兮世衰	bian gu yi su xi shi shuai	100
-變白以爲黑兮	bian bai yi wei hei xi	100
+變白以為黑兮	bian bai yi wei hei xi	100
 變調各聞楊柳春	bian diao ge wen yang liu chun	100
 讒之天子言其私	chan zhi tian zi yan qi si	100
 讒人罔極	chan ren wang ji	100
@@ -21847,7 +22209,7 @@ sort: by_weight
 豈堪期約有時乖	qi kan qi yue you shi guai	100
 豈宜重問後庭花	qi yi zhong wen hou ting hua	100
 豈弟君子	qi di jun zi	100
-豈必局促爲人鞿	qi bi ju cu wei ren ji	100
+豈必局促為人鞿	qi bi ju cu wei ren ji	100
 豈忠信之可化	qi zhong xin zhi ke hua	100
 豈敢定居	qi gan ding ju	100
 豈敢愛之	qi gan ai zhi	100
@@ -22082,7 +22444,7 @@ sort: by_weight
 超慌忽其焉如	chao huang hu qi yan ru	100
 超氛埃而淑尤兮	chao fen ai er shu you xi	100
 超永思乎故鄉	chao yong si hu gu xiang	100
-超無爲㠯至清兮	chao wu wei yi zhi qing xi	100
+超無為㠯至清兮	chao wu wei yi zhi qing xi	100
 超逍遙兮今焉薄	chao xiao yao xi jin yan bao	100
 超驤捲阿	chao xiang juan a	100
 越人語天姥	yue ren yu tian lao	100
@@ -22304,7 +22666,7 @@ sort: by_weight
 載輸爾載	zai shu er zai	100
 載酒買花年少事	zai jiu mai hua nian shao shi	100
 載錫之光	zai xi zhi guang	100
-載雌霓而爲旌	zai ci ni er wei jing	100
+載雌霓而為旌	zai ci ni er wei jing	100
 載離寒暑	zai li han shu	100
 載雲旗之委蛇	zai yun qi zhi wei yi	100
 載雲旗之委蛇兮	zai yun qi zhi wei yi xi	100
@@ -22401,7 +22763,7 @@ sort: by_weight
 辜負春晝	gu fu chun zhou	100
 辜負枕前雲雨	gu fu zhen qian yun yu	100
 辜負香衾事早朝	gu fu xiang qin shi zao chao	100
-辟爾爲德	pi er wei de	100
+辟爾為德	pi er wei de	100
 辟與此其無異	pi yu ci qi wu yi	100
 辟言不信	pi yan bu xin	100
 辭之懌矣	ci zhi yi yi	100
@@ -22597,8 +22959,8 @@ sort: by_weight
 造我車兮南端	zao wo che xi nan duan	100
 造新歌些	zao xin ge xie	100
 造旬始而觀清都	zao xun shi er guan qing dou	100
-造父爲我操之	zao fu wei wo cao zhi	100
-造舟爲梁	zao zhou wei liang	100
+造父為我操之	zao fu wei wo cao zhi	100
+造舟為梁	zao zhou wei liang	100
 逡巡	qun xun	100
 逡巡兮圃藪	qun xun xi pu sou	100
 逡巡覺後	qun xun jue hou	100
@@ -23041,7 +23403,7 @@ sort: by_weight
 邪氣襲余之形體兮	xie qi xi yu zhi xing ti xi	100
 邪說飾而多曲兮	xie shuo shi er duo qu xi	100
 邱巒奔摧	qiu luan ben cui	100
-邱爲	qiu wei	100
+邱為	qiu wei	100
 邵雍	shao yong	100
 邶風	bei feng	100
 邸余車兮方林	di yu che xi fang lin	100
@@ -23078,7 +23440,7 @@ sort: by_weight
 都是江南舊相識	dou shi jiang nan jiu xiang shi	100
 都是醒時煩惱	dou shi xing shi fan nao	100
 都無人管	dou wu ren guan	100
-都爲輕別	dou wei qing bie	100
+都為輕別	dou wei qing bie	100
 都督僉事楊文慶征南	du du qian shi yang wen qing zheng nan	100
 都緣自有離恨	dou yuan zi you li hen	100
 都護鐵衣冷猶著	dou hu tie yi leng you zhu	100
@@ -23350,7 +23712,7 @@ sort: by_weight
 金盤珠露滴	jin pan zhu lu di	100
 金盤簇燕	jin pan cu yan	100
 金盤點綴蘇山	jin pan dian zhui su shan	100
-金石刻畫臣能爲	jin shi ke hua chen neng wei	100
+金石刻畫臣能為	jin shi ke hua chen neng wei	100
 金碧上青空	jin bi shang qing kong	100
 金磬敲清露	jin qing qiao qing lu	100
 金籠鶯報天將曙	jin long ying bao tian jiang shu	100
@@ -23541,7 +23903,7 @@ sort: by_weight
 錫飛常近鶴	xi fei chang jin he	100
 錯權衡而任意	cuo quan heng er ren yi	100
 錯相倚	cuo xiang yi	100
-鍾牙已死誰爲聲兮	zhong ya yi si shui wei sheng xi	100
+鍾牙已死誰為聲兮	zhong ya yi si shui wei sheng xi	100
 鍾鼓喤喤	zhong gu huang huang	100
 鍾鼓既戒	zhong gu ji jie	100
 鍾鼓既設	zhong gu ji she	100
@@ -23589,8 +23951,8 @@ sort: by_weight
 鑪邊人似月	lu bian ren shi yue	100
 鑾輿出狩回	luan yu chu shou hui	100
 鑾輿迥出千門柳	luan yu jiong chu qian men liu	100
-鑿山楹而爲室兮	zao shan ying er wei shi xi	100
-鑿申椒以爲糧	zao shen jiao yi wei liang	100
+鑿山楹而為室兮	zao shan ying er wei shi xi	100
+鑿申椒以為糧	zao shen jiao yi wei liang	100
 鑿石作鼓隳嵯峨	zao shi zuo gu hui cuo e	100
 長亭別宴	zhang ting bie yan	100
 長亭怨慢	zhang ting yuan man	100
@@ -24014,7 +24376,7 @@ sort: by_weight
 隨山將萬轉	sui shan jiang wan zhuan	100
 隨意春芳歇	sui yi chun fang xie	100
 隨真人兮翱翔	sui zhen ren xi ao xiang	100
-隨風化爲輕絮	sui feng hua wei qing xu	100
+隨風化為輕絮	sui feng hua wei qing xu	100
 隨風滿地石亂走	sui feng man di shi luan zou	100
 隨風靡而成行	sui feng mi er cheng hang	100
 隨飄風之所仍	sui piao feng zhi suo reng	100
@@ -24077,7 +24439,7 @@ sort: by_weight
 集于苞栩	ji yu bao xu	100
 集于苞桑	ji yu bao sang	100
 集于苞棘	ji yu bao ji	100
-集芙蓉以爲裳	ji fu rong yi wei chang	100
+集芙蓉以為裳	ji fu rong yi wei chang	100
 集重陽入帝宮兮	ji zhong yang ru di gong xi	100
 集靈臺	ji ling tai	100
 雉之朝雊	zhi zhi chao gou	100
@@ -24104,7 +24466,7 @@ sort: by_weight
 雖則如雲	sui ze ru yun	100
 雖曰匪予	sui yue fei yu	100
 雖有兄弟	sui you xiong di	100
-雖有八師而不可爲	sui you ba shi er bu ke wei	100
+雖有八師而不可為	sui you ba shi er bu ke wei	100
 雖有絕頂誰能窮	sui you jue ding shui neng qiong	100
 雖有西施之美容兮	sui you xi shi zhi mei rong xi	100
 雖滅沒之自樂	sui mie mei zhi zi le	100
@@ -24172,8 +24534,8 @@ sort: by_weight
 雜佩以贈之	za pei yi zeng zhi	100
 雜斑駮與闒茸	za ban bo yu ta rong	100
 雜杜衡與芳芷	za du heng yu fang zhi	100
-雜橘柚以爲囿兮	za ju you yi wei you xi	100
-雜瑤象以爲車	za yao xiang yi wei che	100
+雜橘柚以為囿兮	za ju you yi wei you xi	100
+雜瑤象以為車	za yao xiang yi wei che	100
 雜申椒與菌桂兮	za shen jiao yu jun gui xi	100
 雜芰荷些	za ji he xie	100
 雜詩	za shi	100
@@ -24438,7 +24800,7 @@ sort: by_weight
 霏霧弄晴	fei wu nong qing	100
 霑余襟之浪浪	zhan yu jin zhi lang lang	100
 霓旌絳節一羣羣	ni jing jiang jie yi qun qun	100
-霓爲衣兮風爲馬	ni wei yi xi feng wei ma	100
+霓為衣兮風為馬	ni wei yi xi feng wei ma	100
 霓袖捧瑤琴	ni xiu peng yao qin	100
 霓裳中序第一	ni chang zhong xu di yi	100
 霓裳曲罷	ni chang qu ba	100
@@ -24517,7 +24879,7 @@ sort: by_weight
 靄靄春空	ai ai chun kong	100
 靈之來兮如雲	ling zhi lai xi ru yun	100
 靈之來兮蔽日	ling zhi lai xi bi ri	100
-靈何爲兮水中	ling he wei xi shui zhong	100
+靈何為兮水中	ling he wei xi shui zhong	100
 靈偃蹇兮姣服	ling yan jian xi jiao fu	100
 靈均標致高如許	ling jun biao zhi gao ru xu	100
 靈娥皷琴韻清商	ling e gu qin yun qing shang	100
@@ -24605,7 +24967,7 @@ sort: by_weight
 青驪結駟兮	qing li jie si xi	100
 青鳥不來傳錦字	qing niao bu lai chuan jin zi	100
 青鳥傳心事	qing niao chuan xin shi	100
-青鳥殷勤爲探看	qing niao yin qin wei tan kan	100
+青鳥殷勤為探看	qing niao yin qin wei tan kan	100
 青鳥沈浮	qing niao shen fu	100
 青鳥飛去銜紅巾	qing niao fei qu xian hong jin	100
 青麥鷰飛落落	qing mai yan fei luo luo	100
@@ -24697,7 +25059,7 @@ sort: by_weight
 鞦韆院落重簾暮	qiu qian yuan luo zhong lian mu	100
 鞫人忮忒	ju ren zhi te	100
 鞫哉庶正	ju zai shu zheng	100
-鞫爲茂草	ju wei mao cao	100
+鞫為茂草	ju wei mao cao	100
 鞭風伯使先驅兮	bian feng bo shi xian qu xi	100
 鞹鞃淺幭	kuo hong qian mie	100
 韋應物	wei ying wu	100
@@ -24843,15 +25205,15 @@ sort: by_weight
 願承風乎遺則	yuan cheng feng hu yi ze	100
 願接盧敖遊太清	yuan jie lu ao you tai qing	100
 願搖起而橫奔兮	yuan yao qi er heng ben xi	100
-願教青帝常爲主	yuan jiao qing di chang wei zhu	100
-願春日以爲糗芳	yuan chun ri yi wei qiu fang	100
+願教青帝常為主	yuan jiao qing di chang wei zhu	100
+願春日以為糗芳	yuan chun ri yi wei qiu fang	100
 願春暫留	yuan chun zan liu	100
 願書萬本誦萬遍	yuan shu wan ben song wan bian	100
 願曾思而遠身	yuan ceng si er yuan shen	100
 願歲并謝	yuan sui bing xie	100
 願沈滯而不見兮	yuan shen zhi er bu jian xi	100
 願無過之設行兮	yuan wu guo zhi she xing xi	100
-願爲持竿叟	yuan wei chi gan sou	100
+願為持竿叟	yuan wei chi gan sou	100
 願皓日之顯行兮	yuan hao ri zhi xian xing xi	100
 願竢時乎吾將刈	yuan si shi hu wu jiang yi	100
 願竭節兮隔無由	yuan jie jie xi ge wu you	100
@@ -24871,7 +25233,7 @@ sort: by_weight
 願賜不肖之軀而別離兮	yuan ci bu xiao zhi qu er bie li xi	100
 願輕舉而遠遊	yuan qing ju er yuan you	100
 願退身而窮處	yuan tui shen er qiong chu	100
-願遂推而爲臧	yuan sui tui er wei zang	100
+願遂推而為臧	yuan sui tui er wei zang	100
 願銜枚而無言兮	yuan xian mei er wu yan xi	100
 願陳列而無正	yuan chen lie er wu zheng	100
 願陳志而無路	yuan chen zhi er wu lu	100
@@ -24886,7 +25248,7 @@ sort: by_weight
 顛沛之揭	dian pei zhi jie	100
 顛狂少年輕離別	dian kuang shao nian qing li bie	100
 顛狂柳絮隨風舞	dian kuang liu xu sui feng wu	100
-顛裳以爲衣	dian chang yi wei yi	100
+顛裳以為衣	dian chang yi wei yi	100
 顛覆厥德	dian fu jue de	100
 類可任兮	lei ke ren xi	100
 顧予烝嘗	gu yu zheng chang	100
@@ -24915,7 +25277,7 @@ sort: by_weight
 顯顯令德	xian xian ling de	100
 風不定	feng bu ding	100
 風亞舞腰纖軟	feng ya wu yao xian ruan	100
-風伯爲作先驅兮	feng bo wei zuo xian qu xi	100
+風伯為作先驅兮	feng bo wei zuo xian qu xi	100
 風光不與四時同	feng guang bu yu si shi tong	100
 風光別我苦吟身	feng guang bie wo ku yin shen	100
 風入松	feng ru song	100
@@ -25005,7 +25367,7 @@ sort: by_weight
 風雨晚來方定	feng yu wan lai fang ding	100
 風雨淒淒	feng yu qi qi	100
 風雨瀟瀟	feng yu xiao xiao	100
-風雲常爲護儲胥	feng yun chang wei hu chu xu	100
+風雲常為護儲胥	feng yun chang wei hu chu xu	100
 風露漸變	feng lu jian bian	100
 風頭如刀面如割	feng tou ru dao mian ru ge	100
 風颭	feng zhan	100
@@ -25074,7 +25436,7 @@ sort: by_weight
 飛鳥沒何處	fei niao mei he chu	100
 飛鳥號其羣兮	fei niao hao qi qun xi	100
 飛龍兮翩翩	fei long xi pian pian	100
-食不媮而爲飽兮	shi bu tou er wei bao xi	100
+食不媮而為飽兮	shi bu tou er wei bao xi	100
 食之飲之	shi zhi yin zhi	100
 食元氣兮長存	shi yuan qi xi zhang cun	100
 食多方些	shi duo fang xie	100
@@ -25378,7 +25740,7 @@ sort: by_weight
 高山仰止	gao shan yang zhi	100
 高山安可仰	gao shan an ke yang	100
 高山崔巍兮	gao shan cui wei xi	100
-高岸爲谷	gao an wei gu	100
+高岸為谷	gao an wei gu	100
 高帝子孫盡隆準	gao di zi sun jin long zhun	100
 高才脫略名與利	gao cai tuo lve ming yu li	100
 高明逼神惡	gao ming bi shen e	100
@@ -25545,7 +25907,7 @@ sort: by_weight
 魴魚赬尾	fang yu cheng wei	100
 魴鱧	fang li	100
 魴鱮甫甫	fang xu fu fu	100
-鮮不爲則	xian bu wei ze	100
+鮮不為則	xian bu wei ze	100
 鮮克有終	xian ke you zhong	100
 鮮可以飽	xian ke yi bao	100
 鮮我方將	xian wo fang jiang	100
@@ -25804,7 +26166,7 @@ sort: by_weight
 鸞分鑑影	luan fen jian ying	100
 鸞對影	luan dui ying	100
 鸞皇孔鳳日以遠兮	luan huang kong feng ri yi yuan xi	100
-鸞皇爲余先戒兮	luan huang wei yu xian jie xi	100
+鸞皇為余先戒兮	luan huang wei yu xian jie xi	100
 鸞翔鳳翥衆仙下	luan xiang feng zhu zhong xian xia	100
 鸞聲嘒嘒	luan sheng hui hui	100
 鸞聲噦噦	luan sheng yue yue	100
@@ -26034,7 +26396,7 @@ sort: by_weight
 旁求邃古	pang qiu sui gu	100
 逖聽鴻名	ti ting hong ming	100
 大寶曰位	da bao yue wei	100
-得一爲貞	de yi wei zhen	100
+得一為貞	de yi wei zhen	100
 朱綈叶祉	zhu ti ye zhi	100
 綠字摛英	lv zi chi ying	100
 升配同貫	sheng pei tong guan	100
@@ -26309,7 +26671,7 @@ sort: by_weight
 桂席羽觴陳	gui xi yu shang chen	100
 白雲邱陵遠	bai yun qiu ling yuan	100
 山川時未因	shan chuan shi wei yin	100
-一爲清吹激	yi wei qing chui ji	100
+一為清吹激	yi wei qing chui ji	100
 潺湲傷別巾	chan yuan shang bie jin	100
 天明開秀崿	tian ming kai xiu e	100
 瀾光媚碧堤	lan guang mei bi di	100
@@ -26343,7 +26705,7 @@ sort: by_weight
 故人來共持	gu ren lai gong chi	100
 方悅羅衿解	fang yue luo jin jie	100
 誰念髮成絲	shui nian fa cheng si	100
-徇性良爲達	xun xing liang wei da	100
+徇性良為達	xun xing liang wei da	100
 求名本自欺	qiu ming ben zi qi	100
 迨君當歌日	dai jun dang ge ri	100
 及我傾罇時	ji wo qing zun shi	100
@@ -26402,7 +26764,7 @@ sort: by_weight
 高歌更何已	gao ge geng he yi	100
 引滿終自期	yin man zhong zi qi	100
 欲知憂能老	yu zhi you neng lao	100
-爲視鏡中絲	wei shi jing zhong si	100
+為視鏡中絲	wei shi jing zhong si	100
 高唐與巫山	gao tang yu wu shan	100
 參差鬱相望	can cha yu xiang wang	100
 灼爍在雲間	zhuo shuo zai yun jian	100
@@ -26434,7 +26796,7 @@ sort: by_weight
 桂棹及晚風	gui zhao ji wan feng	100
 菱影映初月	ling ying ying chu yue	100
 芳草若可贈	fang cao ruo ke zeng	100
-爲君步羅襪	wei jun bu luo wa	100
+為君步羅襪	wei jun bu luo wa	100
 朝日映蘭澤	zhao ri ying lan ze	100
 乘風入桂嶼	cheng feng ru gui yu	100
 棹歌已流倡	zhao ge yi liu chang	100
@@ -26461,7 +26823,7 @@ sort: by_weight
 不迨春歸旦	bu dai chun gui dan	100
 帝圖潤九有	di tu run jiu you	100
 皇風浮四溟	huang feng fu si ming	100
-永明一爲樂	yong ming yi wei le	100
+永明一為樂	yong ming yi wei le	100
 咸池無復靈	xian chi wu fu ling	100
 民和禮樂富	min he li le fu	100
 世清歌頌徽	shi qing ge song hui	100
@@ -26498,7 +26860,7 @@ sort: by_weight
 彩鳳鳴朝陽	cai feng ming chao yang	100
 玄鶴舞清商	xuan he wu qing shang	100
 瑞此永明曲	rui ci yong ming qu	100
-千載今爲皇	qian zai jin wei huang	100
+千載今為皇	qian zai jin wei huang	100
 夕殿下珠薕	xi dian xia zhu lian	100
 流螢飛復息	liu ying fei fu xi	100
 長夜縫羅衣	zhang ye feng luo yi	100
@@ -26733,7 +27095,7 @@ sort: by_weight
 桑柘起寒烟	sang zhe qi han yan	100
 悵望心已極	chang wang xin yi ji	100
 惝怳魂屢遷	chang huang hun lv qian	100
-結髮倦爲旅	jie fa juan wei lv	100
+結髮倦為旅	jie fa juan wei lv	100
 平生早事邊	ping sheng zao shi bian	100
 誰規鼎食盛	shui gui ding shi sheng	100
 寧要狐白鮮	ning yao hu bai xian	100
@@ -26774,7 +27136,7 @@ sort: by_weight
 已傷慕歸客	yi shang mu gui ke	100
 復思離居者	fu si li ju zhe	100
 情嗜幸非多	qing shi xing fei duo	100
-案牘偏爲寡	an du pian wei gua	100
+案牘偏為寡	an du pian wei gua	100
 既乏琅邪政	ji fa lang xie zheng	100
 方憇洛陽社	fang qi luo yang she	100
 積水照頳霞	ji shui zhao cheng xia	100
@@ -26814,7 +27176,7 @@ sort: by_weight
 求志昔所欽	qiu zhi xi suo qin	100
 勝迹今能選	sheng ji jin neng xuan	100
 寄言賞心客	ji yan shang xin ke	100
-得性良爲善	de xing liang wei shan	100
+得性良為善	de xing liang wei shan	100
 夕帳懷椒糈	xi zhang huai jiao xu	100
 蠲景潔膋薌	juan jing jie liao xiang	100
 登秋雖未獻	deng qiu sui wei xian	100
@@ -27060,7 +27422,7 @@ sort: by_weight
 夢寐藉假簧	meng mei ji jia huang	100
 思歸賴倚瑟	si gui lai yi se	100
 幽念漸鬱陶	you nian jian yu tao	100
-山楹永爲室	shan ying yong wei shi	100
+山楹永為室	shan ying yong wei shi	100
 結宇夕陰街	jie yu xi yin jie	100
 荒途橫九曲	huang tu heng jiu qu	100
 迢遰南川陽	tiao di nan chuan yang	100
@@ -27157,7 +27519,7 @@ sort: by_weight
 憑軒方秉筆	ping xuan fang bing bi	100
 列俎歸單味	lie zu gui dan wei	100
 連駕止容膝	lian jia zhi rong xi	100
-空爲大國憂	kong wei da guo you	100
+空為大國憂	kong wei da guo you	100
 紛詭諒非一	fen gui liang fei yi	100
 安得掃蓬徑	an de sao peng jing	100
 銷吾愁與疾	xiao wu chou yu ji	100
@@ -27170,7 +27532,7 @@ sort: by_weight
 已有池上酌	yi you chi shang zhuo	100
 復此風中琴	fu ci feng zhong qin	100
 非君美無度	fei jun mei wu du	100
-孰爲勞寸心	shu wei lao cun xin	100
+孰為勞寸心	shu wei lao cun xin	100
 惠而能好我	hui er neng hao wo	100
 問以瑤華音	wen yi yao hua yin	100
 若遺金門步	ruo yi jin men bu	100
@@ -27191,7 +27553,7 @@ sort: by_weight
 丹樓青霞上	dan lou qing xia shang	100
 夕池出濠渚	xi chi chu hao zhu	100
 朝雲生疊嶂	chao yun sheng die zhang	100
-籠鳥易爲恩	long niao yi wei en	100
+籠鳥易為恩	long niao yi wei en	100
 屠羊無飾讓	tu yang wu shi rang	100
 泰階端且平	tai jie duan qie ping	100
 海水本無浪	hai shui ben wu lang	100
@@ -27374,7 +27736,7 @@ sort: by_weight
 不見一佳人	bu jian yi jia ren	100
 徒望西飛翼	tu wang xi fei yi	100
 春夜別清樽	chun ye bie qing zun	100
-江潭復爲客	jiang tan fu wei ke	100
+江潭復為客	jiang tan fu wei ke	100
 歎息東流水	tan xi dong liu shui	100
 如何故鄉陌	ru he gu xiang mo	100
 重樹日芬蒀	zhong shu ri fen yun	100
@@ -27488,7 +27850,7 @@ sort: by_weight
 東都已俶載	dong dou yi chu zai	100
 言歸望綠疇	yan gui wang lv chou	100
 江山信多美	jiang shan xin duo mei	100
-此地最爲神	ci di zui wei shen	100
+此地最為神	ci di zui wei shen	100
 以茲峯石麗	yi zi feng shi li	100
 重在芳樹春	zhong zai fang shu chun	100
 照爛虹蜺雜	zhao lan hong ni za	100
@@ -27504,7 +27866,7 @@ sort: by_weight
 昔途首遐路	xi tu shou xia lu	100
 未獲究清塵	wei huo jiu qing chen	100
 誓將返初服	shi jiang fan chu fu	100
-歲暮請爲鄰	sui mu qing wei lin	100
+歲暮請為鄰	sui mu qing wei lin	100
 昔余侍君子	xi yu shi jun zi	100
 歷此遊荆漢	li ci you jing han	100
 山川隔舊賞	shan chuan ge jiu shang	100
@@ -27546,7 +27908,7 @@ sort: by_weight
 良辰竟何許	liang chen jing he xu	100
 夙昔夢佳期	su xi meng jia qi	100
 坐嘯徒可積	zuo xiao tu ke ji	100
-爲邦歲已朞	wei bang sui yi ji	100
+為邦歲已朞	wei bang sui yi ji	100
 絃歌終莫取	xian ge zhong mo qu	100
 撫机令自嗤	fu ji ling zi chi	100
 王喬飛鳧舃	wang qiao fei fu xi	100
@@ -27605,7 +27967,7 @@ sort: by_weight
 聞君此夜琴	wen jun ci ye qin	100
 蕭瑟滿林聽	xiao se man lin ting	100
 輕鳴響澗音	qing ming xiang jian yin	100
-無爲澹容與	wu wei dan rong yu	100
+無為澹容與	wu wei dan rong yu	100
 蹉跎江海心	cuo tuo jiang hai xin	100
 炎靈遺劍璽	yan ling yi jian xi	100
 當塗駭龍戰	dang tu hai long zhan	100
@@ -27886,7 +28248,7 @@ sort: by_weight
 還顧昭暘闕	hai gu zhao yang que	100
 超遠章華臺	chao yuan zhang hua tai	100
 置酒巫山日	zhi jiu wu shan ri	100
-爲君停玉桮	wei jun ting yu bei	100
+為君停玉桮	wei jun ting yu bei	100
 桂樓飛絕限	gui lou fei jue xian	100
 超遠向江歧	chao yuan xiang jiang qi	100
 輕雲霽廣甸	qing yun ji guang dian	100
@@ -27970,7 +28332,7 @@ sort: by_weight
 參差不俱曜	can cha bu ju yao	100
 誰肯盼微叢	shui ken pan wei cong	100
 離離水上蒲	li li shui shang pu	100
-結水散爲珠	jie shui san wei zhu	100
+結水散為珠	jie shui san wei zhu	100
 閒廁秋菡萏	xian ce qiu han dan	100
 出入春鳧雛	chu ru chun fu chu	100
 初萌實雕俎	chu meng shi diao zu	100
@@ -28001,7 +28363,7 @@ sort: by_weight
 葉落更扶疎	ye luo geng fu shu	100
 無華復無實	wu hua fu wu shi	100
 何以贈離居	he yi zeng li ju	100
-裁爲圭與瑞	cai wei gui yu rui	100
+裁為圭與瑞	cai wei gui yu rui	100
 足可命參墟	zu ke ming can xu	100
 有美當階樹	you mei dang jie shu	100
 霜露未能移	shuang lu wei neng yi	100
@@ -28089,13 +28451,13 @@ sort: by_weight
 無使素塵彌	wu shi su chen mi	100
 結根終南下	jie gen zhong nan xia	100
 防露復披雲	fang lu fu pi yun	100
-雖爲九華扇	sui wei jiu hua shan	100
+雖為九華扇	sui wei jiu hua shan	100
 聊可滌炎氛	liao ke di yan fen	100
 安能偶狐白	an neng ou hu bai	100
 鶴卵織成文	he luan zhi cheng wen	100
 覆持鴛鴦被	fu chi yuan yang bei	100
 百和吐氛氲	bai he tu fen yun	100
-忽爲纖手用	hu wei xian shou yong	100
+忽為纖手用	hu wei xian shou yong	100
 歲暮待羅裙	sui mu dai luo qun	100
 庭雲亂如花	ting yun luan ru hua	100
 井冰粲成玉	jing bing can cheng yu	100
@@ -28273,7 +28635,7 @@ sort: by_weight
 與爾同羽翼	yu er tong yu yi	100
 首夏實清和	shou xia shi qing he	100
 餘春滿郊甸	yu chun man jiao dian	100
-花樹雜爲錦	hua shu za wei jin	100
+花樹雜為錦	hua shu za wei jin	100
 月池皎如練	yue chi jiao ru lian	100
 如何當此時	ru he dang ci shi	100
 別離言與面	bie li yan yu mian	100

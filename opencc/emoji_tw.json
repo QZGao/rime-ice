@@ -19,6 +19,10 @@
 					{
 						"type": "text",
 						"file": "others_tw.txt"
+					},
+					{
+						"type": "text",
+						"file": "supplements_tw.txt"
 					}
 				]
 			}
