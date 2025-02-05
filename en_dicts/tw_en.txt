@@ -14,6 +14,8 @@ X光片	Xguangpian
 X光片	xguangpian
 X射線	Xshexian
 X射線	xshexian
+Nabla算子	Nablasuanzi
+Nabla算子	nablasuanzi
 T恤	Txu
 T恤	txu
 T恤衫	Txushan
@@ -936,3 +938,6 @@ V8引擎	vbayinqing
 2D電影	erddianying
 3D電影	sanDdianying
 3D電影	sanddianying
+city不city	citybucity
+打call	dacall
+hold住	holdzhu

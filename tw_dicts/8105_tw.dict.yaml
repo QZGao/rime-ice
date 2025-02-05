@@ -27,7 +27,7 @@
 # 需要注音的字词设定在 others/script/rime/需要注音.txt
 ---
 name: 8105_tw
-version: "2024-11-20"
+version: "2025-02-03"
 sort: by_weight
 ...
 ### 按需启用
@@ -40,6 +40,7 @@ sort: by_weight
 𤭢	cei	1000
 𰻞	biang	1
 嬢	niang	1
+䝼	qing	1
 薙	ti	1
 菈	la	1
 卻	que	1
@@ -49,7 +50,7 @@ sort: by_weight
 凃	tu	1
 咲	xiao	1
 螓	qin	1
-珮	pei	0
+珮	pei	1
 睆	huan	1
 挼	rua	1
 㨃	dui	1
@@ -58,6 +59,7 @@ sort: by_weight
 鉝	li	1
 鿬	tian	1
 鿫	ao	1
+朊	ruan	1
 # 注释掉的这几行已经加入到下面并调整到合适的权重了
 # 〇	ling
 # 囧	jiong
@@ -995,6 +997,7 @@ sort: by_weight
 棰	chui	405
 倕	chui	17
 圌	chui	1
+椎	chui	1
 春	chun	414544
 純	chun	212265
 唇	chun	161329
@@ -1069,6 +1072,7 @@ sort: by_weight
 蹴	cu	1919
 卒	cu	600
 徂	cu	560
+酢	cu	371
 殂	cu	248
 蔟	cu	192
 竄	cuan	65974
@@ -1491,6 +1495,7 @@ sort: by_weight
 躉	dun	623
 礅	dun	270
 蹾	dun	224
+楯	dun	136
 砘	dun	53
 鐓	dun	25
 囤	dun	1
@@ -2150,6 +2155,7 @@ sort: by_weight
 匭	gui	123
 邽	gui	102
 鬹	gui	2
+匱	gui	1
 炅	gui	1
 筀	gui	0
 滾	gun	203922
@@ -4116,6 +4122,7 @@ sort: by_weight
 蟆	ma	9205
 獁	ma	1633
 榪	ma	70
+孖	ma	58
 禡	ma	4
 摩	ma	1
 買	mai	477539
@@ -4310,7 +4317,7 @@ sort: by_weight
 勔	mian	58
 愐	mian	5
 偭	mian	1
-鮸	mian	0
+鮸	mian	1
 妙	miao	280421
 秒	miao	90580
 描	miao	87436
@@ -4434,6 +4441,7 @@ sort: by_weight
 鉬	mu	180
 毪	mu	94
 仫	mu	27
+姥	mu	1
 牟	mu	1
 𧿹	mu	0
 鉧	mu	0
@@ -7177,6 +7185,7 @@ sort: by_weight
 噀	xun	37
 栒	xun	22
 浚	xun	1
+窨	xun	1
 纁	xun	0
 燖	xun	0
 璕	xun	0
@@ -8518,7 +8527,6 @@ sort: by_weight
 嵫	zi	150
 趑	zi	99
 茈	zi	92
-孖	zi	58
 粢	zi	57
 鯔	zi	39
 鎡	zi	22
