@@ -17,6 +17,7 @@ import_tables:
   - tw_dicts/hanyu
   - tw_dicts/hanhe
   - tw_dicts/poetry
+  - tw_dicts/bangdream
   
   - tw_dicts/cs_tw
   - tw_dicts/physics_tw

@@ -5,6 +5,7 @@ name: taiwanese
 version: "2024-08-22"
 sort: by_weight
 ...
+妳	ni	1422192
 台	tai	676961
 台灣	tai wan	500583
 讚	zan	177018
@@ -83,8 +84,8 @@ sort: by_weight
 林北	lin bei	1000
 恁爸	lin bei	1000
 
-PN接面
-SQL隱碼攻擊
+接面
+隱碼攻擊
 三極體
 下拉選單
 平行計算
