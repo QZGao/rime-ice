@@ -823,7 +823,7 @@ OK	OK 👌 🙆‍♂️ 🙆‍♀️ 🆗
 表揚	表揚 👍
 牛逼	牛逼 👍
 厲害	厲害 👍
-贊	贊 👍
+讚	讚 👍
 點讚	點讚 👍
 絕了	絕了 👍
 大拇指向下	大拇指向下 👎
@@ -4024,12 +4024,12 @@ Wi-Fi	Wi-Fi 🛜
 八角星	八角星 ✴️
 版權	版權 ©
 版權符號	版權符號 ©
-Copyright	Copyright ©
+copyright	copyright ©
 註冊	註冊 ®
 註冊標記	註冊標記 ®
 註冊商標符號	註冊商標符號 ®
 註冊商標	註冊商標 ®
-Registered	Registered ®
+registered	registered ®
 商標	商標 ™
 商標符號	商標符號 ™
 TM	TM ™

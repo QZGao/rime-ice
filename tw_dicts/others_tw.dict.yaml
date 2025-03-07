@@ -8,7 +8,7 @@
 #
 ---
 name: others_tw
-version: "2025-01-08"
+version: "2025-03-06"
 sort: by_weight
 ...
 ##### 容错词
@@ -329,6 +329,20 @@ sort: by_weight
 椎心泣血	zhui xin qi xie
 椎心泣血	chui xin qi xue
 椎心泣血	zhui xin qi xue
+挾持	xie chi
+挾持	xia chi
+亳州	bo zhou
+亳州	hao zhou
+牛丼	niu dan
+牛丼	niu jing
+牛丼飯	niu dan fan
+牛丼飯	niu jing fan
+安瓿	an bu
+安瓿	an pou
+安瓿瓶	an bu ping
+安瓿瓶	an pou ping
+金匱	jin gui
+金匱	jin kui
 ### 错字
 曾經	ceng jing
 曾今	ceng jin

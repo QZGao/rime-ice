@@ -1487,3 +1487,6 @@ Twitter	Twitter 𝕏
 橡膠果實	橡膠果實 幻獸種·人人果實·尼卡（太陽神）形態
 直角引號	直角引號 「」 『』
 千瓦	千瓦 瓩
+奔馳	奔馳 Benz Mercedes-Benz
+梅賽德斯	梅賽德斯 Mercedes
+梅賽德斯-奔馳	梅賽德斯-奔馳 Mercedes-Benz
