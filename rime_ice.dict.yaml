@@ -18,11 +18,12 @@ import_tables:
   - tw_dicts/hanhe
   - tw_dicts/poetry
   - tw_dicts/bangdream
+  - tw_dicts/genshin
+  - tw_dicts/honkai
+  - tw_dicts/zenless
   
   - tw_dicts/cs_tw
   - tw_dicts/physics_tw
-  - tw_dicts/genshin_tw
-  - tw_dicts/honkai_tw
 ...
 
 # 按需启用：
