@@ -44,7 +44,7 @@ TOKYO MX	tokyo mx
 一定又一個人在憂鬱了吧	yi ding you yi ge ren zai you yu le ba	1
 一定是騙人的 	yi ding shi pian ren de	1
 一旦加入就無法回頭了喔	yi dan jia ru jiu wu fa hui tou le wo	1
-一直都很重視CRYCHIC	yi zhi dou hen zhong shi _CRYCHIC	1
+一直都很重視CRYCHIC	yi zhi dou hen zhong shi crychic	1
 一輩子	yi bei zi	1
 一輩子跟我一起組樂團嗎	yi bei zi gen wo yi qi qu le tuan ma	1
 一頭霧水	yi tou wu shui	1
@@ -246,12 +246,12 @@ TOKYO MX	tokyo mx
 回去	hui qu	1
 回層浮	hui ceng fu
 回層浮	ka i so u
-因為CRYCHIC已經毀了	yin wei _CRYCHIC yi jing hui le	1
+因為CRYCHIC已經毀了	yin wei crychic yi jing hui le	1
 因為再也沒有這種機會了嘛	yin wei zai ye mei you zhe zhong ji hui le ma	1
 因為好像快壞掉了	yin wei hao xiang kuai huai diao le	1
 因為妳讓人無法信任	yin wei nai rang ren wu fa xin ren	1
 因為我不會彈吉他啊	yin wei wo bu hui dan ji ta a	1
-因為我不知道Mujica的歌啊	yin wei wo bu zhi dao _Mujica de ge a	1
+因為我不知道Mujica的歌啊	yin wei wo bu zhi dao mujica de ge a	1
 因為我只能做到這些	yin wei wo zhi neng zuo dao zhe xie	1
 因為我很想要嘛	yin wei wo hen xiang yao ma	1
 因為我的臉蛋也很漂亮	yin wei wo de lian dan ye hen piao liang	1
@@ -287,7 +287,7 @@ TOKYO MX	tokyo mx
 太先入為主了喔	tai xian ru wei zhu le wo	1
 太好了	tai hao le	1
 太扯了吧，怎麼會這麼辣啊	tai che le ba zen me hui zhe me la a	1
-太棒了，爽世同學LOVE	tai bang le shuang shi tong xue _LOVE	1
+太棒了，爽世同學LOVE	tai bang le shuang shi tong xue love	1
 太精采了	tai jing cai le	1
 太誇張了啦	tai kua zhang le la	1
 太過分了	tai guo fen le	1
@@ -296,13 +296,13 @@ TOKYO MX	tokyo mx
 她也太過分了吧	ta ye tai guo fen le ba	1
 她人生的一切或許都是演技吧	ta ren sheng de yi qie huo xu dou shi yan ji ba	1
 她到底想說什麼	ta dao di xiang shuo shen me	1
-她就是讓Ave Mujica解散的導火線	ta jiu shi rang _AveMujica jie san de dao huo xian	1
+她就是讓Ave Mujica解散的導火線	ta jiu shi rang ave mujica jie san de dao huo xian	1
 她放學後就不知道跑到哪去了	ta fang xue hou jiu bu zhi dao pao dao na qu le	1
 她既沒有反省也沒有任何改變	ta ji mei you fan sheng ye mei you ren he gai bian	1
 她是我朋友	ta shi wo peng you	1
 她有去拍人馬屁吧	ta you qu pai ren ma pi ba	1
 她有給妳答覆嗎	ta you gei nai da fu ma	1
-她現在是Sumimi的小初喔	ta xian zai shi _Sumimi de xiao chu wo	1
+她現在是Sumimi的小初喔	ta xian zai shi sumimi de xiao chu wo	1
 她真的好溫柔喔	ta zhen de hao wen rou wo	1
 她自己沒辦法嗎	ta zi ji mei ban fa ma	1
 她連自己在演戲都不曾察覺	ta lian zi ji zai yan xi dou bu ceng cha jiao	1
@@ -362,10 +362,10 @@ TOKYO MX	tokyo mx
 妳可以一直留在這裡	nai ke yi yi zhi liu zai zhe li	1
 妳在笑什麼	nai zai xiao shen me	1
 妳好，請問怎麼了嗎	nai hao qing wen zen me le ma	1
-妳好M喔	nai hao _M wo	1
+妳好M喔	nai hao m wo	1
 妳將會變得真材實料	nai jiang hui bian de zhen cai shi liao	1
 妳很不好溝通耶	nai hen bu hao gang tong ye	1
-妳很喜歡CRYCHIC對不對	nai hen xi huan _CRYCHIC dui bu dui	1
+妳很喜歡CRYCHIC對不對	nai hen xi huan crychic dui bu dui	1
 妳很煩欸	nai hen fan ei	1
 妳從剛才就對燈很失禮耶	nai cong gang cai jiu dui deng hen shi li ye	1
 妳怎麼做出這種事	nai zen me zuo chu zhe zhong shi	1
@@ -395,7 +395,7 @@ TOKYO MX	tokyo mx
 妳看，通知一直響個不停喔	nai kan tong zhi yi zhi xiang ge bu ting wo	1
 妳真的不懂嗎	nai zhen de bu dong ma	1
 妳真的很奮發向上呢	nai zhen de hen fen bo xiang shang ne	1
-妳真的是Mujica的一員嗎	nai zhen de shi _Mujica de yi yuan ma	1
+妳真的是Mujica的一員嗎	nai zhen de shi mujica de yi yuan ma	1
 妳真的有雙重人格嗎	nai zhen de you shuang zhong ren ge ma	1
 妳真的要離開了嗎	nai zhen de yao li kai le ma	1
 妳真的覺得這樣子好嗎	nai zhen de jiao de zhe yang zi hao ma	1
@@ -421,7 +421,7 @@ TOKYO MX	tokyo mx
 宇田川亞子	yu tian chuan ya zi	1
 宇田川巴	yu tian chuan ba	1
 客服小祥	ke fu xiao xiang	1
-害我差點忍不住大喊Sumimi才不會解散了呢	hai wo cha dian ren bu zhu da han _Sumimi cai bu hui jie san le ne	1
+害我差點忍不住大喊Sumimi才不會解散了呢	hai wo cha dian ren bu zhu da han sumimi cai bu hui jie san le ne	1
 害我都忍不住懷疑妳了	hai wo dou ren bu zhu huai yi nai le	1
 將它結束	jiang ta ji shu	1
 對不起	dui bu qi	1
@@ -444,7 +444,7 @@ TOKYO MX	tokyo mx
 少女樂團派對！	shao nv yue tuan pai dui
 就像即將燃盡前的線香煙火呢	jiu xiang ji jiang ran jin qian de xian xiang yan huo ne	1
 就在一旁起鬨	jiu zai yi pang qi hong	1
-就將一切委身於Ave Mujica吧	jiu jiang yi qie wei shen yu _AveMujica ba	1
+就將一切委身於Ave Mujica吧	jiu jiang yi qie wei shen yu ave mujica ba	1
 就是沒辦法才軟禁的吧	jiu shi mei ban fa cai ruan jin de ba	1
 就是這個	jiu shi zhe ge	1
 就是這個意思吧	jiu shi zhe ge yi si ba	1
@@ -465,7 +465,7 @@ TOKYO MX	tokyo mx
 已經死了	yi jing si le	1
 已經沒關係了啦	yi jing mei guan xi le la	1
 市谷有咲	shi gu you xiao	1
-希望大家也在Mujica的社群帳號留下其他推薦景點和留言喔	xi wang da jia ye zai _Mujica de she qun zhang hao liu xia qi ta tui jian jing dian he liu yan wo	1
+希望大家也在Mujica的社群帳號留下其他推薦景點和留言喔	xi wang da jia ye zai mujica de she qun zhang hao liu xia qi ta tui jian jing dian he liu yan wo	1
 帕蕾歐	pa lei ou	1
 幫我回一下	bang wo hui yi xia	1
 幸好總算化險為夷了	xing hao zong suan hua jian wei yi le	1
@@ -545,8 +545,8 @@ TOKYO MX	tokyo mx
 我也會一起去的	wo ye hui yi qi qu de	1
 我亂說的	wo luan shuo de	1
 我們先走了	wo men xian zou le	1
-我們是MyGO	wo men shi _MyGO	1
-我們是MyGO!!!!!	wo men shi mygo
+我們是MyGO	wo men shi mygo	1
+我們是MyGO!!!!!	wo men shi mygo	1
 我們現在就去小睦家	wo men xian zai jiu qu xiao mu jia	1
 我先說清楚	wo xian shuo qing chu	1
 我全都不會彈喔	wo quan dou bu hui dan wo	1
@@ -580,10 +580,10 @@ TOKYO MX	tokyo mx
 我想也是	wo xiang ye shi	1
 我想你心裡多少也有些想法吧	wo xiang ni xin li duo shao ye you xie xiang fa ba	1
 我想去	wo xiang qu	1
-我想和妳組CRYCHIC	wo xiang he nai qu _CRYCHIC	1
+我想和妳組CRYCHIC	wo xiang he nai qu crychic	1
 我想應該不是	wo xiang ying gai bu shi	1
 我想要多了解小祥	wo xiang yao duo liao jie xiao xiang	1
-我想讓Ave Mujica重新開始	wo xiang rang _AveMujica chong xin kai shi	1
+我想讓Ave Mujica重新開始	wo xiang rang ave mujica chong xin kai shi	1
 我愛慕虛榮啦	wo ai mu xu rong la	1
 我懂	wo dong	1
 我應該說過已經夠了	wo ying gai shuo guo yi jing gou le	1
@@ -598,8 +598,8 @@ TOKYO MX	tokyo mx
 我是認真的	wo shi ren zhen de	1
 我最討厭了	wo zui tao yan le	1
 我會一直陪著妳	wo hui yi zhi pei zhe nai	1
-我會代替CRYCHIC的	wo hui dai ti _CRYCHIC de	1
-我會寫出配得上Ave Mujica的歌曲	wo hui xie chu pei de shang _AveMujica de ge qu	1
+我會代替CRYCHIC的	wo hui dai ti crychic de	1
+我會寫出配得上Ave Mujica的歌曲	wo hui xie chu pei de shang ave mujica de ge qu	1
 我會拒絕對方的要求	wo hui ju jue dui fang de yao qiu	1
 我會替妳擋下所有可怕的東西	wo hui ti nai dang xia suo you ke pa de dong xi	1
 我會負責教妳	wo hui fu ze jiao nai	1
@@ -616,7 +616,7 @@ TOKYO MX	tokyo mx
 我沒興趣	wo mei xing qu	1
 我沒說過那種話	wo mei shuo guo na zhong hua	1
 我沒辦法信任妳耶	wo mei ban fa xin ren nai ye	1
-我現在只剩下Ave Mujica了	wo xian zai zhi sheng xia _AveMujica le	1
+我現在只剩下Ave Mujica了	wo xian zai zhi sheng xia ave mujica le	1
 我現在想朝綜藝方面努力發展	wo xian zai xiang chao zong yi fang mian nu li bo zhan	1
 我現在要講很感性的話，聽我說嘛	wo xian zai yao jiang hen gan xing de hua ting wo shuo ma
 我現在要講很感性的話，聽我說嘛	wo xian zai yao jiang hen gan xing de hua ting wo shuo ma	1
@@ -625,7 +625,7 @@ TOKYO MX	tokyo mx
 我的意思就是速度太快了	wo de yi si jiu shi su du tai kuai le	1
 我的話說完了	wo de hua shuo wan le	1
 我的話還沒有說完	wo de hua hai mei you shuo wan	1
-我看只能去Soyorin家了吧	wo kan zhi neng qu _Soyorin jia le ba	1
+我看只能去Soyorin家了吧	wo kan zhi neng qu soyorin jia le ba	1
 我看妳只是在逃避吧	wo kan nai zhi shi zai tao bi ba	1
 我看我還是消失比較好	wo kan wo hai shi xiao shi bi jiao hao	1
 我真的不懂妳們在說什麼	wo zhen de bu dong nai men zai shuo shen me	1
@@ -763,7 +763,7 @@ TOKYO MX	tokyo mx
 歩拾道	speed
 死了	si le	1
 死透了	si tou le	1
-毀掉小睦和Ave Mujica的人是小祥	hui diao xiao mu he _AveMujica de ren shi xiao xiang	1
+毀掉小睦和Ave Mujica的人是小祥	hui diao xiao mu he ave mujica de ren shi xiao xiang	1
 每次想著想著就會感到很厭世	mei ci xiang zhe xiang zhe jiu hui gan dao hen yan shi	1
 毫無品味	hao wu pin wei	1
 沉默隨即宣告了一切的終焉	chen mo sui ji xuan gao le yi qie de zhong yan	1
@@ -820,7 +820,7 @@ TOKYO MX	tokyo mx
 燈	deng	1
 爽世	shuang shi	1
 牛込里美	niu yu li mei	1
-牠說牠很喜歡Mortis	ta shuo ta hen xi huan _Mortis	1
+牠說牠很喜歡Mortis	ta shuo ta hen xi huan mortis	1
 珠手知由	zhu shou zhi you	1
 現在方便嗎	xian zai fang bian ma	1
 現在是重要的時期	xian zai shi zhong yao de shi qi	1
@@ -1013,7 +1013,7 @@ TOKYO MX	tokyo mx
 這件事只能拜託妳了	zhe jian shi zhi neng bai tuo nai le	1
 這個不用了	zhe ge bu yong le	1
 這傢伙根本什麼也不懂	zhe jia huo gen ben shen me ye bu dong	1
-這全是為了Ave Mujica	zhe quan shi wei le _AveMujica	1
+這全是為了Ave Mujica	zhe quan shi wei le ave mujica	1
 這又沒什麼好說的	zhe you mei shen me hao shuo de	1
 這和妳沒有關係	zhe he nai mei you guan xi	1
 這就是妳所期望的	zhe jiu shi nai suo qi wang de	1
