@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: genshin
-version: "2025-03-09"
+version: "2025-03-17"
 sort: origin
 use_preset_vocabulary: true
 ...
@@ -14,12 +14,12 @@ use_preset_vocabulary: true
 一份預期內的計劃	yi fen yu qi nei de ji hua	1
 一個冬天的童話	yi ge dong tian de tong hua	1
 一個故事	yi ge gu shi	1
-一個楓丹人的回憶	yi ge fan dan ren de hui yi	1
+一個楓丹人的回憶	yi ge feng dan ren de hui yi	1
 一個男孩的去信	yi ge nan hai de qu xin	1
 一個預計內的結局	yi ge yu ji nei de ji ju	1
 一刀斷絕	yi dao duan jue	1
 一切智慧具足之城	yi qie zhi hui ju zu zhi cheng	1
-一則楓丹訊息	yi ze fan dan xun xi	1
+一則楓丹訊息	yi ze feng dan xun xi	1
 一包首飾	yi bao shou shi	1
 一千零一杯咖啡	yi qian ling yi bei ka fei	1
 一口就行	yi kou jiu xing	1
@@ -1616,7 +1616,7 @@ use_preset_vocabulary: true
 印痕	yin hen	1
 危危島	wei wei dao	1
 危坐	wei zuo	1
-危機四伏的楓丹廷	wei ji si fu de fan dan ting	1
+危機四伏的楓丹廷	wei ji si fu de feng dan ting	1
 危途疑踪	wei tu yi zong	1
 危途疑蹤	wei tu yi zong	1
 危險	wei jian	1
@@ -2305,7 +2305,7 @@ use_preset_vocabulary: true
 垣屋倉房	yuan wu cang fang	1
 垣屋宅門	yuan wu zhai men	1
 垣屋庭角	yuan wu ting jiao	1
-垣屋楓木房門	yuan wu fan mu fang men	1
+垣屋楓木房門	yuan wu feng mu fang men	1
 垣屋牆隅	yuan wu qiang yu	1
 垣屋長庭	yuan wu zhang ting	1
 垣屋院牆	yuan wu yuan qiang	1
@@ -2658,7 +2658,7 @@ use_preset_vocabulary: true
 大日禦輿	da ri yu yu	1
 大月卡	da yue ka	1
 大桔騎士	da ju qi shi	1
-大楓丹湖	da fan dan hu	1
+大楓丹湖	da feng dan hu	1
 大業物	da ye wu	1
 大樹	da shu	1
 大殺生咒禁	da sha sheng zhou jin	1
@@ -2781,7 +2781,7 @@ use_preset_vocabulary: true
 天衡山	tian heng shan	1
 天衡方士	tian heng fang shi	1
 天衡絕倒集	tian heng jue dao ji	1
-天衡赤楓	tian heng chi fan	1
+天衡赤楓	tian heng chi feng	1
 天象寰轉	tian xiang huan zhuan	1
 天賦	tian fu	1
 天賦書	tian fu shu	1
@@ -2904,8 +2904,8 @@ use_preset_vocabulary: true
 奇怪的桔桔薄餅	qi guai de ju ju bao bing	1
 奇怪的棗椰蜜糖	qi guai de zao ye mi tang	1
 奇怪的椰炭餅	qi guai de ye tan bing	1
-奇怪的楓丹洋蔥湯	qi guai de fan dan yang chuang tang	1
-奇怪的楓丹肥肝	qi guai de fan dan fei gan	1
+奇怪的楓丹洋蔥湯	qi guai de feng dan yang chuang tang	1
+奇怪的楓丹肥肝	qi guai de feng dan fei gan	1
 奇怪的樹莓水饅頭	qi guai de shu mei shui man tou	1
 奇怪的水晶蝦	qi guai de shui jing xia	1
 奇怪的水煮黑背鱸	qi guai de shui zhu hei bei lu	1
@@ -5238,7 +5238,7 @@ use_preset_vocabulary: true
 新手盜寶鼬	xin shou dao bao you	1
 新手長槍	xin shou zhang cheng	1
 新月軒	xin yue xian	1
-新楓丹科學院	xin fan dan ke xue yuan	1
+新楓丹科學院	xin feng dan ke xue yuan	1
 新的風暴尚未出現	xin de feng bao shang wei chu xian	1
 新芽之月	xin ya zhi yue	1
 新芽的曲調	xin ya de qu tiao	1
@@ -5711,7 +5711,7 @@ use_preset_vocabulary: true
 最惡鬼王	zui e gui wang	1
 最惡鬼王一斗轟臨	zui e gui wang yi dou hong lin	1
 最烈特調	zui lie te tiao	1
-最終楓達海	zui zhong fan da hai	1
+最終楓達海	zui zhong feng da hai	1
 最終解釋權	zui zhong jie shi quan	1
 最美麗的精靈	zui mei li de jing ling	1
 最長的一日	zui zhang de yi ri	1
@@ -6145,49 +6145,49 @@ use_preset_vocabulary: true
 椰褐般深沉之紋	ye he ban shen chen zhi wen	1
 椴木	duan mu	1
 椴木半金屬告示牌	duan mu ban jin shu gao shi pai	1
-楓丹	fan dan	1
-楓丹人	fan dan ren	1
-楓丹動物寓言集	fan dan dong wu yu yan ji	1
-楓丹動能工程科學研究院	fan dan dong neng gong cheng ke xue yan jiu yuan	1
-楓丹動能工程科學研究院區	fan dan dong neng gong cheng ke xue yan jiu yuan qu	1
-楓丹動能工程科學研究院獎勵狀	fan dan dong neng gong cheng ke xue yan jiu yuan jiang li zhuang	1
-楓丹區域特產	fan dan qu yu te chan	1
-楓丹地毯	fan dan di tan	1
-楓丹地靈龕之鑰	fan dan di ling kan zhi yao	1
-楓丹廷	fan dan ting	1
-楓丹廷區	fan dan ting qu	1
-楓丹式的消息	fan dan shi de xiao xi	1
-楓丹改良版	fan dan gai liang ban	1
-楓丹洋蔥湯	fan dan yang chuang tang	1
-楓丹的	fan dan de	1
-楓丹科學院	fan dan ke xue yuan	1
-楓丹科學院紀事	fan dan ke xue yuan ji shi	1
-楓丹肥肝	fan dan fei gan	1
-楓丹院墅	fan dan yuan shu	1
-楓丹風格	fan dan feng ge	1
-楓原義慶	fan yuan yi qing	1
-楓原義慶的信	fan yuan yi qing de xin	1
-楓原萬葉	fan yuan wan ye	1
-楓原萬葉的命星	fan yuan wan ye de ming xing	1
-楓原萬葉空中攻擊	fan yuan wan ye kong zhong gong ji	1
-楓木	fan mu	1
-楓木儀鼓	fan mu yi gu	1
-楓木吊燈	fan mu diao deng	1
-楓木地燈	fan mu di deng	1
-楓木布面狸貓玩偶	fan mu bu mian li mao wan ou	1
-楓木布面白狐玩偶	fan mu bu mian bai hu wan ou	1
-楓木拱頂牆	fan mu gong ding qiang	1
-楓木擺燈	fan mu bai deng	1
-楓木方格天花板	fan mu fang ge tian hua ban	1
-楓木書櫃	fan mu shu gui	1
-楓木褐彩地板	fan mu he cai di ban	1
-楓木轉角階梯	fan mu zhuan jiao jie ti	1
-楓紅之章	fan hong zhi zhang	1
-楓紅座	fan hong zuo	1
-楓袖奇譚	fan xiu qi tan	1
-楓達	fan da	1
-楓達獎盃	fan da jiang bei	1
-楓香茶霧一室中	fan xiang cha wu yi shi zhong	1
+楓丹	feng dan	1
+楓丹人	feng dan ren	1
+楓丹動物寓言集	feng dan dong wu yu yan ji	1
+楓丹動能工程科學研究院	feng dan dong neng gong cheng ke xue yan jiu yuan	1
+楓丹動能工程科學研究院區	feng dan dong neng gong cheng ke xue yan jiu yuan qu	1
+楓丹動能工程科學研究院獎勵狀	feng dan dong neng gong cheng ke xue yan jiu yuan jiang li zhuang	1
+楓丹區域特產	feng dan qu yu te chan	1
+楓丹地毯	feng dan di tan	1
+楓丹地靈龕之鑰	feng dan di ling kan zhi yao	1
+楓丹廷	feng dan ting	1
+楓丹廷區	feng dan ting qu	1
+楓丹式的消息	feng dan shi de xiao xi	1
+楓丹改良版	feng dan gai liang ban	1
+楓丹洋蔥湯	feng dan yang chuang tang	1
+楓丹的	feng dan de	1
+楓丹科學院	feng dan ke xue yuan	1
+楓丹科學院紀事	feng dan ke xue yuan ji shi	1
+楓丹肥肝	feng dan fei gan	1
+楓丹院墅	feng dan yuan shu	1
+楓丹風格	feng dan feng ge	1
+楓原義慶	feng yuan yi qing	1
+楓原義慶的信	feng yuan yi qing de xin	1
+楓原萬葉	feng yuan wan ye	1
+楓原萬葉的命星	feng yuan wan ye de ming xing	1
+楓原萬葉空中攻擊	feng yuan wan ye kong zhong gong ji	1
+楓木	feng mu	1
+楓木儀鼓	feng mu yi gu	1
+楓木吊燈	feng mu diao deng	1
+楓木地燈	feng mu di deng	1
+楓木布面狸貓玩偶	feng mu bu mian li mao wan ou	1
+楓木布面白狐玩偶	feng mu bu mian bai hu wan ou	1
+楓木拱頂牆	feng mu gong ding qiang	1
+楓木擺燈	feng mu bai deng	1
+楓木方格天花板	feng mu fang ge tian hua ban	1
+楓木書櫃	feng mu shu gui	1
+楓木褐彩地板	feng mu he cai di ban	1
+楓木轉角階梯	feng mu zhuan jiao jie ti	1
+楓紅之章	feng hong zhi zhang	1
+楓紅座	feng hong zuo	1
+楓袖奇譚	feng xiu qi tan	1
+楓達	feng da	1
+楓達獎盃	feng da jiang bei	1
+楓香茶霧一室中	feng xiang cha wu yi shi zhong	1
 楚此渚田	chu ci zhu tian	1
 楚汶市集	chu wen shi ji	1
 楠塔克	nan ta ke	1
@@ -6294,7 +6294,7 @@ use_preset_vocabulary: true
 橙峰螺岩	cheng feng luo yan	1
 機元突破	ji yuan tu po	1
 機動獵手	ji dong lie shou	1
-機動自律型楓達專賣機	ji dong zi lv xing fan da zhuan mai ji	1
+機動自律型楓達專賣機	ji dong zi lv xing feng da zhuan mai ji	1
 機密機器	ji mi ji qi	1
 機巢	ji chao	1
 機巧座	ji qiao zuo	1
@@ -6375,7 +6375,7 @@ use_preset_vocabulary: true
 歡賞流華	huan shang liu hua	1
 歡躍信箋	huan ti xin jian	1
 歡迎來到冒險家協會	huan ying lai dao mao jian jia xie hui	1
-歡迎來到楓丹	huan ying lai dao fan dan	1
+歡迎來到楓丹	huan ying lai dao feng dan	1
 歡迎光臨	huan ying guang lin	1
 歡適之光	huan shi zhi guang	1
 歡騰之火	huan teng zhi huo	1
@@ -10246,8 +10246,8 @@ use_preset_vocabulary: true
 美味的桔桔薄餅	mei wei de ju ju bao bing	1
 美味的棗椰蜜糖	mei wei de zao ye mi tang	1
 美味的椰炭餅	mei wei de ye tan bing	1
-美味的楓丹洋蔥湯	mei wei de fan dan yang chuang tang	1
-美味的楓丹肥肝	mei wei de fan dan fei gan	1
+美味的楓丹洋蔥湯	mei wei de feng dan yang chuang tang	1
+美味的楓丹肥肝	mei wei de feng dan fei gan	1
 美味的樹莓水饅頭	mei wei de shu mei shui man tou	1
 美味的水晶蝦	mei wei de shui jing xia	1
 美味的水煮黑背鱸	mei wei de shui zhu hei bei lu	1
