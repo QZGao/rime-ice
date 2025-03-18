@@ -228,25 +228,3 @@ V麵包
 V黃種人
 V黑人
 V點心
-
-# Unicode特殊空白符
- 	nbsp
- 	enquad
- 	emquad
- 	ensp
- 	emsp
- 	tprsp
- 	fprsp
- 	sprsp
- 	fsp
- 	psp
- 	tsp
- 	hsp
-​	zwsp
-　	isp
-
-# 維基百科常用短語
-zh-Hans-CN	zhc
-zh-Hant-TW	zht
-zh-Hant-HK	zhh
-en-US	enu

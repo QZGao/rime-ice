@@ -62,3 +62,23 @@ gone	gone
 Go程	gocheng
 code	code
 SOHO	soho
+
+ 	nbsp
+ 	enquad
+ 	emquad
+ 	ensp
+ 	emsp
+ 	tprsp
+ 	fprsp
+ 	sprsp
+ 	fsp
+ 	psp
+ 	tsp
+ 	hsp
+​	zwsp
+　	isp
+
+zh-Hans-CN	zhc
+zh-Hant-TW	zht
+zh-Hant-HK	zhh
+en-US	enu
