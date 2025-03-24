@@ -21,6 +21,7 @@ import_tables:
   - tw_dicts/genshin
   - tw_dicts/honkai
   - tw_dicts/zenless
+  - tw_dicts/location_names
   
   - tw_dicts/cs_tw
   - tw_dicts/physics_tw
