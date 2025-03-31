@@ -69,7 +69,7 @@ class Translator:
             current_file.write(key + "\t" + val + "\n")
             progress.update(task, advance=1)
 
-            if i % 200000 == 0 and i > 0:
+            if i % 100000 == 0 and i > 0:
                 current_file.close()
                 file_index += 1
                 current_file = open(
