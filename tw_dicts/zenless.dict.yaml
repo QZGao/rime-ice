@@ -2,46 +2,240 @@
 # encoding: utf-8
 ---
 name: zenless
-version: "2025-03-09"
+version: "2025-03-30"
 sort: origin
 use_preset_vocabulary: true
 ...
+11號	shi yi hao	1
+「11號」	shi yi hao	1
+丁尼	ding ni	1
+五十嵐裕美	wu shi lan yu mei	1
+井上麻里奈	jing shang ma li nai	1
+井口裕香	jing kou yu xiang	1
 亞歷山德麗娜	ya li shan de li na	1
+代理人	dai li ren	1
+代理人秘聞	dai li ren mi wen	1
+以太	yi tai	1
+以太異形	yi tai yi xing	1
+以骸	yi hai	1
+伊埃斯	yi ai si	1
+伊芙琳	yi fu lin	1
 伊萬諾夫	yi wan nuo fu	1
+佐藤利奈	zuo teng li nai	1
+侯小菲	hou xiao fei	1
+侵蝕體	qin shi ti	1
+修緣	xiu yuan	1
+俱樂部	ju le bu	1
+偷獵者	tou lie zhe	1
+光映廣場	guang ying guang chang	1
+六分街	liu fen jie	1
+冥寧芙	ming ning fu	1
+凱撒	kai sa	1
+凶心瘋漢	xiong xin feng han	1
+刑偵特勤組	xing zhen te qin zu	1
+劉雯	liu wen	1
+千本木彩花	qian ben mu cai hua	1
+南條愛乃	nan tiao ai nai	1
+卡呂冬之子	ka lv dong zhi zi	1
+危樓夜尋蹤	wei lou ye xun zong	1
+原紗友里	yuan sha you li	1
+叛軍	pan jun	1
+只是錄影店平凡的一天	zhi shi lu xiang dian ping fan de yi tian	1
 可琳	ke lin	1
+可琳·威克斯	ke lin wei ke si	1
+名塚佳織	ming zhong jia zhi	1
+吟遊唱針	yin you chang zhen	1
+吳哲茹	wu zhe ru	1
+吳秋韻	wu qiu yun	1
+哈提	ha ti	1
+哲	zhe	1
+嗯呢	en ne	1
+嗷嗚報刊亭	ao wu bao kan ting	1
+噬魂犬	shi hun quan	1
+在空洞中心呼喚	zai kong dong zhong xin hu huan	1
+地精	di jing	1
+埃琺	ai fa	1
+塔納托斯	ta na tuo si	1
+失衡值	shi heng zhi	1
 奇德	qi de	1
+奧波勒斯小隊	ao bo le si xiao dui	1
 妮可	ni ke	1
 威克斯	wei ke si	1
+孟祥龍	meng xiang long	1
 安娜塔莎	an na ta sha	1
 安東	an dong	1
+安東·伊萬諾夫	an dong yi wan nuo fu	1
 安比	an bi	1
+宴寧	yan ning	1
+實戰模擬室	shi zhan mo ni shi	1
+對空六課	dui kong liu ke	1
+小敢	xiao gan	1
+小林親弘	xiao lin qin hong	1
+小清水亞美	xiao qing shui ya mei	1
+尼尼微	ni ni wei	1
+島村侑	dao cun you	1
+希人	xi ren	1
+式輿防衛戰	shi yu fang wei zhan	1
+張沛	zhang pei	1
+張若瑜	zhang ruo yu	1
+徐翔	xu xiang	1
 德瑪拉	de ma la	1
+怒漢	nu han	1
 悠真	you zhen	1
+惡名狩獵	e ming shou lie	1
+惡毒打手	e du da shou	1
+惡靈	e ling	1
+戍衛獵兵	shu wei lie bing	1
+扳機	ban ji	1
+捷足巡遊者	jie zu xun you zhe	1
+掠奪者	lue duo zhe	1
+掠襲獵兵	lue xi lie bing	1
+提爾鋒	ti er feng	1
+提豐挑戰者型	ti feng tiao zhan zhe xing	1
+斯科特哨站	si ke te shao zhan	1
+新井里美	xin jing li mei	1
+新晉獵兵	xin jin lie bing	1
+新艾利都	xin ai li dou	1
+日笠陽子	ri li yang zi	1
+星期五	xing qi wu	1
 星見雅	xing jian ya	1
+暴徒	bao tu	1
+曼德拉	man de la	1
+曾彤	ceng tong	1
 月城柳	yue cheng liu	1
+朝井彩加	chao jing cai jia	1
+未知複合侵蝕體	wei zhi fu he qin shi ti	1
+本	ben	1
+本·比格	ben bi ge	1
 朱鳶	zhu yuan	1
+李嬋妃	li chan fei	1
+杜冥鴉	du ming ya	1
+杜拉罕	du la han	1
 杜拉西	du la xi	1
+林勇	lin yong	1
+林景	lin jing	1
+柏妮思	bai ni si	1
+柿原徹也	shi yuan che ye	1
 格莉絲	ge li si	1
+格莉絲·霍華德	ge li si huo hua de	1
+格萊特	ge lai te	1
+梁達偉	liang da wei	1
+死路屠夫	si lu tu fu	1
 比利	bi li	1
 比格	bi ge	1
+水野朔	shui ye shuo	1
+沐霏	mu fei	1
+法厄同	fa e tong	1
+法厄同紀事	fa e tong ji shi	1
+法布提	fa bu ti	1
+波可娜	bo ke na	1
+泰拉斯奎禍車	tai la si kui huo che	1
 洛威爾	luo wei er	1
 派派	pai pai	1
+派派·韋爾	pai pai wei er	1
 淺羽悠真	qian yu you zhen	1
+測試機	ce shi ji	1
+漢斯	han si	1
+潘丹妮	pan dan ni	1
+濱田賢二	bin tian xian er	1
+瀑湯谷錦鯉	pu tang gu jin li	1
+特殊	te shu	1
+狂亂暴徒	kuang luan bao tu	1
+狡兔屋	jiao tu wu	1
+王宇航	wang yu hang	1
 珂蕾妲	ke lei da	1
-絕區零  jue qu ling	1
+珂蕾妲·貝洛伯格	ke lei da bei luo bo ge	1
+白石晴香	bai shi qing xiang	1
+白祇重工	bai qi zhong gong	1
+皛四白	xiao si bai	1
+盛怒惡霸	sheng nu e ba	1
+眼魔引擎	yan mo yin qing	1
+石見舞菜香	shi jian wu cai xiang	1
+神尾晉一郎	shen wei jin yi lang	1
+福山潤	fu shan run	1
+秦紫翼	qin zi yi	1
+種崎敦美	zhong qi dun mei	1
+穆雪婷	mu xue ting	1
+空洞	kong dong	1
+簡	jian	1
+簡杜	jian du	1
+米哈遊	mi ha you	1
+絕區零	jue qu ling	1
+維多利亞家政	wei duo li ya jia zheng	1
+縱火犯	zong huo fan	1
+繩匠	sheng jiang	1
+繩網	sheng wang	1
+耀嘉音	yao jia yin	1
 艾蓮	ai lian	1
+艾蓮·喬	ai lian qiao	1
+花玲	hua ling	1
+芹澤優	qin ze you	1
+若山詩音	ruo shan shi yin	1
 莎芭絲緹安	sha ba si ti an	1
+菊花花	ju hua hua	1
+菲林	fei lin	1
 萊卡恩	lai ka en	1
 萊特	lai te	1
+葛子瑞	ge zi rui	1
 蒙特夫	meng te fu	1
 蒼角	cang jiao	1
+蕭清源	xiao qing yuan	1
+蕭翟	xiao di	1
+薇薇安	wei wei an	1
+薩提爾	sa ti er	1
+藤井雪代	teng jing xue dai	1
+藤原夏海	teng yuan xia hai	1
+蛇對蛇	she dui she	1
+衛士	wei shi	1
+被侵蝕者	bei qin shi zhe	1
+裝甲哈提	zhuang jia ha ti	1
+襲擊者	xi ji zhe	1
 貓又	mao you	1
 貓宮又奈	mao gong you nai	1
+貓的失物	mao de shi wu	1
 貝洛伯格	bei luo bo ge	1
+貪婪射手	tan lan she shou	1
 賽斯	sai si	1
+賽斯·洛威爾	sai si luo wei er	1
+輕裝獵兵	qing zhuang lie bing	1
+連攜技	lian xie ji	1
+遊魂	you hun	1
+遠藤綾	yuan teng ling	1
+重裝侵襲者	chong zhuang qin xi zhe	1
+重裝炮手	chong zhuang pao shou	1
+鈴	ling	1
+鐵道地精	tie dao di jing	1
+閒踏梧桐	xian ta wu tong	1
+阮從青	ruan cong qing	1
+阿佩卡	a pei ka	1
+阿保麻莉亞	a bao ma li ya	1
+阿勞恩	a lao en	1
+阿部敦	a bu dun	1
+陳婷婷	chen ting ting	1
+陳潤秋	chen run qiu	1
+陳陽	chen yang	1
+陳雨	chen yu	1
+離子體瑟托迪亞	li zi ti se tuo di ya	1
+離子體納塞勒亞	li zi ti na sai le ya	1
+雨果	yu guo	1
+零異事件	ling yi shi jian	1
+零號·安比	ling hao an bi	1
+零號空洞	ling hao kong dong	1
+雷蛛	lei zhu	1
+霍普利泰	huo pu li tai	1
 霍華德	huo hua de	1
 露西	lu xi	1
 露西亞娜	lu xi ya na	1
 青衣	qing yi	1
 韋爾	wei er	1
+音擎	yin qing	1
+馮·萊卡恩	feng lai ka en	1
+骸蜂	hai feng	1
+高梨謙吾	gao li qian wu	1
+高橋廣樹	gao qiao guang shu	1
+高橋花林	gao qiao hua lin	1
+魁梧打手	kui wu da shou	1
+魁梧施虐者	kui wu shi nue zhe	1
 麗娜	li na	1
+黃金邦布	huang jin bang bu	1
+黑雁工地舊址	hei yan gong di jiu zhi	1
