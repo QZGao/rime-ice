@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: bangdream
-version: "2025-03-30"
+version: "2025-04-02"
 sort: by_weight
 ...
 Afterglow	afterglow
@@ -43,7 +43,7 @@ TOKYO MX	tokyo mx
 一個人說出口的話	yi ge ren shuo chu kou de hua	1
 一定又一個人在憂鬱了吧	yi ding you yi ge ren zai you yu le ba	1
 一定是騙人的 	yi ding shi pian ren de	1
-一旦加入就無法回頭了喔	yi dan jia ru jiu wu fa hui tou le wo	1
+一旦加入就無法回頭了喔	yi dan jia ru jiu wu fa hui tou le o	1
 一直都很重視CRYCHIC	yi zhi dou hen zhong shi crychic	1
 一輩子	yi bei zi	1
 一輩子跟我一起組樂團嗎	yi bei zi gen wo yi qi zu yue tuan ma	1
@@ -96,7 +96,7 @@ TOKYO MX	tokyo mx
 不讓我們看看怎麼知道	bu rang wo men kan kan zen me zhi dao	1
 不負責任	bu fu ze ren	1
 不過我可以理解	bu guo wo ke yi li jie	1
-不過這輛車真的好豪華喔	bu guo zhe liang che zhen de hao hao hua wo	1
+不過這輛車真的好豪華喔	bu guo zhe liang che zhen de hao hao hua o	1
 不選今天要選什麼時候	bu xuan jin tian yao xuan shen me shi hou	1
 不都說沒有要組了嗎	bu dou shuo mei you yao zu le ma	1
 不錯	bu cu	1
@@ -125,7 +125,7 @@ TOKYO MX	tokyo mx
 二葉筑紫	er ye zhu zi	1
 交給我	jiao gei wo	1
 交給我吧	jiao gei wo ba	1
-人生這麼漫長會撐不住的喔	ren sheng zhe me man chang hui cheng bu zhu de wo	1
+人生這麼漫長會撐不住的喔	ren sheng zhe me man chang hui cheng bu zhu de o	1
 什麼也搞不懂	shen me ye gao bu dong	1
 什麼意思	shen me yi si	1
 什麼都願意	shen me dou yuan yi	1
@@ -178,7 +178,7 @@ TOKYO MX	tokyo mx
 処救生	chu jiu sheng
 処救生	ko kyu
 処救生	ko kyu u
-分一半給別人的話，熱量也會減半喔	fen yi ban gei bie ren de hua re liang ye hui jian ban wo	1
+分一半給別人的話，熱量也會減半喔	fen yi ban gei bie ren de hua re liang ye hui jian ban o	1
 初華	chu hua	1
 初華就只會騙人	chu hua jiu zhi hui pian ren	1
 別一直重複	bie yi zhi chong fu	1
@@ -196,13 +196,13 @@ TOKYO MX	tokyo mx
 到底要我說幾次妳才懂	dao di yao wo shuo ji ci ni cai dong	1
 到現在還執著於過去，真難看	dao xian zai hai zhi zhuo yu guo qu zhen nan kan
 前島亞美	qian dao ya mei	1
-剛才的那些話要和祥子保密喔	gang cai de na xie hua yao he xiang zi bao mi wo	1
+剛才的那些話要和祥子保密喔	gang cai de na xie hua yao he xiang zi bao mi o	1
 剩這一張該怎麼辦呢	sheng zhe yi zhang gai zen me ban ne	1
 加藤英美里	jia teng ying mei li	1
 北澤育美	bei ze yu mei	1
 千早	qian zao	1
 千早愛音	qian zao ai yin	1
-午餐要好好吃才行喔	wu can yao hao hao chi cai xing wo	1
+午餐要好好吃才行喔	wu can yao hao hao chi cai xing o	1
 原來她真的是個大小姐耶	yuan lai ta zhen de shi ge da xiao jie ye	1
 原來妳是這麼想的呀	yuan lai ni shi zhe me xiang de ya	1
 又來了一個新人	you lai le yi ge xin ren	1
@@ -225,7 +225,7 @@ TOKYO MX	tokyo mx
 可是什麼	ke shi shen me	1
 可是每次都被祥子毀掉	ke shi mei ci dou bei xiang zi hui diao	1
 可說是殘酷的現實	ke shuo shi can ku de xian shi	1
-各方面都會變得不正常喔	ge fang mian dou hui bian de bu zheng chang wo	1
+各方面都會變得不正常喔	ge fang mian dou hui bian de bu zheng chang o	1
 吉田有里	ji tian you li	1
 名無声	ming wu sheng
 名無声	na mo na ki
@@ -280,10 +280,10 @@ TOKYO MX	tokyo mx
 大家靜下來慢慢談嘛	da jia jing xia lai man man tan ma	1
 大概也沒機會見面吧	da gai ye mei ji hui jian mian ba	1
 大橋彩香	da qiao cai xiang	1
-天啊 真的好可愛喔	tian a zhen de hao ke ai wo	1
+天啊 真的好可愛喔	tian a zhen de hao ke ai o	1
 天啊，大發現欸	tian a da bo xian ei	1
 天音	tian yin	1
-太先入為主了喔	tai xian ru wei zhu le wo	1
+太先入為主了喔	tai xian ru wei zhu le o	1
 太好了	tai hao le	1
 太扯了吧，怎麼會這麼辣啊	tai che le ba zen me hui zhe me la a	1
 太棒了，爽世同學LOVE	tai bang le shuang shi tong xue love	1
@@ -301,29 +301,29 @@ TOKYO MX	tokyo mx
 她是我朋友	ta shi wo peng you	1
 她有去拍人馬屁吧	ta you qu pai ren ma pi ba	1
 她有給妳答覆嗎	ta you gei ni da fu ma	1
-她現在是Sumimi的小初喔	ta xian zai shi sumimi de xiao chu wo	1
-她真的好溫柔喔	ta zhen de hao wen rou wo	1
+她現在是Sumimi的小初喔	ta xian zai shi sumimi de xiao chu o	1
+她真的好溫柔喔	ta zhen de hao wen rou o	1
 她自己沒辦法嗎	ta zi ji mei ban fa ma	1
 她連自己在演戲都不曾察覺	ta lian zi ji zai yan xi dou bu ceng cha jue	1
 她都只想著自己	ta dou zhi xiang zhe zi ji	1
 好了，振作一點	hao le zhen zuo yi dian	1
 好厲害	hao li hai	1
-好厲害喔	hao li hai wo	1
+好厲害喔	hao li hai o	1
 好可愛	hao ke ai	1
-好可愛喔	hao ke ai wo	1
-好可憐喔	hao ke lian wo	1
+好可愛喔	hao ke ai o	1
+好可憐喔	hao ke lian o	1
 好喜歡	hao xi huan	1
-好氣喔	hao qi wo	1
+好氣喔	hao qi o	1
 好溫柔	hao wen rou	1
-好猶豫喔	hao yao yu wo	1
+好猶豫喔	hao yao yu o	1
 好痛	hao tong	1
 好痛好痛好痛好痛	hao tong hao tong hao tong hao tong	1
 好痛苦	hao tong ku	1
-好破爛喔	hao po lan wo	1
+好破爛喔	hao po lan o	1
 好硬派	hao ying pai	1
 好耶	hao ye	1
 好討厭我自己	hao tao yan wo zi ji	1
-好過分喔	hao guo fen wo	1
+好過分喔	hao guo fen o	1
 好難受	hao nan shou	1
 妃那	fei na	1
 妳一定很痛苦吧	ni yi ding hen tong ku ba	1
@@ -361,7 +361,7 @@ TOKYO MX	tokyo mx
 妳可以一直留在這裡	ni ke yi yi zhi liu zai zhe li	1
 妳在笑什麼	ni zai xiao shen me	1
 妳好，請問怎麼了嗎	ni hao qing wen zen me le ma	1
-妳好M喔	ni hao m wo	1
+妳好M喔	ni hao m o	1
 妳將會變得真材實料	ni jiang hui bian de zhen cai shi liao	1
 妳很不好溝通耶	ni hen bu hao gang tong ye	1
 妳很喜歡CRYCHIC對不對	ni hen xi huan crychic dui bu dui	1
@@ -391,7 +391,7 @@ TOKYO MX	tokyo mx
 妳為什麼有辦法這麼努力呢	ni wei shen me you ban fa zhe me nu li ne	1
 妳現在是認真的嗎	ni xian zai shi ren zhen de ma	1
 妳當時選的是柳橙汁吧	ni dang shi xuan de shi liu cheng zhi ba	1
-妳看，通知一直響個不停喔	ni kan tong zhi yi zhi xiang ge bu ting wo	1
+妳看，通知一直響個不停喔	ni kan tong zhi yi zhi xiang ge bu ting o	1
 妳真的不懂嗎	ni zhen de bu dong ma	1
 妳真的很奮發向上呢	ni zhen de hen fen bo xiang shang ne	1
 妳真的是Mujica的一員嗎	ni zhen de shi mujica de yi yuan ma	1
@@ -409,7 +409,7 @@ TOKYO MX	tokyo mx
 妳覺得自己繼續這樣好嗎	ni jue de zi ji ji xu zhe yang hao ma	1
 妳講話很大聲耶	ni jiang hua hen da sheng ye	1
 妳身上真的流著人類的血嗎	ni shen shang zhen de liu zhe ren lei de xue ma	1
-妳這樣口氣灌光會打嗝喔	ni zhe yang kou qi guan guang hui da ge wo	1
+妳這樣口氣灌光會打嗝喔	ni zhe yang kou qi guan guang hui da ge o	1
 妳這種溫室長大的孩子打算怎麼在外討生活	ni zhe zhong wen shi zhang da de hai zi da suan zen me zai wai tao sheng huo	1
 妳這麼快就要走了啊	ni zhe me kuai jiu yao zou le a	1
 妳還在哭啊	ni hai zai ku a	1
@@ -429,7 +429,7 @@ TOKYO MX	tokyo mx
 對不起，都怪我這麼沒用	dui bu qi dou guai wo zhe me mei yong	1
 對不起一直瞞著大家	dui bu qi yi zhi man zhe da jia	1
 對不起瞞著妳	dui bu qi man zhe ni	1
-對健康不好喔	dui jian kang bu hao wo	1
+對健康不好喔	dui jian kang bu hao o	1
 對於喃喃說想成為人類的妳	dui yu nan nan shuo xiang cheng wei ren lei de ni	1
 小原莉子	xiao yuan li zi	1
 小日向	xiao ri xiang	1
@@ -464,7 +464,7 @@ TOKYO MX	tokyo mx
 已經死了	yi jing si le	1
 已經沒關係了啦	yi jing mei guan xi le la	1
 市谷有咲	shi gu you xiao	1
-希望大家也在Mujica的社群帳號留下其他推薦景點和留言喔	xi wang da jia ye zai mujica de she qun zhang hao liu xia qi ta tui jian jing dian he liu yan wo	1
+希望大家也在Mujica的社群帳號留下其他推薦景點和留言喔	xi wang da jia ye zai mujica de she qun zhang hao liu xia qi ta tui jian jing dian he liu yan o	1
 帕蕾歐	pa lei ou	1
 幫我回一下	bang wo hui yi xia	1
 幸好總算化險為夷了	xing hao zong suan hua jian wei yi le	1
@@ -510,7 +510,7 @@ TOKYO MX	tokyo mx
 感覺還好耶	gan jue hai hao ye	1
 感謝您讓我佔用的寶貴時間	gan xie nin rang wo chan yong de bao gui shi jian	1
 態度好差	tai du hao cha	1
-態度好差喔	tai du hao cha wo	1
+態度好差喔	tai du hao cha o	1
 慢著慢著，什麼意思	man zhe man zhe shen me yi si	1
 應該不是	ying gai bu shi	1
 應該問問本人的意見吧	ying gai wen wen ben ren de yi jian ba	1
@@ -548,7 +548,7 @@ TOKYO MX	tokyo mx
 我們是MyGO!!!!!	wo men shi mygo	1
 我們現在就去小睦家	wo men xian zai jiu qu xiao mu jia	1
 我先說清楚	wo xian shuo qing chu	1
-我全都不會彈喔	wo quan dou bu hui tan wo	1
+我全都不會彈喔	wo quan dou bu hui tan o	1
 我到底……是為了什麼……	wo dao di shi wei le shen me	1
 我去警告她一下	wo qu jing gao ta yi xia	1
 我去過妳家的公寓了	wo qu guo ni jia de gong yu le	1
@@ -559,7 +559,7 @@ TOKYO MX	tokyo mx
 我哪裡有興奮了	wo na li you xing fen le	1
 我問妳，妳知道這影片嗎	wo wen nai ni zhi dao zhe ying pian ma	1
 我國中三年間都是班上的最後一棒跑者	wo guo zhong san nian jian dou shi ban shang de zui hou yi bang pao zhe	1
-我好失望喔	wo hao shi wang wo	1
+我好失望喔	wo hao shi wang o	1
 我好難受	wo hao nan shou	1
 我好難受……好難受……	wo hao nan shou hao nan shou	1
 我完全不懂妳的意思	wo wan quan bu dong ni de yi si	1
@@ -587,7 +587,7 @@ TOKYO MX	tokyo mx
 我懂	wo dong	1
 我應該說過已經夠了	wo ying gai shuo guo yi jing gou le	1
 我才應該向妳道歉	wo cai ying gai xiang ni dao qian	1
-我才數到3喔	wo cai shu dao san wo	1
+我才數到3喔	wo cai shu dao san o	1
 我才是真正的壞孩子嗎	wo cai shi zhen zheng de huai hai zi ma	1
 我早知道會這樣了	wo zao zhi dao hui zhe yang le	1
 我明明就不曾教過她	wo ming ming jiu bu ceng jiao guo ta	1
@@ -607,7 +607,7 @@ TOKYO MX	tokyo mx
 我有堂課說什麼也不能缺席	wo you tang ke shuo shen me ye bu neng que xi	1
 我有段不喝就難以啟齒的沉痛過去	wo you duan bu he jiu nan yi qi chi de chen tong guo qu	1
 我有點事想和您談談	wo you dian shi xiang he nin tan tan	1
-我權知道喔，因為我都看在眼裡	wo quan zhi dao wo yin wei wo dou kan zai yan li	1
+我全知道喔，因為我都看在眼裡	wo quan zhi dao o yin wei wo dou kan zai yan li	1
 我正在忙啦	wo zheng zai mang la	1
 我沒事	wo mei shi	1
 我沒在用	wo mei zai yong	1
@@ -707,7 +707,7 @@ TOKYO MX	tokyo mx
 春日影	ha ru hi ka ge
 昨天也一整夜都沒睡	zuo tian ye yi zheng ye dou mei shui	1
 昨天還很喜歡，今天就膩了	zuo tian hai hen xi huan jin tian jiu ni le	1
-是一輩子喔 一輩子	shi yi bei zi wo yi bei zi	1
+是一輩子喔 一輩子	shi yi bei zi o yi bei zi	1
 是一輩子喔，一輩子	shi yi bei zi o yi bei zi
 是不是不太妙啊 還好嗎	shi bu shi bu tai miao a hai hao ma	1
 是不是連續劇的台詞啊	shi bu shi lian xu ju de tai ci a	1
@@ -766,7 +766,7 @@ TOKYO MX	tokyo mx
 每次想著想著就會感到很厭世	mei ci xiang zhe xiang zhe jiu hui gan dao hen yan shi	1
 毫無品味	hao wu pin wei	1
 沉默隨即宣告了一切的終焉	chen mo sui ji xuan gao le yi qie de zhong yan	1
-沐浴在日光下對身心很好喔	mu yu zai ri guang xia dui shen xin hen hao wo	1
+沐浴在日光下對身心很好喔	mu yu zai ri guang xia dui shen xin hen hao o	1
 沒什麼	mei shen me	1
 沒問題的，請相信我吧	mei wen ti de qing xiang xin wo ba	1
 沒圖說個雞巴	mei tu shuo ge ji ba	1
@@ -875,7 +875,7 @@ TOKYO MX	tokyo mx
 祥子，妳回來了嗎	xiang zi ni hui lai le ma	1
 祥子今後就拜託妳了	xiang zi jin hou jiu bai tuo ni le	1
 祥子是個壞孩子啊	xiang zi shi ge huai hai zi a	1
-祥子真的好過分喔	xiang zi zhen de hao guo fen wo	1
+祥子真的好過分喔	xiang zi zhen de hao guo fen o	1
 秋秋	qiu qiu	1
 秦佐和子	qin zuo he zi	1
 空無一物，只會演戲的人偶	kong wu yi wu zhi hui yan xi de ren ou	1
@@ -912,7 +912,7 @@ TOKYO MX	tokyo mx
 聽我說	ting wo shuo	1
 聽說妳哭了	ting shuo ni ku le	1
 聽起來好棒	ting qi lai hao bang	1
-聽起來好棒喔	ting qi lai hao bang wo	1
+聽起來好棒喔	ting qi lai hao bang o	1
 能否占用妳一些時間呢	neng fou zhan yong ni yi xie shi jian ne	1
 能否請妳積極考慮我的提案呢	neng fou qing ni ji ji kao lv wo de ti an ne	1
 能有各方面的刺激	neng you ge fang mian di ci ji	1
@@ -943,12 +943,12 @@ TOKYO MX	tokyo mx
 要陪妳去嗎	yao pei ni qu ma	1
 見了她只會讓妳傷心，讓妳受傷而已	jian le ta zhi hui rang nai shang xin rang ni shou shang er yi	1
 視而不見這麼久，居然還有臉回來	shi er bu jian zhe me jiu ju ran hai you lian hui lai	1
-覺得難受的話要說喔	jue de nan shou de hua yao shuo wo	1
+覺得難受的話要說喔	jue de nan shou de hua yao shuo o	1
 覺悟	jue wu	1
 討厭啦	tao yan la	1
 討厭討厭，揹我走，抱我走	tao yan tao yan bei wo zou bao wo zou	1
 託妳的福	tuo ni de fu	1
-記得要強調是史上最快喔	ji dei yao qiang tiao shi shi shang zui kuai wo	1
+記得要強調是史上最快喔	ji dei yao qiang tiao shi shi shang zui kuai o	1
 詩超絆	shi chao ban
 詩超絆	u ta ko to ba
 該走了	gai zou le	1
@@ -975,7 +975,7 @@ TOKYO MX	tokyo mx
 謝謝大家，我會加油的	xie xie da jia wo hui jia you de	1
 謝謝妳	xie xie ni	1
 謝謝妳的邀請	xie xie ni de yao qing	1
-謝謝妳花錢支持喔	xie xie ni hua qian zhi chi wo	1
+謝謝妳花錢支持喔	xie xie ni hua qian zhi chi o	1
 謝謝誇獎	xie xie kua jiang	1
 警告 不要啦	jing gao bu yao la	1
 讓妳久等了	rang ni jiu deng le	1
@@ -1006,7 +1006,7 @@ TOKYO MX	tokyo mx
 逃避	tao bi	1
 這	zhe	1
 這……	zhe	1
-這一點也不算是負擔喔	zhe yi dian ye bu suan shi fu dan wo	1
+這一點也不算是負擔喔	zhe yi dian ye bu suan shi fu dan o	1
 這不重要	zhe bu zhong yao	1
 這也算是種才能	zhe ye suan shi zhong cai neng	1
 這件事只能拜託妳了	zhe jian shi zhi neng bai tuo ni le	1
@@ -1019,13 +1019,13 @@ TOKYO MX	tokyo mx
 這是在報復我嗎	zhe shi zai bao fu wo ma	1
 這是在講什麼	zhe shi zai jiang shen me	1
 這是夢嗎	zhe shi meng ma	1
-這是妳說的喔	zhe shi ni shuo de wo	1
+這是妳說的喔	zhe shi ni shuo de o	1
 這是當然的	zhe shi dang ran de	1
 這樣啊	zhe yang a	1
 這樣實在太過分了	zhe yang shi zai tai guo fen le	1
-這樣很沒有教養喔	zhe yang hen mei you jiao yang wo	1
+這樣很沒有教養喔	zhe yang hen mei you jiao yang o	1
 這樣會睡眠不足的	zhe yang hui shui mian bu zu de	1
-這樣會被人看扁的喔	zhe yang hui bei ren kan bian de wo	1
+這樣會被人看扁的喔	zhe yang hui bei ren kan bian de o	1
 這樣誰受得了啊	zhe yang shui shou de liao a	1
 這次的事讓妳上到一課了吧	zhe ci de shi rang ni shang dao yi ke le ba	1
 這發展已經無法停止了	zhe bo zhan yi jing wu fa ting zhi le	1
@@ -1053,7 +1053,7 @@ TOKYO MX	tokyo mx
 那些不是重點吧	na xie bu shi zhong dian ba	1
 那些我根本就不在乎	na xie wo gen ben jiu bu zai hu	1
 那件事已經解決了	na jian shi yi jing jie jue le	1
-那個很有參考價值喔	na ge hen you can kao jia zhi wo	1
+那個很有參考價值喔	na ge hen you can kao jia zhi o	1
 那傢伙一旦沮喪起來就會放任自己沮喪到底	na jia huo yi dan ju sang qi lai jiu hui fang ren zi ji ju sang dao di	1
 那妳的想法真是錯得離譜	na ni de xiang fa zhen shi cu de li pu	1
 那就決定選這張了	na jiu jue ding xuan zhe zhang le	1
