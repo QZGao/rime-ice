@@ -114,6 +114,7 @@ function M.init(env)
         ["shan qi shou dian tong"] = { text = "氙气手电筒", comment = "氙(xiān)气手电筒" },
         ["yin gai"] = { text = "应该", comment = "应(yīng)该" },
         ["nian tie"] = { text = "粘贴", comment = "粘(zhān)贴" },
+        ["nian yi nian"] = { text = "粘一粘", comment = "粘(zhān)" },
         ["gao ju li"] = { text = "高句丽", comment = "高句(gōu)丽" },
         ["jiao dou shi"] = { text = "角斗士", comment = "角(jué)斗士" },
         ["suo sha mi"] = { text = "缩砂密", comment = "缩(sù)砂密" },
@@ -161,6 +162,7 @@ function M.init(env)
         ["ta sha xing"] = { text = "踏莎行", comment = "踏莎(suō)行" },
         ["sha cao"] = { text = "莎草", comment = "suō cǎo" },
         ["shan mu"] = { text = "杉木", comment = "shā mù" },
+        ["dao zai shi ni"] = { text = "道在屎溺", comment = "道在屎溺(niào)" },
         -- 错字
         ["pu jie"] = { text = "扑街", comment = "仆街" },
         ["pu gai"] = { text = "扑街", comment = "仆街" },
