@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: genshin
-version: "2025-03-30"
+version: "2025-04-13"
 sort: origin
 use_preset_vocabulary: true
 ...
@@ -429,6 +429,7 @@ use_preset_vocabulary: true
 仿若水中萍	fang ruo shui zhong ping	1
 仿若無因飄落的輕雨	fang ruo wu yin piao luo de qing yu	1
 企鵝與豐渥之國	qi e yu feng wo zhi guo	1
+伊伊馬尼	yi yi ma ni	1
 伊克娜	yi ke na	1
 伊凡諾夫娜	yi fan nuo fu na	1
 伊凡諾維奇	yi fan nuo wei qi	1
@@ -461,6 +462,7 @@ use_preset_vocabulary: true
 伊達的認可狀	yi da de ren ke zhuang	1
 伊達的鑰匙	yi da de yao shi	1
 伊雷爾	yi lei er	1
+伊馬雷	yi ma lei	1
 伊黎耶之根	yi li ye zhi gen	1
 伊黎耶之歌	yi li ye zhi ge	1
 伊黎耶島	yi li ye dao	1
@@ -577,6 +579,7 @@ use_preset_vocabulary: true
 信風舞姬	xin feng wu ji	1
 修修補補	xiu xiu bu bu	1
 修好的梳子	xiu hao de shu zi	1
+修庫特爾	xiu ku te er	1
 修舊利廢	xiu jiu li fei	1
 修茂彌亙樹	xiu mao mi gen shu	1
 修身砥行	xiu shen di xing	1
@@ -594,12 +597,14 @@ use_preset_vocabulary: true
 倍道兼行	bei dao jian xing	1
 倒錯知能的視度	dao cu zhi neng de shi du	1
 倘若不知	tang ruo bu zhi	1
+候召的廳堂	hou zhao de ting tang	1
 候望謹守	hou wang jin shou	1
 借動式鼓風裝置	jie dong shi gu feng zhuang zhi	1
 借景之館	jie jing zhi guan	1
 借風洗塵緣	jie feng xi chen yuan	1
 倦意之屋	juan yi zhi wu	1
 倩影遊俠	qian ying you xia	1
+倫圖	lun tu	1
 偃草若化	yan cao ruo hua	1
 假如她不再夢到你	jia ru ta bu zai meng dao ni	1
 假山雕刻工具	jia shan diao ke gong ju	1
@@ -999,7 +1004,9 @@ use_preset_vocabulary: true
 冷肉拼盤	leng rou pin pan	1
 冷色攝影律	leng se she ying lv	1
 冷花幽露	leng hua you lu	1
+冷薪與重燃之地	leng xin yu chong ran zhi di	1
 冷血之劍	leng xue zhi jian	1
+冷裂殼塊	leng lie ke kuai	1
 冷酷之心	leng ku zhi xin	1
 冷靜點	leng jing dian	1
 冷鮮肉	leng xian rou	1
@@ -1055,6 +1062,7 @@ use_preset_vocabulary: true
 分佈式前進補給站	fen bu shi qian jin bu gei zhan	1
 分歧的原點	fen qi de yuan dian	1
 分段潰滅	fen duan kui mie	1
+分流識海	fen liu shi hai	1
 分進之月	fen jin zhi yue	1
 分門定序	fen men ding xu	1
 切下之羽	qie xia zhi yu	1
@@ -1199,6 +1207,7 @@ use_preset_vocabulary: true
 加爾恰	jia er qia	1
 加爾恰的讚歌	jia er qia de zan ge	1
 加福爾	jia fu er	1
+加莫莉	jia mo li	1
 加隈亞衣	jia wei ya yi	1
 努伊	nu yi	1
 努力即魔法	nu li ji mo fa	1
@@ -1456,6 +1465,7 @@ use_preset_vocabulary: true
 卡卡媽媽	ka ka ma ma	1
 卡嘉	ka jia	1
 卡塔琳娜	ka ta lin na	1
+卡布林	ka bu lin	1
 卡布狄斯堡遺跡	ka bu di si bao yi ji	1
 卡布狄斯堡遺蹟	ka bu di si bao yi ji	1
 卡布里埃商會	ka bu li ai shang hui	1
@@ -1515,6 +1525,7 @@ use_preset_vocabulary: true
 卻砂木金紋衣櫃	que sha mu jin wen yi gui	1
 卻笠	que li	1
 厄代爾	e dai er	1
+厄卡特爾	e ka te er	1
 厄月	e yue	1
 厄月將升	e yue jiang sheng	1
 厄歌莉婭	e ge li ya	1
@@ -1523,6 +1534,7 @@ use_preset_vocabulary: true
 厄瑞玻斯的秘密	e rui bo si de mi mi	1
 厄舍	e she	1
 厄運的修辭	e yun de xiu ci	1
+厄達爾夫	e da er fu	1
 厄里那斯	e li na si	1
 厄里那斯內部	e li na si nei bu	1
 厄里那斯最深處的風景	e li na si zui shen chu de feng jing	1
@@ -1692,6 +1704,7 @@ use_preset_vocabulary: true
 召喚王	zhao huan wang	1
 召喚王大獎賽	zhao huan wang da jiang sai	1
 叮叮單元	ding ding dan yuan	1
+叮鈴哐啷蛋卷工坊	ding ling kuang lang dan juan gong fang	1
 可可味	ke ke wei	1
 可可醬	ke ke jiang	1
 可否化解仇敵	ke fou hua jie chou di	1
@@ -1886,6 +1899,7 @@ use_preset_vocabulary: true
 哐哐當雀球	kuang kuang dang que qiu	1
 哐哐鐵頭菇	kuang kuang tie tou gu	1
 哥倫比亞	ge lun bi ya	1
+哦！偉大的脂肪！	o wei da de zhi fang	1
 哭哭球球	ku ku qiu qiu	1
 哲伯萊勒	zhe bo lai le	1
 哲平	zhe ping	1
@@ -2055,6 +2069,7 @@ use_preset_vocabulary: true
 回頭客	hui tou ke	1
 因卡納克	yin ka na ke	1
 因地施材	yin di shi cai	1
+因愧疚而生的醫術	yin kui jiu er sheng de yi shu	1
 因提瓦特	yin ti wa te	1
 因果點破	yin guo dian po	1
 因由勘破	yin you kan po	1
@@ -2080,6 +2095,7 @@ use_preset_vocabulary: true
 圓狀掃描	yuan zhuang sao miao	1
 圓環裝置	yuan huan zhuang zhi	1
 圓陣擲彈爆轟術	yuan zhen zhi dan bao hong shu	1
+圖娜卡	tu na ka	1
 圖尼娜	tu ni na	1
 圖帕克	tu pa ke	1
 圖帕克之握	tu pa ke zhi wo	1
@@ -2094,6 +2110,7 @@ use_preset_vocabulary: true
 圖萊拉拉的回憶	tu lai la la de hui yi	1
 圖萊杜拉的回憶	tu lai du la de hui yi	1
 圖騰圍欄	tu teng wei lan	1
+團結之魔法	tuan jie zhi mo fa	1
 土岐隼一	tu qi sun yi	1
 土豆船	tu dou chuan	1
 土質樣本	tu zhi yang ben	1
@@ -2200,6 +2217,7 @@ use_preset_vocabulary: true
 執律庭	zhi lv ting	1
 執意師	zhi yi shi	1
 執望三千里	zhi wang san qian li	1
+執燈人	zhi deng ren	1
 執行官	zhi xing guan	1
 基尼奇	ji ni qi	1
 基揚戈茲	ji yang ge zi	1
@@ -2208,6 +2226,7 @@ use_preset_vocabulary: true
 基礎型	ji chu xing	1
 基礎增殖生命體	ji chu zeng zhi sheng ming ti	1
 基耶霍	ji ye huo	1
+基莫西	ji mo xi	1
 基里亞	ji li ya	1
 堀江由衣	ku jiang you yi	1
 堀江瞬	ku jiang shun	1
@@ -2598,6 +2617,7 @@ use_preset_vocabulary: true
 天權伴星	tian quan ban xing	1
 天權崩玉	tian quan beng yu	1
 天權星	tian quan xing	1
+天火之冠	tian huo zhi guan	1
 天牛之章	tian niu zhi zhang	1
 天牛座	tian niu zuo	1
 天狐之憑	tian hu zhi ping	1
@@ -2725,6 +2745,7 @@ use_preset_vocabulary: true
 奇番	qi fan	1
 奇異的海螺	qi yi de hai luo	1
 奇異的礦石	qi yi de kuang shi	1
+奇皮茨	qi pi ci	1
 奇石含露	qi shi han lu	1
 奇石歷險記	qi shi li jian ji	1
 奇石珠寶錄	qi shi zhu bao lu	1
@@ -2897,6 +2918,7 @@ use_preset_vocabulary: true
 妙骰券	miao tou quan	1
 妙骰戰法	miao tou zhan fa	1
 妮佩卡	ni pei ka	1
+妮扎婭	ni zha ya	1
 妮赫佳	ni he jia	1
 妮露	ni lu	1
 妮露法	ni lu fa	1
@@ -2918,6 +2940,7 @@ use_preset_vocabulary: true
 娛樂水球發射砲	yu le shui qiu fa she pao	1
 娜布	na bu	1
 娜布瑪莉卡塔	na bu ma li ka ta	1
+娜帕	na pa	1
 娜扎法琳	na zha fa lin	1
 娜札法琳	na zha fa lin	1
 娜比雅	na bi ya	1
@@ -2946,6 +2969,7 @@ use_preset_vocabulary: true
 子萇	zi chang	1
 子音	zi yin	1
 孑遺	jie yi	1
+孑遺的留跡	jie yi de liu ji	1
 孔雀木	kong que mu	1
 孔雀木不染櫥櫃	kong que mu bu ran chu gui	1
 孔雀木並提層疊木匣	kong que mu bing ti ceng die mu xia	1
@@ -3045,6 +3069,7 @@ use_preset_vocabulary: true
 安恬	an tian	1
 安托哈	an tuo ha	1
 安提戈努斯	an ti ge nu si	1
+安杜	an du	1
 安東	an dong	1
 安東尼	an dong ni	1
 安柏	an bo	1
@@ -3061,6 +3086,7 @@ use_preset_vocabulary: true
 安行明光	an xing ming guang	1
 安里	an li	1
 安閒的紫夢	an xian de zi meng	1
+安饒之野	an rao zhi ye	1
 宋媛媛	song yuan yuan	1
 完全不對	wan quan bu dui	1
 完全靜默	wan quan jing mo	1
@@ -3168,6 +3194,7 @@ use_preset_vocabulary: true
 審判火焰菇	shen pan huo yan gu	1
 審判的晚宴	shen pan de wan yan	1
 審美力批判	shen mei li pi pan	1
+審議之庭	shen yi zhi ting	1
 審質度葉	shen zhi du ye	1
 寫在葉上的回詩	xie zai ye shang de hui shi	1
 寫有公告內容的紙條	xie you gong gao nei rong de zhi tiao	1
@@ -3335,9 +3362,11 @@ use_preset_vocabulary: true
 尤夫騰	you fu teng	1
 尤庇婭	you bi ya	1
 尤格	you ge	1
+尤洛	you luo	1
 尤潘基	you pan ji	1
 尤潘基的回火	you pan ji de hui huo	1
 尤維爾	you wei er	1
+尤魯赫	you lu he	1
 就像水消失在水中	jiu xiang shui xiao shi zai shui zhong	1
 就像雨中的淚水	jiu xiang yu zhong di lei shui	1
 尼伯龍根	ni bo long gen	1
@@ -3348,6 +3377,7 @@ use_preset_vocabulary: true
 尼古拉線圈	ni gu la xian quan	1
 尼可	ni ke	1
 尼姆	ni mu	1
+尼婭	ni ya	1
 尼尼安涅	ni ni an nie	1
 局間餐點	ju jian can dian	1
 居勒什	ju le shen	1
@@ -3612,6 +3642,7 @@ use_preset_vocabulary: true
 希望之路	xi wang zhi lu	1
 希望是個好詞	xi wang shi ge hao ci	1
 希格雯	xi ge wen	1
+希汐島	xi xi dao	1
 希爾米	xi er mi	1
 希琳	xi lin	1
 希穆蘭卡	xi mu lan ka	1
@@ -3629,6 +3660,7 @@ use_preset_vocabulary: true
 帕沃核心	pa wo he xin	1
 帕琪	pa qi	1
 帕維茲拉萬	pa wei zi la wan	1
+帕華婭	pa hua ya	1
 帕蒂沙蘭	pa di sha lan	1
 帕蒂沙蘭布丁	pa di sha lan bu ding	1
 帕蒂莎蘭	pa di sha lan	1
@@ -3738,6 +3770,7 @@ use_preset_vocabulary: true
 幼獅之章	you shi zhi zhang	1
 幼獅座	you shi zuo	1
 幼獸	you shou	1
+幼突角龍	you tu jiao long	1
 幼絨翼龍	you rong yi long	1
 幼鰭游龍	you qi you long	1
 幼鰭遊龍	you qi you long	1
@@ -3784,12 +3817,15 @@ use_preset_vocabulary: true
 庫伊米	ku yi mi	1
 庫嘉維娜	ku jia wei na	1
 庫塞拉	ku sai la	1
+庫庫爾坎	ku ku er kan	1
 庫拉霍	ku la huo	1
 庫斯可	ku si ke	1
 庫柏	ku bai	1
+庫琪露	ku qi lu	1
 庫約尼	ku yue ni	1
 庫納克	ku na ke	1
 庫胡勒阿喬	ku hu le a qiao	1
+庫蕾瑪娜	ku lei ma na	1
 庫阿勒	ku a le	1
 庭中朝暮	ting zhong zhao mu	1
 庭中隱際	ting zhong yin ji	1
@@ -3807,6 +3843,7 @@ use_preset_vocabulary: true
 廟前的蘇生之轡碎片	miao qian de su sheng zhi pei sui pian	1
 廟算無遺	miao suan wu yi	1
 廢圖毀騰	fei tu hui teng	1
+廢砌造塢	fei qi zao wu	1
 廣夏細旃	guang xia xi zhan	1
 廣海	guang hai	1
 廣海的守望	guang hai de shou wang	1
@@ -4119,6 +4156,7 @@ use_preset_vocabulary: true
 恢復人形藥劑	hui fu ren xing shuo ji	1
 恨繁囿兮作土	hen fan you xi zuo tu	1
 恩孔加	en kong jia	1
+恩波索	en bo suo	1
 恩眷萬民的獅牙	en juan wan min de shi ya	1
 恩返之盞	en fan zhi zhan	1
 恩里	en li	1
@@ -4213,12 +4251,14 @@ use_preset_vocabulary: true
 愚氓	yu mang	1
 愚鈍	yu dun	1
 愛可	ai ke	1
+愛可菲	ai ke fei	1
 愛德琳	ai de lin	1
 愛拉尼	ai la ni	1
 愛拉尼的便籤	ai la ni de bian qian	1
 愛拉尼給妮露法的便籤	ai la ni gei ni lu fa de bian qian	1
 愛是難馴鳥	ai shi nan xun niao	1
 愛樂之花	ai yue zhi hua	1
+愛茜蘑	ai qian mo	1
 愛貝爾	ai bei er	1
 愛雅	ai ya	1
 愛龍人的平凡生活	ai long ren de ping fan sheng huo	1
@@ -4588,6 +4628,7 @@ use_preset_vocabulary: true
 擢金鴉印	zhuo jin ya yin	1
 擬似燃素獨角魚	ni si ran su du jiao yu	1
 擬像氣球	ni xiang qi qiu	1
+擬星的台座	ni xing de tai zuo	1
 擬構基石	ni gou ji shi	1
 擬造陽華	ni zao yang hua	1
 擱淺的旗艦	ge qian de qi jian	1
@@ -4607,6 +4648,7 @@ use_preset_vocabulary: true
 攬存	lan cun	1
 支援就交給我吧	zhi yuan jiu jiao gei wo ba	1
 支援牌	zhi yuan pai	1
+支離武備所	zhi li wu bei suo	1
 支離破碎的對話	zhi li po sui de dui hua	1
 攲斜彌亙樹	ji xie mi gen shu	1
 收穫時節的小鎮攤位	shou hu shi jie de xiao zhen nan wei	1
@@ -4747,6 +4789,7 @@ use_preset_vocabulary: true
 斷雲石	duan yun shi	1
 斷霜的絃歌	duan shuang de xian ge	1
 方入巨淵初探	fang ru ju yuan chu tan	1
+方向逆心	fang xiang ni xin	1
 方塊戲法	fang kuai xi fa	1
 方士	fang shi	1
 方寸安常	fang cun an chang	1
@@ -4850,6 +4893,7 @@ use_preset_vocabulary: true
 明淨的花瓶形壁燈	ming jing de hua ping xing bi deng	1
 明煦天光	ming xu tian guang	1
 明照左右	ming zhao zuo you	1
+明燃的棱狀殼	ming ran de leng zhuang ke	1
 明燭蘭芳	ming zhu lan fang	1
 明目之油膏	ming mu zhi you gao	1
 明石燈	ming shi deng	1
@@ -5135,6 +5179,7 @@ use_preset_vocabulary: true
 書記官	shu ji guan	1
 曼尤雅	man you ya	1
 曼薩	man sa	1
+曾是「厄卡特爾」之物	ceng shi e ka te er zhi wu	1
 替代物	ti dai wu	1
 替代衝刺	ti dai chong ci	1
 最不安神晴又復雨	zui bu an shen qing you fu yu	1
@@ -5220,6 +5265,7 @@ use_preset_vocabulary: true
 望風海岸	wang feng hai an	1
 望風角	wang feng jiao	1
 朝倉	zhao cang	1
+朝向炎崖之路	chao xiang yan ya zhi lu	1
 朝氣便當	zhao qi bian dang	1
 朝氣盒飯	zhao qi he fan	1
 朝生暮死	zhao sheng mu si	1
@@ -5293,6 +5339,7 @@ use_preset_vocabulary: true
 朱漆垂香木百寶閣	zhu qi chui xiang mu bai bao ge	1
 朱特	zhu te	1
 朱特的收貨單	zhu te de shou huo dan	1
+朱羽古團雀	zhu yu gu tuan que	1
 朱英甘露	zhu ying gan lu	1
 朱莉	zhu li	1
 朱赤	zhu chi	1
@@ -5321,6 +5368,7 @@ use_preset_vocabulary: true
 村鎮院落	cun zhen yuan luo	1
 杜冥鴉	du ming ya	1
 杜吉耶	du ji ye	1
+杜塔	du ta	1
 杜拉夫	du la fu	1
 杜拉夫的信	du la fu de xin	1
 杜拉夫的特調酒	du la fu de te tiao jiu	1
@@ -5521,6 +5569,7 @@ use_preset_vocabulary: true
 梅洛彼得堡	mei luo bi de bao	1
 梅洛彼得堡線索記錄冊	mei luo bi de bao xian suo ji lu ce	1
 梅洛彼得生活場景	mei luo bi de sheng huo chang jing	1
+梅茲卡拉	mei zi ka la	1
 梅茲特利	mei zi te li	1
 梅茲特利的古老傳說	mei zi te li de gu lao chuan shuo	1
 梅落雪間醉	mei luo xue jian zui	1
@@ -5663,6 +5712,8 @@ use_preset_vocabulary: true
 榮冕紀行	rong mian ji xing	1
 榮發商鋪	rong fa shang pu	1
 榮花之期	rong hua zhi qi	1
+榮花演武	rong hua yan wu	1
+榮花競捷之爭	rong hua jing jie zhi zheng	1
 榮花與炎日之途	rong hua yu yan ri zhi tu	1
 榮華易散	rong hua yi san	1
 榮譽騎士	rong yu qi shi	1
@@ -5744,6 +5795,9 @@ use_preset_vocabulary: true
 機關烹飪神機	ji guan peng ren shen ji	1
 橫置	heng zhi	1
 橫脊	heng ji	1
+橫蠻勇士・抓撲人	heng man yong shi zhua pu ren	1
+橫蠻勇士・摔跤客	heng man yong shi shuai jiao ke	1
+橫蠻勇士・衝撞手	heng man yong shi chong zhuang shou	1
 橫行霸者的利齒	heng xing ba zhe de li chi	1
 橫衝直撞	heng chong zhi zhuang	1
 橫跨深淵的繩索	heng kua shen yuan de sheng suo	1
@@ -5952,6 +6006,7 @@ use_preset_vocabulary: true
 殺生櫻	sha sheng ying	1
 殼之寶石	ke zhi bao shi	1
 毀壞三界	hui huai san jie	1
+毀滅預兆與最後的通牒	hui mie yu zhao yu zui hou de tong die	1
 毀裂風渦	hui lie feng wo	1
 每日委託	mei ri wei tuo	1
 每月的煩惱消除劑	mei yue de fan nao xiao chu ji	1
@@ -5959,6 +6014,7 @@ use_preset_vocabulary: true
 毒蠍尾部	du xie wei bu	1
 比勒琪斯	bi le qi si	1
 比勒琪絲的哀歌	bi le qi si de ai ge	1
+比夫蘢	bi fu long	1
 比海洋更寬廣的是天空	bi hai yang geng kuan guang de shi tian kong	1
 比羅	bi luo	1
 比量現行之莖	bi liang xian xing zhi jing	1
@@ -6144,7 +6200,9 @@ use_preset_vocabulary: true
 沃摩延	wo mo yan	1
 沃特林	wo te lin	1
 沃特蒙泰涅	wo te meng tai nie	1
+沃貢貢之血	wo gong gong zhi xue	1
 沃陸之邦	wo lu zhi bang	1
+沃陸果飲	wo lu guo yin	1
 沉入沙海的史詩	chen ru sha hai de shi shi	1
 沉墨書社	chen mo shu she	1
 沉墨書舍	chen mo shu she	1
@@ -6627,6 +6685,7 @@ use_preset_vocabulary: true
 深境螺旋	shen jing luo xuan	1
 深境迴廊	shen jing hui lang	1
 深層海髓礦	shen ceng hai sui kuang	1
+深廊終曲	shen lang zhong qu	1
 深念銳意旋步舞	shen nian rui yi xuan bu wu	1
 深林的記憶	shen lin de ji yi	1
 深林紀行	shen lin ji xing	1
@@ -6840,6 +6899,7 @@ use_preset_vocabulary: true
 準準爆彈	zhun zhun bao dan	1
 準確調律	zhun que tiao lv	1
 溜溜	liu liu	1
+溢彩心念	yi cai xin nian	1
 溢彩紀行	yi cai ji xing	1
 溢神的猜想	yi shen de cai xiang	1
 溢神的論證	yi shen de lun zheng	1
@@ -6866,6 +6926,7 @@ use_preset_vocabulary: true
 溯及以往	su ji yi wang	1
 溯古的擬製	su gu de ni zhi	1
 溯因反繹法	su yin fan shi fa	1
+溯火而歸的終局	su huo er gui de zhong ju	1
 溶媒	rong mei	1
 溶水域	rong shui yu	1
 溼漉漉的打孔紙帶	shi lu lu de da kong zhi dai	1
@@ -7132,7 +7193,9 @@ use_preset_vocabulary: true
 為了眾人的願望	wei le zhong ren de yuan wang	1
 為了納塔	wei le na ta	1
 為了美好的明天	wei le mei hao de ming tian	1
+為了龍夥伴	wei le long huo ban	1
 為此勿將希望棄揚	wei ci wu jiang xi wang qi yang	1
+烈度	lie du	1
 烈日威權	lie ri wei quan	1
 烈日威權的夢想	lie ri wei quan de meng xiang	1
 烈日威權的殘響	lie ri wei quan de can xiang	1
@@ -7164,6 +7227,7 @@ use_preset_vocabulary: true
 烏斗山	wu dou shan	1
 烏有亭	wu you ting	1
 烏沙博蒂	wu sha bo di	1
+烏烏黑蛋	wu wu hei dan	1
 烏爾曼	wu er man	1
 烏瑟勳爵	wu se xun jue	1
 烏眼	wu yan	1
@@ -7309,6 +7373,7 @@ use_preset_vocabulary: true
 無限的電迴路	wu xian de dian hui lu	1
 無靈魂處的靈魂	wu ling hun chu de ling hun	1
 無非一怒為蒼生	wu fei yi nu wei cang sheng	1
+無頭的科奎塔奧	wu tou de ke kui ta ao	1
 無餘弧景	wu yu hu jing	1
 無鬱夷摩	wu yu yi mo	1
 無鬱夷摩之地	wu yu yi mo zhi di	1
@@ -7372,6 +7437,7 @@ use_preset_vocabulary: true
 熒光狹道	ying guang xia dao	1
 熒妹	ying mei	1
 熒草餌	ying cao er	1
+熔岩輝龍像	rong yan hui long xiang	1
 熔岩遊像	rong yan you xiang	1
 熔毀之刻	rong hui zhi ke	1
 熔沙	rong sha	1
@@ -7489,6 +7555,7 @@ use_preset_vocabulary: true
 爍然灼目	luo ran zhuo mu	1
 爐心冷卻	lu xin leng que	1
 爐心機造	lu xin ji zao	1
+爐殼山鼬	lu ke shan you	1
 爐火的往跡	lu huo de wang ji	1
 爐火與歡笑之夜	lu huo yu huan xiao zhi ye	1
 爐灰石	lu hui shi	1
@@ -7636,6 +7703,7 @@ use_preset_vocabulary: true
 狂浪譎波	kuang lang jue bo	1
 狂濤	kuang tao	1
 狂瀾	kuang lan	1
+狂獵	kuang lie	1
 狂蔓之月	kuang man zhi yue	1
 狂蔓聖骸牙獸	kuang man sheng hai ya shou	1
 狂蔓隙境原體	kuang man xi jing yuan ti	1
@@ -7855,6 +7923,7 @@ use_preset_vocabulary: true
 琉金座	liu jin zuo	1
 琉金火光	liu jin huo guang	1
 琉金雲間草	liu jin yun jian cao	1
+琉鱗石	liu lin shi	1
 琢光鏡	zhuo guang jing	1
 琥牢山	hu lao shan	1
 琥珀獵犬	hu po lie quan	1
@@ -7962,6 +8031,7 @@ use_preset_vocabulary: true
 瓦伊納	wa yi na	1
 瓦倫斯坦	wa lun si tan	1
 瓦凱	wa kai	1
+瓦娜娜	wa na na	1
 瓦希德	wa xi de	1
 瓦希德捏製的飯糰	wa xi de nie zhi de fan tuan	1
 瓦斯卡爾	wa si ka er	1
@@ -7971,6 +8041,7 @@ use_preset_vocabulary: true
 瓦薩里迴廊	wa sa li hui lang	1
 瓦謝	wa xie	1
 瓦謝的實驗報告	wa xie de shi yan bao gao	1
+瓦阿吉	wa a ji	1
 瓦雷莎	wa lei sha	1
 瓶中人的天慧	ping zhong ren de tian hui	1
 瓶中瑰景	ping zhong gui jing	1
@@ -8195,6 +8266,7 @@ use_preset_vocabulary: true
 白梣木	bai cen mu	1
 白棠珍奇屋	bai tang zhen qi wu	1
 白汁時蔬燴肉	bai zhi shi shu hui rou	1
+白沙皇	bai sha huang	1
 白淞街鎮的時鮮	bai song jie zhen de shi xian	1
 白淞街鎮的智慧	bai song jie zhen de zhi hui	1
 白淞街鎮的簡居	bai song jie zhen de jian ju	1
@@ -8326,6 +8398,7 @@ use_preset_vocabulary: true
 盤轉之月	pan zhuan zhi yue	1
 盧佩卡	lu pei ka	1
 盧卡	lu ka	1
+盧施	lu shi	1
 盧皮卡	lu pi ka	1
 盧皮卡的意義	lu pi ka de yi yi	1
 盧老爺	lu lao ye	1
@@ -8423,6 +8496,7 @@ use_preset_vocabulary: true
 石心	shi xin	1
 石書輯錄	shi shu ji lu	1
 石根文字	shi gen wen zi	1
+石火墜隕處	shi huo zhui yun chu	1
 石燈籠	shi deng long	1
 石獅子像	shi shi zi xiang	1
 石獸	shi shou	1
@@ -8787,6 +8861,7 @@ use_preset_vocabulary: true
 秋分山	qiu fen shan	1
 秋分山東側	qiu fen shan dong ce	1
 秋分山西側	qiu fen shan xi ce	1
+秋暮之炎	qiu mu zhi yan	1
 秋月紅霜花	qiu yue hong shuang hua	1
 秋橘	qiu ju	1
 秋沙錢湯	qiu sha qian tang	1
@@ -8800,6 +8875,7 @@ use_preset_vocabulary: true
 科優爾	ke you er	1
 科培琉司	ke pei liu si	1
 科培琉司的劫罰	ke pei liu si de jie fa	1
+科奎塔奧	ke kui ta ao	1
 科奧勞	ke ao lao	1
 科巴德	ke ba de	1
 科巴德王子的印珠	ke ba de wang zi de yin zhu	1
@@ -8832,6 +8908,9 @@ use_preset_vocabulary: true
 秘源機鞘	mi yuan ji qiao	1
 秘源真芯	mi yuan zhen xin	1
 秘源軸	mi yuan zhou	1
+秘源龍仆	mi yuan long pu	1
+秘源龍像	mi yuan long xiang	1
+秘源龍像.…首?	mi yuan long xiang shou	1
 秘火	mi huo	1
 秘烤肋排	mi kao lei pai	1
 秘華石	mi hua shi	1
@@ -8845,6 +8924,7 @@ use_preset_vocabulary: true
 秘銅發條	mi tong fa tiao	1
 秘香肉團	mi xiang rou tuan	1
 秦且歌	qin qie ge	1
+秦庫馬	qin ku ma	1
 秦文靜	qin wen jing	1
 秦紫翼	qin zi yi	1
 秩序的哲學	zhi xu de zhe xue	1
@@ -8878,6 +8958,7 @@ use_preset_vocabulary: true
 稻妻廈屋	dao qi sha wu	1
 稻妻時尚入門	dao qi shi shang ru men	1
 稻妻民居	dao qi min ju	1
+稻妻秘見錄	dao qi mi jian lu	1
 稻妻筱屋	dao qi xiao wu	1
 稻妻銷售員	dao qi xiao shou yuan	1
 稻妻風格	dao qi feng ge	1
@@ -8887,6 +8968,7 @@ use_preset_vocabulary: true
 穆爾科	mu er ke	1
 穆納伊	mu na yi	1
 穆胡魯寶石鋪	mu hu lu bao shi pu	1
+穆茜雅	mu qian ya	1
 穆雪婷	mu xue ting	1
 積攢願力	ji zan yuan li	1
 積木衛兵	ji mu wei bing	1
@@ -8944,6 +9026,9 @@ use_preset_vocabulary: true
 穿越煙帷與暗林	chuan yue yan wei yu an lin	1
 穿越隱秘的通術	chuan yue yin mi de tong shu	1
 突角	tu jiao	1
+突角龍	tu jiao long	1
+突角龍武士・破空轟動	tu jiao long wu shi po kong hong dong	1
+突角龍武士・追緝靈光	tu jiao long wu shi zhui ji ling guang	1
 窟岩	ku yan	1
 窮寇猛追	qiong kou meng zhui	1
 窮碧落而下墟淵	qiong bi luo er xia xu yuan	1
@@ -9055,6 +9140,7 @@ use_preset_vocabulary: true
 米沙勒	mi sha le	1
 米盧	mi lu	1
 米窩窩	mi wo wo	1
+米萊	mi lai	1
 米飯布丁	mi fan bu ding	1
 米齊卡	mi qi ka	1
 粉碎之冰	fen sui zhi bing	1
@@ -9065,6 +9151,7 @@ use_preset_vocabulary: true
 粒果片	li guo pian	1
 粒果片片	li guo pian pian	1
 粒果肉湯	li guo rou tang	1
+粒果膨膨棒	li guo peng peng bang	1
 粒果裹裹	li guo guo guo	1
 粗糙的布袋	cu cao de bu dai	1
 粼光島	lin guang dao	1
@@ -9102,6 +9189,7 @@ use_preset_vocabulary: true
 紀行寶匣	ji xing bao xia	1
 紀行武器	ji xing wu qi	1
 紀行經驗	ji xing jing yan	1
+約卡	yue ka	1
 約己之壁	yue ji zhi bi	1
 約等於天下無敵	yue deng yu tian xia wu di	1
 約蓮妮	yue lian ni	1
@@ -9109,6 +9197,7 @@ use_preset_vocabulary: true
 紅尾鼬	hong wei you	1
 紅弦	hong xian	1
 紅惡棍的報復	hong e gun de bao fu	1
+紅果果菇	hong guo guo gu	1
 紅檀四弦座	hong tan si xian zuo	1
 紅毹嬋娟	hong shu chan juan	1
 紅燒肉圓	hong shao rou yuan	1
@@ -9132,13 +9221,16 @@ use_preset_vocabulary: true
 納博內區	na bo nei qu	1
 納博內番茄盅	na bo nei fan qie zhong	1
 納博市區	na bo shi qu	1
+納博爾	na bo er	1
 納塔	na ta	1
 納塔博學者	na ta bo xue zhe	1
 納塔蘭提亞	na ta lan ti ya	1
 納塔部族	na ta bu zu	1
 納杰特	na jie te	1
 納爾吉斯	na er ji si	1
+納納卡	na na ka	1
 納茨卡延	na ci ka yan	1
+納華欽之躍	na hua qin zhi yue	1
 納菲斯	na fei si	1
 納蒂亞	na di ya	1
 納蒂亞的信物	na di ya de xin wu	1
@@ -9203,6 +9295,7 @@ use_preset_vocabulary: true
 索赫爾的考古筆記	suo he er de kao gu bi ji	1
 索赫蕾	suo he lei	1
 索赫蕾的筆記	suo he lei de bi ji	1
+索鳥娜	suo niao na	1
 紫晶塊	zi jing kuai	1
 紫晶的花冠	zi jing de hua guan	1
 紫色霧靄	zi se wu ai	1
@@ -9230,6 +9323,7 @@ use_preset_vocabulary: true
 終幕的時計	zhong mu de shi ji	1
 終戰之月	zhong zhan zhi yue	1
 終有一別	zhong you yi bie	1
+終有獨行之日	zhong you du xing zhi ri	1
 終末	zhong mo	1
 終末嗟嘆之時	zhong mo jie tan zhi shi	1
 終末嗟嘆之詩	zhong mo jie tan zhi shi	1
@@ -9304,6 +9398,7 @@ use_preset_vocabulary: true
 綠帷逐葉	lv wei zhu ye	1
 綠松石	lv song shi	1
 綠松石之狩	lv song shi zhi shou	1
+綠果果菇	lü guo guo gu	1
 綠植盆栽	lv zhi pen zai	1
 綠汁脆球	lv zhi cui qiu	1
 綠洲之心	lv zhou zhi xin	1
@@ -9617,6 +9712,7 @@ use_preset_vocabulary: true
 聚於湖畔的外鄉之客	ju yu hu pan de wai xiang zhi ke	1
 聚會與痛飲之時	ju hui yu tong yin zhi shi	1
 聚流映燈	ju liu ying deng	1
+聚火祭驗所	ju huo ji yan suo	1
 聚焦效應	ju jiao xiao ying	1
 聚燃的命種	ju ran de ming zhong	1
 聚燃的石塊	ju ran de shi kuai	1
@@ -9933,6 +10029,7 @@ use_preset_vocabulary: true
 苦種	ku zhong	1
 苦與幸的鐘擺	ku yu xing de zhong bai	1
 苦舍桓	ku she huan	1
+苦苦羊	ku ku yang	1
 苦離果	ku li guo	1
 英戈德	ying ge de	1
 英雄之旅	ying xiong zhi lv	1
@@ -10036,6 +10133,7 @@ use_preset_vocabulary: true
 荒場的尋寶者	huang chang de xun bao zhe	1
 荒山孤劍錄	huang shan gu jian lu	1
 荒島朝聖指南	huang dao chao sheng zhi nan	1
+荒廢砌造塢	huang fei qi zao wu	1
 荒性	huang xing	1
 荒性態	huang xing tai	1
 荒性能量塊	huang xing neng liang kuai	1
@@ -10068,6 +10166,7 @@ use_preset_vocabulary: true
 荼訶落谷	tu he luo gu	1
 莉利斯	li li si	1
 莉利絲	li li si	1
+莉娜夏	li na xia	1
 莉安的苦惱	li an de ku nao	1
 莉琉	li liu	1
 莉瓦	li wa	1
@@ -10096,6 +10195,8 @@ use_preset_vocabulary: true
 菅名卡帕奇莉	jian ming ka pa qi li	1
 菅名山	jian ming shan	1
 菇測高度	gu ce gao du	1
+菇茲亞	gu zi ya	1
+菇菇山脈	gu gu shan mai	1
 菊花花	ju hua hua	1
 菌核	jun he	1
 菘藍	song lan	1
@@ -10338,6 +10439,7 @@ use_preset_vocabulary: true
 蔥蘢之願	chuang long zhi yuan	1
 蔥鬱的葡萄藤	chuang yu de pu tao teng	1
 蕆護禁罔	chan hu jin wang	1
+蕈之賢主	xun zhi xian zhu	1
 蕈獸	xun shou	1
 蕈獸姆氣球	xun shou mu qi qiu	1
 蕈獸孢子	xun shou bao zi	1
@@ -10442,15 +10544,19 @@ use_preset_vocabulary: true
 蘇生之月	su sheng zhi yue	1
 蘇生之轡	su sheng zhi pei	1
 蘇生的曲調	su sheng de qu tiao	1
+蘇里奎	su li kui	1
 蘊光之葉	yun guang zhi ye	1
 蘊思的霜草	yun si de shuang cao	1
 蘊火的幽墟	yun huo de you xu	1
+蘊熱的背殼	yun re de bei ke	1
 蘊種印	yun zhong yin	1
 蘋果卷卷	ping guo juan juan	1
 蘋果炸彈	ping guo zha dan	1
 蘋果釀	ping guo niang	1
 蘋果金條條	ping guo jin tiao tiao	1
 蘋果黑布丁	ping guo hei bu ding	1
+蘑境菌奇	mo jing jun qi	1
+蘑瓦塔里	mo wa ta li	1
 蘑菇寶錢	mo gu bao qian	1
 蘑菇衝撞	mo gu chong zhuang	1
 蘭伊舍	lan yi she	1
@@ -10627,6 +10733,7 @@ use_preset_vocabulary: true
 行道灌木	xing dao guan mu	1
 行遠升高	xing yuan sheng gao	1
 行銷販運之方	xing xiao fan yun zhi fang	1
+衍木陣列	yan mu zhen lie	1
 衍溢的汐潮	yan yi de xi chao	1
 街巷伏擊	jie xiang fu ji	1
 街巷遊俠	jie xiang you xia	1
@@ -10762,6 +10869,8 @@ use_preset_vocabulary: true
 視覺聚焦	shi jue ju jue	1
 親切的蘭那羅木刻	qin qie de lan na luo mu ke	1
 親愛的摯友派蒙的肖像	qin ai de zhi you pai meng de xiao xiang	1
+覲山之路	jin shan zhi lu	1
+覲山古道	jin shan gu dao	1
 覺樹之堂	jue shu zhi tang	1
 覺王之樹	jue wang zhi shu	1
 覺王之殿	jue wang zhi dian	1
@@ -11002,6 +11111,7 @@ use_preset_vocabulary: true
 豐年有餘	feng nian you yu	1
 豐收預兆的水果推車	feng shou yu zhao de shui guo tui che	1
 豐沃之陸的回聲	feng wo zhi lu de hui sheng	1
+豐稔之賜	feng ren zhi ci	1
 豐穰之核	feng rang zhi he	1
 豐穰的春雷	feng rang de chun lei	1
 豐美的魚肉	feng mei de yu rou	1
@@ -11011,6 +11121,8 @@ use_preset_vocabulary: true
 豚獸	tun shou	1
 豚豚泳裝	tun tun yong zhuang	1
 豚豚球	tun tun qiu	1
+豪宴熱斗	hao yan re dou	1
+豪特利	hao te li	1
 豪重琱麗的坐席	hao zhong diao li de zuo xi	1
 豪飲	hao yin	1
 貉級忍者	mo ji ren zhe	1
@@ -11380,6 +11492,7 @@ use_preset_vocabulary: true
 返場的高呼	fan chang de gao hu	1
 迦毗鳩師	jia pi jiu shi	1
 迦毗鳩師的論文	jia pi jiu shi de lun wen	1
+迦陀迦	jia tuo jia	1
 迪亞法飯店	di ya fa fan dian	1
 迪奧娜	di ao na	1
 迪娜澤黛	di na ze dai	1
@@ -11406,11 +11519,11 @@ use_preset_vocabulary: true
 迴廊的穩便貯藏	hui lang de wen bian zhu cang	1
 迴廊的馨香牽纏	hui lang de xin xiang qian chan	1
 迴獵貫鱗炮	hui lie guan lin pao	1
-迴聲之子	hui sheng zhi zi	1
-迴聲之林夜話	hui sheng zhi lin ye hua	1
-迴聲海螺	hui sheng hai luo	1
-迴聲輕敘	hui sheng qing xu	1
-迴身箭術	hui shen jian shu	1
+回聲之子	hui sheng zhi zi	1
+回聲之林夜話	hui sheng zhi lin ye hua	1
+回聲海螺	hui sheng hai luo	1
+回聲輕敘	hui sheng qing xu	1
+回身箭術	hui shen jian shu	1
 迴轉的怒風	hui zhuan de nu feng	1
 迴響海螺	hui xiang hai luo	1
 迴響淵底的安魂曲	hui xiang yuan di de an hun qu	1
@@ -11489,6 +11602,7 @@ use_preset_vocabulary: true
 逐月紀行	zhu yue ji xing	1
 逐花券	zhu hua quan	1
 逐花棋	zhu hua qi	1
+逐響擂台	zhu xiang lei tai	1
 逐風的冒險家	zhu feng de mao jian jia	1
 逐風的尋寶者	zhu feng de xun bao zhe	1
 逗留採血色	dou liu cai xue se	1
@@ -11613,6 +11727,7 @@ use_preset_vocabulary: true
 遙山煙空	yao shan yan kong	1
 遙望降魔的巨人	yao wang xiang mo de ju ren	1
 遙水蓮華	yao shui lian hua	1
+遠古聖山	yuan gu sheng shan	1
 遠呂羽氏尊	yuan lv yu shi zun	1
 遠呂羽氏遺事	yuan lv yu shi yi shi	1
 遠售良方	yuan shou liang fang	1
@@ -11720,6 +11835,7 @@ use_preset_vocabulary: true
 郁馥臻萃	yu fu zhen cui	1
 郊野的燈影	jiao ye de deng ying	1
 郊野路燈	jiao ye lu deng	1
+部族紀聞	bu zu ji wen	1
 部族行商的信件	bu zu xing shang de xin jian	1
 部落紀聞	bu luo ji wen	1
 郭狐之章	guo hu zhi zhang	1
@@ -11751,6 +11867,8 @@ use_preset_vocabulary: true
 酣樂之殿	han le zhi dian	1
 酥酥羊角包	su su yang jiao bao	1
 酥酥麻麻菇	su su ma ma gu	1
+酪烤菇菇串	lao kao gu gu chuan	1
+酪香蟹蟹鍋	lao xiang xie xie guo	1
 酸桔餌	suan ju er	1
 酸汁醃魚	suan zhi yan yu	1
 醃篤鮮	yan du xian	1
@@ -11842,6 +11960,7 @@ use_preset_vocabulary: true
 金流監督	jin liu jian du	1
 金焰	jin yan	1
 金焰絨翼龍暴君	jin yan rong yi long bao jun	1
+金牌健康餐	jin pai jian kang can	1
 金牌飛行執照	jin pai fei xing zhi zhao	1
 金狼之章	jin lang zhi zhang	1
 金狼座	jin lang zuo	1
@@ -12040,6 +12159,7 @@ use_preset_vocabulary: true
 鑲邊紅綢	xiang bian hong chou	1
 鑽探裝置	zuan tan zhuang zhi	1
 鑿錘	zao chui	1
+長夜之誓	chang ye zhi shi	1
 長宵宣秘	chang xiao xuan mi	1
 長按瞄準	chang an miao zhun	1
 長日留痕	chang ri liu hen	1
@@ -12174,6 +12294,7 @@ use_preset_vocabulary: true
 阿德菲	a de fei	1
 阿扎萊	a zha lai	1
 阿扎萊的貨款	a zha lai de huo kuan	1
+阿托力	a tuo li	1
 阿托斯	a tuo si	1
 阿托斯的供詞	a tuo si de gong ci	1
 阿托莎	a tuo sha	1
@@ -12196,6 +12317,7 @@ use_preset_vocabulary: true
 阿特拉托的佑助	a te la tuo de you zhu	1
 阿瑠	a liu	1
 阿瑪茲亞	a ma zi ya	1
+阿瑪魯	a ma lu	1
 阿祇	a qi	1
 阿祇的地圖	a qi de di tu	1
 阿科米蒂	a ke mi di	1
@@ -12217,6 +12339,7 @@ use_preset_vocabulary: true
 阿蕾奇諾	a lei qi nuo	1
 阿蕾梅	a lei mei	1
 阿薩里格	a sa li ge	1
+阿蘑娜	a mo na	1
 阿蘭	a lan	1
 阿貝多	a bei duo	1
 阿賈克斯	a jia ke si	1
@@ -12234,6 +12357,7 @@ use_preset_vocabulary: true
 阿飛	a fei	1
 阿飛關於船隻進出的見聞	a fei guan yu chuan zhi jin chu de jian wen	1
 阿魯埃	a lu ai	1
+阿麥	a mai	1
 阿麥塔機關	a mai ta ji guan	1
 阿黛爾	a dai er	1
 陀裟多	tuo sha duo	1
@@ -12434,6 +12558,7 @@ use_preset_vocabulary: true
 雪人雙手	xue ren shuang shou	1
 雪人雙眼	xue ren shuang yan	1
 雪人鼻子	xue ren bi zi	1
+雪國的妖精	xue guo de yao jing	1
 雪團雀	xue tuan que	1
 雪夜夢鄉	xue ye meng xiang	1
 雪奈茨夫娜	xue nai ci fu na	1
@@ -12480,6 +12605,7 @@ use_preset_vocabulary: true
 雲堇	yun jin	1
 雲山復沓百雨金	yun shan fu ta bai yu jin	1
 雲山藍	yun shan lan	1
+雲岩裂葉	yun yan lie ye	1
 雲底之能	yun di zhi neng	1
 雲府鶴行	yun fu he xing	1
 雲流星奔	yun liu xing ben	1
@@ -12650,6 +12776,7 @@ use_preset_vocabulary: true
 霜噬結晶	shuang shi ji jing	1
 霜寒病毒	shuang han bing du	1
 霜役人	shuang yi ren	1
+霜月之子	shuang yue zhi zi	1
 霜殺墨染櫻	shuang sha mo ran ying	1
 霜流矢	shuang liu shi	1
 霜滅	shuang mie	1
@@ -12751,6 +12878,7 @@ use_preset_vocabulary: true
 靈活採集型	ling huo cai ji xing	1
 靈淵	ling yuan	1
 靈濛山	ling meng shan	1
+靈濛山夜話	ling meng shan ye hua	1
 靈犀默應的配合	ling xi mo ying de pei he	1
 靈矩有寶予何人	ling ju you bao yu he ren	1
 靈矩有寶給何人	ling ju you bao gei he ren	1
@@ -13137,6 +13265,7 @@ use_preset_vocabulary: true
 馬力卜	ma li bo	1
 馬塔伽	ma ta jia	1
 馬塞拉	ma sai la	1
+馬察科	ma cha ke	1
 馬尼菲科	ma ni fei ke	1
 馬尾	ma wei	1
 馬斯克	ma si ke	1
@@ -13145,6 +13274,7 @@ use_preset_vocabulary: true
 馬特蘭	ma te lan	1
 馬科修斯	ma ke xiu si	1
 馬索	ma suo	1
+馬范	ma fan	1
 馬茲拉	ma zi la	1
 馬薩拉芝士球	ma sa la zhi shi qiu	1
 馬薩拉起司球	ma sa la qi si qiu	1
@@ -13376,6 +13506,7 @@ use_preset_vocabulary: true
 鳥蛋壽司	niao dan shou si	1
 鳥蛋燒	niao dan shao	1
 鳥首	niao shou	1
+鳥魯班巴	niao lu ban ba	1
 鳩羽	jiu yu	1
 鳴川鵜飼	ming chuan ti si	1
 鳴海棲霞	ming hai qi xia	1
@@ -13558,6 +13689,7 @@ use_preset_vocabulary: true
 齧骸狀態	nie hai zhuang tai	1
 龍之魂附	long zhi hun fu	1
 龍二	long er	1
+龍像的無智核	long xiang de wu zhi he	1
 龍共雲飛	long gong yun fei	1
 龍冠武士	long guan wu shi	1
 龍冠武士的金哨	long guan wu shi de jin shao	1
@@ -13586,6 +13718,7 @@ use_preset_vocabulary: true
 龍骨花凝珠	long gu hua ning zhu	1
 龍鬚面	long xu mian	1
 龍鬚麵	long xu mian	1
+龍龍尋寶	long long xun bao	1
 龍龍餅乾	long long bing gan	1
 龐塞	pang sai	1
 龜井宗久	gui jing zong jiu	1
