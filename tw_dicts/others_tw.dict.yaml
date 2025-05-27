@@ -8,7 +8,7 @@
 #
 ---
 name: others_tw
-version: "2025-03-06"
+version: "2025-05-20"
 sort: by_weight
 ...
 ##### 容错词
@@ -147,6 +147,8 @@ sort: by_weight
 虛與委蛇	xu yu wei she
 木訥	mu ne
 木訥	mu na
+龜裂	jun lie
+龜裂	gui lie
 獨樂樂	du yue le
 獨樂樂	du le le
 眾樂樂	zhong yue le
@@ -287,6 +289,10 @@ sort: by_weight
 縮砂密	suo sha mi
 迫擊炮	pai ji pao
 迫擊炮	po ji pao
+封禪	feng shan
+封禪	feng chan
+芫荽	yan sui
+芫荽	yuan sui
 榲桲	wen po
 榲桲	wen bo
 荸薺	bi qi
@@ -319,6 +325,8 @@ sort: by_weight
 哺乳	pu ru
 腦卒中	nao cu zhong
 腦卒中	nao zu zhong
+閾值	yu zhi
+閾值	fa zhi
 潟湖	xi hu
 潟湖	xie hu
 果脯	guo fu
