@@ -2,10 +2,11 @@
 # encoding: utf-8
 ---
 name: honkai
-version: "2025-03-30"
+version: "2025-05-26"
 sort: by_weight
 ...
 「我」的誕生	wo de dan sheng	1
+「白日夢」酒店	bai ri meng jiu dian	1
 「黑塔」太空站	hei ta tai kong zhan	1
 「黑塔」的太空站點	hei ta de tai kong zhan dian	1
 「黑塔」的漫歷軌跡	hei ta de man li gui ji	1
@@ -108,6 +109,7 @@ sort: by_weight
 三叉戟	san cha ji	1
 三塵	san chen	1
 三娘	san niang	1
+三季海庭	san ji hai ting	1
 三尺之水	san chi zhi shui	1
 三層書架	san ceng shu jia	1
 三度迎來日落	san du ying lai ri luo	1
@@ -235,6 +237,7 @@ sort: by_weight
 不能滿足	bu neng man zu	1
 不能破盾	bu neng po dun	1
 不能被時空延長	bu neng bei shi kong yan chang	1
+不良資產清算專家	bu liang zi chan qing suan zhuan jia	1
 不被流血流死	bu bei liu xue liu si	1
 不要回頭看爆炸	bu yao hui tou kan bao zha	1
 不要浪費	bu yao lang fei	1
@@ -339,6 +342,7 @@ sort: by_weight
 久遠刻印	jiu yuan ke yin	1
 乘勝追擊	cheng sheng zhui ji	1
 乘坐彗星	cheng zuo hui xing	1
+乘槎馭風仙窟游	cheng cha yu feng xian ku you	1
 乙太幽靈	yi tai you ling	1
 乙太戰線	yi tai zhan xian	1
 乙太戰線大師	yi tai zhan xian da shi	1
@@ -350,6 +354,7 @@ sort: by_weight
 九沸九變	jiu fei jiu bian	1
 九王國	jiu wang guo	1
 也不是爆發狀態	ye bu shi bao fa zhuang tai	1
+乾坤街	qian kun jie	1
 乾旱	gan han	1
 乾杯	gan bei	1
 乾清坤夷	gan qing kun yi	1
@@ -402,6 +407,7 @@ sort: by_weight
 亞空的征服者	ya kong de zheng fu zhe	1
 亞空的毀滅者	ya kong de hui mie zhe	1
 亞空連射	ya kong lian she	1
+亡國的王儲	wang guo de wang chu	1
 亡環上的壞死	wang huan shang de huai si	1
 亡者深空	wang zhe shen kong	1
 亡靈死士	wang ling si shi	1
@@ -432,6 +438,7 @@ sort: by_weight
 人偶師套	ren ou shi tao	1
 人偶衣	ren ou yi	1
 人偶裝束	ren ou zhuang shu	1
+人才激勵部	ren cai ji li bu	1
 人有五名	ren you wu ming	1
 人有四名	ren you si ming	1
 人機一體	ren ji yi ti	1
@@ -458,10 +465,21 @@ sort: by_weight
 他落下的羽毛	ta luo xia de yu mao	1
 仙女木	xian nv mu	1
 仙女棒	xian nv bang	1
+仙舟「方壺」	xian zhou fang hu	1
+仙舟「曜青」	xian zhou yao qing	1
+仙舟「朱明」	xian zhou zhu ming	1
+仙舟「玉闕」	xian zhou yu que	1
+仙舟「羅浮」	xian zhou luo fu	1
+仙舟「虛陵」	xian zhou xu ling	1
 仙舟導遊	xian zhou dao you	1
+仙舟方壺	xian zhou fang hu	1
+仙舟曜青	xian zhou yao qing	1
+仙舟朱明	xian zhou zhu ming	1
+仙舟玉闕	xian zhou yu que	1
 仙舟羅浮	xian zhou luo fu	1
 仙舟羅浮持明族	xian zhou luo fu chi ming zu	1
 仙舟聯盟	xian zhou lian meng	1
+仙舟虛陵	xian zhou xu ling	1
 仙路去何通	xian lu qu he tong	1
 仙骸有終	xian hai you zhong	1
 代價	dai jia	1
@@ -507,7 +525,9 @@ sort: by_weight
 伊伯基	yi bo ji	1
 伊利亞遊記	yi li ya you ji	1
 伊利沫沫女王育成	yi li mo mo nv wang yu cheng	1
+伊卡利亞	yi ka li ya	1
 伊卡洛斯	yi ka luo si	1
+伊德莉拉	yi de li la	1
 伊斯卡達爾	yi si ka da er	1
 伊東健人	yi dong jian ren	1
 伊甸之星	yi dian zhi xing	1
@@ -602,8 +622,10 @@ sort: by_weight
 何不於君指上聽	he bu yu jun zhi shang ting	1
 何必質問其家世	he bi zhi wen qi jia shi	1
 何枝可依	he zhi ke yi	1
+何物朝向死亡	he wu chao xiang si wang	1
 何物為真	he wu wei zhen	1
 何等的勤勉啊	he deng de qin mian a	1
+何者	he zhe	1
 作品簡介	zuo pin jian jie	1
 作戰再部署	zuo zhan zai bu shu	1
 作戰思路	zuo zhan si lu	1
@@ -624,6 +646,7 @@ sort: by_weight
 你對力量一無所知	ni dui li liang yi wu suo zhi	1
 你對我就像哥哥一樣	ni dui wo jiu xiang ge ge yi yang	1
 你應該待在博物館裡	ni ying gai dai zai bo wu guan li	1
+你所不曾抵達的世界	ni suo bu ceng di da de shi jie	1
 你是人類的朋友	ni shi ren lei de peng you	1
 你是個好人	ni shi ge hao ren	1
 你是對面的吧	ni shi dui mian di ba	1
@@ -641,6 +664,7 @@ sort: by_weight
 你要去哪裡	ni yao qu na li	1
 你還記得我嗎	ni hai ji de wo ma	1
 佩拉	pei la	1
+佩拉格婭	pei la ge ya	1
 使一顆心免於哀傷	shi yi ke xin mian yu ai shang	1
 使命	shi ming	1
 使命不達	shi ming bu da	1
@@ -709,6 +733,7 @@ sort: by_weight
 倪克斯之眼	ni ke si zhi yan	1
 倪瑪璧	ni ma bi	1
 值得點滿	zhi de dian man	1
+偃息館長廊	yan xi guan chang lang	1
 偃蹇	yan jian	1
 假如我能使一顆心免於破碎	jia ru wo neng shi yi ke xin mian yu po sui	1
 假面徽章	jia mian hui zhang	1
@@ -741,7 +766,6 @@ sort: by_weight
 傑克燈籠	jie ke deng long	1
 傑姆哈克與傑姆哈爾	jie mu ha ke yu jie mu ha er	1
 傑帕德	jie pa de	1
-傑帕德朗道	jie pa de lang dao	1
 傢俱	jia ju	1
 傢俱分解系統	jia ju fen jie xi tong	1
 傢俱列表	jia ju lie biao	1
@@ -760,6 +784,7 @@ sort: by_weight
 傳奇海選王	chuan qi hai xuan wang	1
 傳火之旅	chuan huo zhi lv	1
 傳統流程	chuan tong liu cheng	1
+傳統項目部	chuan tong xiang mu bu	1
 傳記作家	chuan ji zuo jia	1
 傳說中的高手	chuan shuo zhong de gao shou	1
 傳說之女	chuan shuo zhi nv	1
@@ -828,6 +853,10 @@ sort: by_weight
 先照高山	xian zhao gao shan	1
 先發制人	xian bo zhi ren	1
 先鋒憑證	xian feng ping zheng	1
+先驅的密合鉛衣	xian qu de mi he qian yi	1
+先驅的泊星樁錨	xian qu de bo xing zhuang mao	1
+先驅的絕熱圍殼	xian qu de jue re wei ke	1
+先驅的虛極羅盤	xian qu de xu ji luo pan	1
 先點	xian dian	1
 光之瑕玷	guang zhi xia dian	1
 光學導引的透鏡	guang xue dao yin de tou jing	1
@@ -859,11 +888,13 @@ sort: by_weight
 克列歐博克拉中下	ke lie ou bo ke la zhong xia	1
 克列歐博克拉兩件套	ke lie ou bo ke la liang jian tao	1
 克列歐博克拉套	ke lie ou bo ke la tao	1
+克勞克影視樂園	ke lao ke ying shi yue yuan	1
 克拉拉	ke la la	1
 克拉拉保護協會	ke la la bao hu xie hui	1
 克拉拉與太陽	ke la la yu tai yang	1
 克拉託斯的殘暴	ke la tuo si de can bao	1
 克洛伊	ke luo yi	1
+克里珀	ke li po	1
 兌換商店	dui huan shang dian	1
 兌換碼	dui huan ma	1
 兌換開放	dui huan kai fang	1
@@ -987,7 +1018,7 @@ sort: by_weight
 其他趣聞	qi ta qu wen	1
 其心百辟	qi xin bai pi	1
 其淵渺渺	qi yuan miao miao	1
-其身百煉	qi shen bai lan	1
+其身百煉	qi shen bai lian	1
 典依冰封	dian yi bing feng	1
 冉冉方熾	ran ran fang chi	1
 再創世的凱歌	zai chuang shi de kai ge	1
@@ -1022,6 +1053,7 @@ sort: by_weight
 冥河渡客	ming he du ke	1
 冥獄無常	ming yu wu chang	1
 冥讖天筆	ming chan tian bi	1
+冥讖天筆	ming chen tian bi	1
 冬之公主	dong zhi gong zhu	1
 冬之公主上	dong zhi gong zhu shang	1
 冬公	dong gong	1
@@ -1029,6 +1061,7 @@ sort: by_weight
 冬城史學家	dong cheng shi xue jia	1
 冬城過去之靈	dong cheng guo qu zhi ling	1
 冬城陷阱	dong cheng xian jing	1
+冬夢激醒	dong meng ji xing	1
 冬日旋律	dong ri xuan lv	1
 冬衣	dong yi	1
 冬馬由美	dong ma you mei	1
@@ -1102,12 +1135,13 @@ sort: by_weight
 冰魂	bing hun	1
 冰魄	bing po	1
 冰點射擊	bing dian she ji	1
-冶煉玄鋼	ye lan xuan gang	1
+冶煉玄鋼	ye lian xuan gang	1
 冷冽冰鋒	leng lie bing feng	1
 冷凍液	leng dong ye	1
 冷凝腔體	leng ning qiang ti	1
 冷吃夕紅魚	leng chi xi hong yu	1
 冷月	leng yue	1
+冷照浴宮	leng zhao yu gong	1
 冷肉名廚	leng rou ming chu	1
 冷脆現象	leng cui xian xiang	1
 冷血之刃	leng xue zhi ren	1
@@ -1149,6 +1183,8 @@ sort: by_weight
 出賣月亮的人	chu mai yue liang de ren	1
 出遊季達人	chu you ji da ren	1
 出遊準備	chu you zhun bei	1
+出雲的禍津眾神	chu yun de huo jin zhong shen	1
+出雲的終始一刀	chu yun de zhong shi yi dao	1
 出雲顯世與高天神國	chu yun xian shi yu gao tian shen guo	1
 刀工傳說	dao gong chuan shuo	1
 刀神顯化	dao shen xian hua	1
@@ -1222,7 +1258,10 @@ sort: by_weight
 刺眼禁錮	ci yan jin gu	1
 刺紋之蜜	ci wen zhi mi	1
 刻印槍	ke yin qiang	1
+刻法勒	ke fa le	1
+刻法勒廣場	ke fa le guang chang	1
 前塵	qian chen	1
+前庭	qian ting	1
 前庭系統	qian ting xi tong	1
 前往端點星	qian wang duan dian xing	1
 前搖	qian yao	1
@@ -1238,6 +1277,7 @@ sort: by_weight
 副官	fu guan	1
 副產物	fu chan wu	1
 副臥室	fu wo shi	1
+創世渦心	chuang shi wo xin	1
 創傷小組白金套餐	chuang shang xiao zu bai jin tao can	1
 創生若蟲	chuang sheng ruo chong	1
 劇情任務	ju qing ren wu	1
@@ -1256,6 +1296,7 @@ sort: by_weight
 劍為人怨	jian wei ren yuan	1
 劍為地紀	jian wei di ji	1
 劍界降臨	jian jie jiang lin	1
+劍習木人	jian xi mu ren	1
 劍胎	jian tai	1
 劍膽琴心	jian dan qin xin	1
 劍花秋蓮光出匣	jian hua qiu lian guang chu xia	1
@@ -1276,6 +1317,7 @@ sort: by_weight
 加爾姆耀變	jia er mu yao bian	1
 加特林	jia te lin	1
 加碼的愛	jia ma de ai	1
+加蒂爾	jia di er	1
 加藤英美里	jia teng ying mei li	1
 加農炮	jia nong pao	1
 加速	jia su	1
@@ -1286,11 +1328,15 @@ sort: by_weight
 助手的命運	zhu shou de ming yun	1
 努特	nu te	1
 劫水濯世	jie shui zhuo shi	1
-劫火蓮燈鑄煉宮	jie huo lian deng zhu lan gong	1
+劫火蓮燈鑄煉宮	jie huo lian deng zhu lian gong	1
 劫餘重生的希望	jie yu chong sheng de xi wang	1
 劾壓鬼物	he ya gui wu	1
 勁舞團	jing wu tuan	1
 勇氣	yong qi	1
+勇烈的玄枵面甲	yong lie de xuan xiao mian jia	1
+勇烈的逐獵腿甲	yong lie de zhu lie tui jia	1
+勇烈的鉤爪腕甲	yong lie de gou zhua wan jia	1
+勇烈的飛翎瓷甲	yong lie de fei ling ci jia	1
 勇者之路	yong zhe zhi lu	1
 勇者和她的小夥伴們	yong zhe he ta de xiao huo ban men	1
 勇者握手券	yong zhe wo shou quan	1
@@ -1303,6 +1349,7 @@ sort: by_weight
 動物兇猛	dong wu xiong meng	1
 動能	dong neng	1
 動起來啊	dong qi lai a	1
+勘錄舍	kan lu she	1
 務必升滿	wu bi sheng man	1
 勝利	sheng li	1
 勝利只在朝夕間	sheng li zhi zai zhao xi jian	1
@@ -1345,14 +1392,17 @@ sort: by_weight
 匯款	hui kuan	1
 匹諾康尼	pi nuo kang ni	1
 匹諾康尼夢	pi nuo kang ni meng	1
+匹諾康尼大劇院	pi nuo kang ni da ju yuan	1
+匹諾康尼摺紙大學學院	pin nuo kang ni zhe zhi da xue xue yuan	1
 匹諾康尼的堂皇酒店	pi nuo kang ni de tang huang jiu dian	1
+匹諾康尼的堂皇飯店	pi nuo kang ni de tang huang fan dian	1
 匹諾康尼的逐夢軌道	pi nuo kang ni de zhu meng gui dao	1
 匹配成功提示	pi pei cheng gong ti shi	1
 匿影	ni ying	1
 區別不大	qu bie bu da	1
 區域效果	qu yu xiao guo	1
 十七歲的地圖	shi qi sui de di tu	1
-十三試煉	shi san shi lan	1
+十三試煉	shi san shi lian	1
 十二猴子與怒漢	shi er hou zi yu nu han	1
 十五節操玩一天	shi wu jie cao wan yi tian	1
 十回補給	shi hui bu gei	1
@@ -1360,6 +1410,7 @@ sort: by_weight
 十字架冰彈	shi zi jia bing dan	1
 十年不晚	shi nian bu wan	1
 十王判死	shi wang pan si	1
+十王司	shi wang si	1
 十王敕令	shi wang chi ling	1
 十王聖斷	shi wang sheng duan	1
 十結語	shi jie yu	1
@@ -1373,6 +1424,7 @@ sort: by_weight
 千紀沉寂之末	qian ji chen ji zhi mo	1
 千身飄零	qian shen piao ling	1
 千金散盡還復來	qian jin san jin hai fu lai	1
+千門之城	qian men zhi cheng	1
 千面英雄	qian mian ying xiong	1
 千面變相	qian mian bian xiang	1
 千音迭奏	qian yin die zou	1
@@ -1392,6 +1444,8 @@ sort: by_weight
 半枝蓮	ban zhi lian	1
 半格	ban ge	1
 半璧迫望	ban bi po wang	1
+半神	ban shen	1
+半神議院	ban shen yi yuan	1
 半脫紗巾落團扇	ban tuo sha jin luo tuan shan	1
 卓洛	zhuo luo	1
 卓越和優秀獎	zhuo yue he you xiu jiang	1
@@ -1417,7 +1471,10 @@ sort: by_weight
 卡利瑪的刻印	ka li ma de ke yin	1
 卡利白特派	ka li bai te pai	1
 卡利白秘方	ka li bai mi fang	1
+卡卡瓦夏	ka ka wa xia	1
+卡呂普索	ka lv pu suo	1
 卡套	ka tao	1
+卡彌特斯	ka mi te si	1
 卡拉德波加	ka la de bo jia	1
 卡拉瓦喬	ka la wa qiao	1
 卡拉瓦喬三件套	ka la wa qiao san jian tao	1
@@ -1470,6 +1527,7 @@ sort: by_weight
 即時天氣系統	shi shi tian qi xi tong	1
 即興	ji xing	1
 卷手一挃	juan shou yi zhi	1
+厄涅俄努斯	e nie e nu si	1
 厄運爵士	e yun jue shi	1
 厄里斯	e li si	1
 厚味措毒	hou wei cuo du	1
@@ -1477,6 +1535,7 @@ sort: by_weight
 原傷害	yuan shang hai	1
 原初的苦衷	yuan chu de ku zhong	1
 原型妖精之弓	yuan xing yao jing zhi gong	1
+原型機	yuan xing ji	1
 原始陳述	yuan shi chen shu	1
 原子輻射	yuan zi fu she	1
 原木地板	yuan mu di ban	1
@@ -1561,6 +1620,7 @@ sort: by_weight
 古來君子養藝人	gu lai jun zi yang yi ren	1
 古兩件套	gu liang jian tao	1
 古典樂聖	gu dian yue sheng	1
+古城市集	gu cheng shi ji	1
 古墓	gu mu	1
 古套	gu tao	1
 古川慎	gu chuan shen	1
@@ -1584,6 +1644,7 @@ sort: by_weight
 古斯塔夫克里姆特套	gu si ta fu ke li mu te tao	1
 古斯塔夫兩件套	gu si ta fu liang jian tao	1
 古斯塔夫套	gu si ta fu tao	1
+古海宮墟	gu hai gong xu	1
 古海潮落	gu hai chao luo	1
 古王國的金幣	gu wang guo de jin bi	1
 古老寒鐵的堅守	gu lao han tie de jian shou	1
@@ -1653,6 +1714,13 @@ sort: by_weight
 司危	si wei	1
 司機彩筆	si ji cai bi	1
 司死生	si si sheng	1
+司舵	si duo	1
+司辰宮	si chen gong	1
+司鐸的律音耳墜	si duo de lv yin er zhui	1
+司鐸的授邀手套	si duo de shou yao shou tao	1
+司鐸的聖職禮服	si duo de sheng zhi li fu	1
+司鐸的苦旅短靴	si duo de ku lv duan xue	1
+司鼎	si ding	1
 吃了沒病	chi le mei bing	1
 吃到這個加成	chi dao zhe ge jia cheng	1
 吃好喝好長身體	chi hao he hao zhang shen ti	1
@@ -1713,6 +1781,7 @@ sort: by_weight
 吞劍通脊背	tun jian tong ji bei	1
 吞噬之鍵	tun shi zhi jian	1
 吞噬火炮	tun shi huo pao	1
+吞金獸	tun jin shou	1
 吟遊詩人	yin you shi ren	1
 否極泰來	fou ji tai lai	1
 含生草	han sheng cao	1
@@ -1810,10 +1879,14 @@ sort: by_weight
 命途迴響	ming tu hui xiang	1
 命運之中	ming yun zhi zhong	1
 命運噤聲的聖所	ming yun jin sheng de sheng suo	1
+命運宸扉	ming yun chen fei	1
 命運從未公平	ming yun cong wei gong ping	1
+命運的三子	ming yun de san zi	1
 命運的足跡	ming yun de zu ji	1
+命運荒途	ming yun huang tu	1
 命運輪盤	ming yun lun pan	1
 命運轉盤	ming yun zhuan pan	1
+命運重淵	ming yun chong yuan	1
 命運鍾刻	ming yun zhong ke	1
 咆哮	pao xiao	1
 和合之妙	he he zhi miao	1
@@ -1827,9 +1900,13 @@ sort: by_weight
 咖啡愛好者	ka fei ai hao zhe	1
 咚咚咚暴擊	dong dong dong bao ji	1
 咻咻咻迴避	xiu xiu xiu hui bi	1
+哀地里亞	ai di li ya	1
+哀地里亞的入溟骨鏈	ai di li ya de ru ming gu lian	1
+哀地里亞的歿名祭碑	ai di li ya de di ming ji bei	1
 哀榮泣石	ai rong qi shi	1
 哀歌祭禱	ai ge ji dao	1
 哀歌覆國的詩人	ai ge fu guo de shi ren	1
+哀麗秘榭	ai li mi xie	1
 品味感覺	pin wei gan jue	1
 品質中繼器	pin zhi zhong ji qi	1
 哈努兄弟越獄記	ha nu xiong di yue yu ji	1
@@ -1866,7 +1943,8 @@ sort: by_weight
 唯有沉默	wei you chen mo	1
 唯有香如故	wei you xiang ru gu	1
 唯美藝術家	wei mei yi shu jia	1
-商人與煉金術士之門	shang ren yu lan jin shu shi zhi men	1
+商人與煉金術士之門	shang ren yu lian jin shu shi zhi men	1
+商團	shang tuan	1
 商城	shang cheng	1
 商店	shang dian	1
 啟動	qi dong	1
@@ -1875,6 +1953,7 @@ sort: by_weight
 啟動非常慢	qi dong fei chang man	1
 啟示	qi shi	1
 啟示錄	qi shi lu	1
+啟蒙王座	qi meng wang zuo	1
 啟蒙與滅盡	qi meng yu mie jin	1
 啟迪之鑰	qi di zhi yao	1
 啾啾啾	jiu jiu jiu	1
@@ -1884,6 +1963,7 @@ sort: by_weight
 善的力量	shan de li liang	1
 善盈後福	shan ying hou fu	1
 善良的種類	shan liang de zhong lei	1
+喑聲長廳	yin sheng chang ting	1
 喧囂的舞燈巡遊	xuan xiao de wu deng xun you	1
 喪鐘	sang zhong	1
 喬遷新居	qiao qian xin ju	1
@@ -1913,6 +1993,7 @@ sort: by_weight
 嘲風	chao feng	1
 嘴角微微上揚	zui jiao wei wei shang yang	1
 嘿，我在這兒	hei wo zai zhe er	1
+噤語黯地	jin yu an di	1
 器元士	qi yuan shi	1
 噩兆火靈	e zhao huo ling	1
 噩夢深處	e meng shen chu	1
@@ -1923,6 +2004,7 @@ sort: by_weight
 噸噸噸回覆	dun dun dun hui fu	1
 嚇得我都坐地上了	xia de wo dou zuo di shang le	1
 嚮導佯謬	xiang dao yang miu	1
+囈語密林	yi yu mi lin	1
 囚室巡訪	qiu shi xun fang	1
 囚徒	qiu tu	1
 囚徒博弈	qiu tu bo yi	1
@@ -2028,6 +2110,7 @@ sort: by_weight
 在這停頓	zai zhe ting dun	1
 在黑暗中行事	zai hei an zhong xing shi	1
 在黑暗深淵之中	zai hei an shen yuan zhi zhong	1
+圮廢古城	pi fei gu cheng	1
 地下城大冒險	di xia cheng da mao xian	1
 地下守護者	di xia shou hu zhe	1
 地下拳擊手	di xia quan ji shou	1
@@ -2061,6 +2144,7 @@ sort: by_weight
 地球週	di qiu zhou	1
 地藏	di zang	1
 地藏御魂	di zang yu hun	1
+地衡司公廨	di heng si gong xie	1
 地表最強的勇者	di biao zui qiang de yong zhe	1
 地道仙舟俗語一百句	di dao xian zhou su yu yi bai ju	1
 地鐵紀念	di tie ji nian	1
@@ -2082,6 +2166,7 @@ sort: by_weight
 均處於教父身後	jun chu yu jiao fu shen hou	1
 均衡型網紅	jun heng xing wang hong	1
 坐臥不離	zuo wo bu li	1
+坤輿台	kun yu tai	1
 坦率	tan lv	1
 垂語森林	chui yu sen lin	1
 垂髫之年	chui tiao zhi nian	1
@@ -2092,6 +2177,8 @@ sort: by_weight
 垃美西斯二世	la mei xi si er shi	1
 型號	xing hao	1
 埃及豔后	ai ji yan hou	1
+埃普斯	ai pu si	1
+埃杜利亞	ai du li ya	1
 埃琉德尼爾	ai liu de ni er	1
 埋葬	mai zang	1
 埋葬樂園	mai zang le yuan	1
@@ -2136,6 +2223,8 @@ sort: by_weight
 塔納託斯的宣判	ta na tuo si de xuan pan	1
 塔羅牌	ta luo pai	1
 塔防入口	ta fang ru kou	1
+塞涅俄絲	sai nie e si	1
+塞納托斯	sai na tuo si	1
 塞西莉亞	sai xi li ya	1
 塞西莉亞三件套	sai xi li ya san jian tao	1
 塞西莉亞上	sai xi li ya shang	1
@@ -2169,6 +2258,7 @@ sort: by_weight
 增幅遊俠	zeng fu you xia	1
 增益技能	zeng yi ji neng	1
 增益模塊激活	zeng yi mo kuai ji huo	1
+墨涅塔	mo nie ta	1
 墨跡女王鞭	mo ji nv wang bian	1
 墮此欲淵	duo ci yu yuan	1
 墮落之斧	duo luo zhi fu	1
@@ -2196,8 +2286,10 @@ sort: by_weight
 夏洛特中下	xia luo te zhong xia	1
 夏洛特兩件套	xia luo te liang jian tao	1
 夏洛特套	xia luo te tao	1
+夏爾	xia er	1
 夏祭	xia ji	1
 夏蟲不可憶冰	xia chong bu ke yi bing	1
+夕照之路	xi zhao zhi lu	1
 外傳	wai zhuan	1
 外圍空港	wai wei kong gang	1
 外宇宙之冰	wai yu zhou zhi bing	1
@@ -2210,6 +2302,7 @@ sort: by_weight
 多情衛士	duo qing wei shi	1
 多愁善感	duo chou shan gan	1
 多波	duo bo	1
+多洛斯	duo luo si	1
 多流汗	duo liu han	1
 多維機甲	duo wei ji jia	1
 多練武術少吃糖	duo lian wu shu shao chi tang	1
@@ -2237,16 +2330,19 @@ sort: by_weight
 夜空牆紙	ye kong qiang zhi	1
 夜色低吟	ye se di yin	1
 夜色名為溫柔	ye se ming wei wen rou	1
+夜色庭園	ye se ting yuan	1
 夜色流光溢彩	ye se liu guang yi cai	1
 夜行者	ye xing zhe	1
 夜間喧囂不止	ye jian xuan xiao bu zhi	1
 夢中的鬥士與公牛	meng zhong di dou shi yu gong niu	1
+夢主	meng zhu	1
 夢之國的開拓者	meng zhi guo de kai tuo zhe	1
 夢境中的聲音	meng jing zhong de sheng yin	1
 夢幻構造體仿猶大	meng huan gou zao ti fang you da	1
 夢幻泡影	meng huan pao ying	1
 夢幻的小鎮	meng huan de xiao zhen	1
 夢想	meng xiang	1
+夢想之地	meng xiang zhi di	1
 夢想之地匹諾康尼	meng xiang zhi di pi nuo kang ni	1
 夢想太輕	meng xiang tai qing	1
 夢想改造家	meng xiang gai zao jia	1
@@ -2275,6 +2371,7 @@ sort: by_weight
 大偉	da wei	1
 大偉哥	da wei ge	1
 大偉哥的別墅	da wei ge de bie shu	1
+大停雲	da ting yun	1
 大公	da gong	1
 大公的冥焰冠冕	da gong de ming yan guan mian	1
 大公的紳雅禮靴	da gong de shen ya li xue	1
@@ -2333,6 +2430,7 @@ sort: by_weight
 大腿	da tui	1
 大腿勢力登場	da tui shi li deng chang	1
 大蒜	da suan	1
+大衍窮觀陣	da yan qiong guan zhen	1
 大西沙織	da xi sha zhi	1
 大觸是怎樣煉成的	da chu shi zen yang lian cheng de	1
 大辟萬死	da pi wan si	1
@@ -2395,6 +2493,7 @@ sort: by_weight
 天才的超距遙感	tian cai de chao ju yao gan	1
 天才的頻變捕手	tian cai de pin bian bu shou	1
 天授的智慧	tian shou de zhi hui	1
+天擊將軍	tian ji jiang jun	1
 天斬無斬	tian zhan wu zhan	1
 天棓步危	tian bang bu wei	1
 天棓步危	tian bei bu wei	1
@@ -2406,6 +2505,7 @@ sort: by_weight
 天火	tian huo	1
 天火侵蝕	tian huo qin shi	1
 天火大劍	tian huo da jian	1
+天火熔金	tian huo rong jin	1
 天火聖焰	tian huo sheng yan	1
 天火聖裁	tian huo sheng cai	1
 天火自裁	tian huo zi cai	1
@@ -2417,6 +2517,7 @@ sort: by_weight
 天父	tian fu	1
 天父大劍	tian fu da jian	1
 天父的終響	tian fu de zhong xiang	1
+天環族	tian huan zu	1
 天生醫者	tian sheng yi zhe	1
 天相	tian xiang	1
 天穹的追獵者	tian qiong de zhui lie zhe	1
@@ -2431,10 +2532,13 @@ sort: by_weight
 天翔龍閃	tian xiang long shan	1
 天舟繳夙敵	tian zhou jiao su di	1
 天舶司	tian bo si	1
+天舶司司舵	tian bo si si duo	1
+天舶司商團	tian bo si shang tuan	1
 天舶飛將	tian bo fei jiang	1
 天艟求仙迷航錄	tian chong qiu xian mi hang lu	1
 天衣無縫	tian yi wu feng	1
 天象學	tian xiang xue	1
+天象畫壁	tian xiang hua bi	1
 天賜加護	tian ci jia hu	1
 天賜的加護	tian ci de jia hu	1
 天賦庫	tian fu ku	1
@@ -2454,6 +2558,7 @@ sort: by_weight
 天魁	tian kui	1
 天鵝湖	tian e hu	1
 天鵝絨裡的惡魔	tian e rong li de e mo	1
+太一之夢	tai yi zhi meng	1
 太刀	tai dao	1
 太剪刀	tai jian dao	1
 太卜司	tai bu si	1
@@ -2500,7 +2605,7 @@ sort: by_weight
 奔河停流	ben he ting liu	1
 奔狼的都藍王朝	ben lang de dou lan wang chao	1
 奔虎躍步	ben hu yue bu	1
-奔走懸壺濟世長	ben zou xuan hu ji shi zhang	1
+奔走懸壺濟世長	ben zou xuan hu ji shi chang	1
 套裝	tao zhuang	1
 套裝技	tao zhuang ji	1
 套裝效果	tao zhuang xiao guo	1
@@ -2509,6 +2614,8 @@ sort: by_weight
 奧丁	ao ding	1
 奧丁之火	ao ding zhi huo	1
 奧丁永恆之槍	ao ding yong heng zhi qiang	1
+奧列格	ao lie ge	1
+奧利弗蘭卡	ao li fu lan ka	1
 奧卡姆剃刀沒有出鞘	ao ka mu ti dao mei you chu qiao	1
 奧吉爾	ao ji er	1
 奧吉爾三件套	ao ji er san jian tao	1
@@ -2521,6 +2628,7 @@ sort: by_weight
 奧吉爾兩件套	ao ji er liang jian tao	1
 奧吉爾套	ao ji er tao	1
 奧帝經濟學	ao di jing ji xue	1
+奧德斯特里斯	ao de si te li si	1
 奧托	ao tuo	1
 奧托三件套	ao tuo san jian tao	1
 奧托上	ao tuo shang	1
@@ -2555,6 +2663,8 @@ sort: by_weight
 奧拉尼德斯的臂膀	ao la ni de si de bi bang	1
 奧狙	ao ju	1
 奧菲利亞	ao fei li ya	1
+奧萊諾斯	ao lai nuo si	1
+奧赫瑪	ao he ma	1
 奧赫瑪不相信眼淚	ao he ma bu xiang xin yan lei	1
 奪寶先鋒	duo bao xian feng	1
 奮迅三昧	fen xun san mei	1
@@ -2574,8 +2684,12 @@ sort: by_weight
 女武神爆發	nv wu shen bao fa	1
 女武神狂熱	nv wu shen kuang re	1
 女武神猶大	nv wu shen you da	1
+女武神的勳禮馬刺	nv wu shen de xun li ma ci	1
+女武神的啟程披風	nv wu shen de qi cheng pi feng	1
 女武神的子裔	nv wu shen de zi yi	1
+女武神的翱翔翼盔	nv wu shen de ao xiang yi kui	1
 女武神的衣服哦	nv wu shen de yi fu o	1
+女武神的騎槍手鎧	nv wu shen de qi qiang shou kai	1
 女武神祝福	nv wu shen zhu fu	1
 女武神禮物盒	nv wu shen li wu he	1
 女武神考試	nv wu shen kao shi	1
@@ -2649,6 +2763,7 @@ sort: by_weight
 妖精弓	yao jing gong	1
 妖精槍	yao jing qiang	1
 妖精瓶	yao jing ping	1
+妖精織夢的樂園	yao jing zhi meng de yue yuan	1
 妖邪依憑	yao xie yi ping	1
 妙手回春	miao shou hui chun	1
 妹妹槍	mei mei qiang	1
@@ -2734,6 +2849,7 @@ sort: by_weight
 孕災之子	yun zai zhi zi	1
 孕災殘嗣	yun zai can si	1
 孕災蠧役	yun zai du yi	1
+孕界心脈	yun jie xin mai	1
 存在值	cun zai zhi	1
 存在先於本質	cun zai xian yu ben zhi	1
 存在吸收	cun zai xi shou	1
@@ -2762,14 +2878,18 @@ sort: by_weight
 孫艷琦	sun yan qi	1
 孳孽王蟲	zi nie wang chong	1
 學園祭話劇	xue yuan ji hua ju	1
-學園長	xue yuan chang	1
-學園長的職責	xue yuan chang de zhi ze	1
+學園長	xue yuan zhang	1
+學園長的職責	xue yuan zhang de zhi ze	1
 學姐散	xue jie san	1
 學徒	xue tu	1
 學海拾遺	xue hai shi yi	1
 學生卡	xue sheng ka	1
 學習優先度	xue xi you xian du	1
 學習成為「我」	xue xi cheng wei wo	1
+學者的粗紡外套	xue zhe de cu fang wai tao	1
+學者的絨皮雪靴	xue zhe de rong pi xue xue	1
+學者的輔助指節	xue zhe de fu zhu zhi jie	1
+學者的銀邊視鏡	xue zhe de yin bian shi jing	1
 孿星之徽	luan xing zhi hui	1
 宇宙安寧片刻	yu zhou an ning pian ke	1
 宇宙家裝指南	yu zhou jia zhuang zhi nan	1
@@ -2827,14 +2947,18 @@ sort: by_weight
 定量補給	ding liang bu gei	1
 宛如厲鬼的步伐	wan ru li gui de bu fa	1
 客房服務	ke fang fu wu	1
+客房車廂	ke fang che xiang	1
 客服	ke fu	1
 客服爹	ke fu die	1
 客服爹都哭了	ke fu die dou ku le	1
 客隨主便	ke sui zhu bian	1
 宣判	xuan pan	1
+宣夜大道	xuan ye da dao	1
+宮墟深處	gong xu shen chu	1
 宮村優子	gong cun you zi	1
 害略高一絲	hai lue gao yi si	1
 宴寧	yan ning	1
+宴會之星	yan hui zhi xing	1
 家人	jia ren	1
 家人的溫暖	jia ren de wen nuan	1
 家園	jia yuan	1
@@ -2857,6 +2981,7 @@ sort: by_weight
 宿舍裝修	su she zhuang xiu	1
 宿舍說明	su she shuo ming	1
 宿香暗貯	xiu xiang an zhu	1
+寂夜市集	ji ye shi ji	1
 寂靜之聲	ji jing zhi sheng	1
 寄居蟹	ji ju xie	1
 寄生人形	ji sheng ren xing	1
@@ -2872,7 +2997,7 @@ sort: by_weight
 寒冰無人機	han bing wu ren ji	1
 寒冰衝擊	han bing chong ji	1
 寒冰鎧甲	han bing kai jia	1
-寒冰騎士長	han bing qi shi chang	1
+寒冰騎士長	han bing qi shi zhang	1
 寒冷時空	han leng shi kong	1
 寒天狂舞	han tian kuang wu	1
 寒川映月	han chuan ying yue	1
@@ -2905,14 +3030,14 @@ sort: by_weight
 寰宇蝗災	huan yu huang zai	1
 寶光燭日月	bao guang zhu ri yue	1
 寶命長存的蒔者	bao ming chang cun de shi zhe	1
-寶命長存的蒔者	bao ming zhang cun de shi zhe	1
+寶庫秘道	bao ku mi dao	1
 寶庫難防家賊	bao ku nan fang jia zei	1
 寶石	bao shi	1
 寶石蜥肉串食譜	bao shi xi rou chuan shi pu	1
 寶藏遺蹟	bao zang yi ji	1
 寶餌堂	bao er tang	1
 寸勁	cun jin	1
-寸長寸強	cun zhang cun qiang	1
+寸長寸強	cun chang cun qiang	1
 封印之劍	feng yin zhi jian	1
 封好的紙箱	feng hao de zhi xiang	1
 射不主皮	she bu zhu pi	1
@@ -3009,6 +3134,7 @@ sort: by_weight
 就沒有皮皮西人嗎	jiu mei you pi pi xi ren ma	1
 就這樣	jiu zhe yang	1
 尼伯龍根之歌	ni bo long gen zhi ge	1
+尼卡多利	ni ka duo li	1
 尼古拉特斯拉	ni gu la te si la	1
 尼古拉特斯拉三件套	ni gu la te si la san jian tao	1
 尼古拉特斯拉上	ni gu la te si la shang	1
@@ -3046,6 +3172,7 @@ sort: by_weight
 山聖戰	shan sheng zhan	1
 山聖白	shan sheng bai	1
 山迅白	shan xun bai	1
+岐黃署	qi huang shu	1
 岔路新生	cha lu xin sheng	1
 岩男潤子	yan nan run zi	1
 岩石的故事	yan shi de gu shi	1
@@ -3075,6 +3202,8 @@ sort: by_weight
 崇高的客體	chong gao de ke ti	1
 崛川國廣	jue chuan guo guang	1
 崩壞	beng huai	1
+崩壞3rd	beng huai san	1
+崩壞三	beng huai san	1
 崩壞世界的歌姬	beng huai shi jie de ge ji	1
 崩壞二週年紀念	beng huai er zhou nian ji nian	1
 崩壞國記	beng huai guo ji	1
@@ -3165,12 +3294,15 @@ sort: by_weight
 巴斯克維爾的獵犬	ba si ke wei er de lie quan	1
 巴比倫之門	ba bi lun zhi men	1
 巴比倫的囚徒	ba bi lun de qiu tu	1
+巴特魯斯	ba te lu si	1
 巴羅爾的凝視	ba luo er de ning shi	1
 巴魯蒙格	ba lu meng ge	1
 巽風造物	xun feng zao wu	1
 巾幗之風	jin guo zhi feng	1
+市場開拓部	shi chang kai tuo bu	1
 市食盈笛	shi shi ying di	1
 布倫希爾德	bu lun xi er de	1
+布利薩	bu li sa	1
 布勒水滴	bu le shui di	1
 布洛妮婭	bu luo ni ya	1
 布洛妮婭准許	bu luo ni ya zhun xu	1
@@ -3240,10 +3372,13 @@ sort: by_weight
 帕姆	pa mu	1
 帕姆總冠軍	pa mu zong guan jun	1
 帕拉丁	pa la ding	1
+帕福斯	pa fu si	1
 帝國前線	di guo qian xian	1
 帝國鍊金師	di guo jian jin shi	1
 帝垣瓊玉	di yuan qiong yu	1
+帝垣瓊玉牌	di yuan qiong yu pai	1
 帝垣翔鱗和絕張	di yuan xiang lin he jue zhang	1
+帝弓七天將	ding gong qi tian jiang	1
 帝弓斷空徹太清	di gong duan kong che tai qing	1
 帝星君臨制穹桑	di xing jun lin zhi qiong sang	1
 帝王	di wang	1
@@ -3298,6 +3433,7 @@ sort: by_weight
 幻身	huan shen	1
 幻陽炎	huan yang yan	1
 幽冥眷屬	you ming juan shu	1
+幽囚獄	you qiu yu	1
 幽境星輝	you jing xing hui	1
 幽府偃偶	you fu yan ou	1
 幽影之幕	you ying zhi mu	1
@@ -3318,6 +3454,7 @@ sort: by_weight
 幾丁質	ji ding zhi	1
 幾乎不會	ji hu bu hui	1
 幾何原本	ji he yuan ben	1
+庇衛廣場	bi wei guang chang	1
 序列撲滿	xu lie pu man	1
 序師執遲彝	xu shi zhi chi yi	1
 序章風之歌	xu zhang feng zhi ge	1
@@ -3325,6 +3462,7 @@ sort: by_weight
 度時察勢	du shi cha shi	1
 庫存不足	ku cun bu zu	1
 庭菖蒲	ting chang pu	1
+庸人	yong ren	1
 庸人在右	yong ren zai you	1
 庸眾凡夫	yong zhong fan fu	1
 庸與神的冠冕	yong yu shen de guan mian	1
@@ -3348,7 +3486,6 @@ sort: by_weight
 延遲衍射的燭光	yan chi yan she de zhu guang	1
 延長	yan chang	1
 延長記號	yan chang ji hao	1
-延長記號	yan zhang ji hao	1
 廷達羅斯小豬	ting da luo si xiao zhu	1
 建御雷	jian yu lei	1
 建木	jian mu	1
@@ -3456,6 +3593,8 @@ sort: by_weight
 往日之懲	wang ri zhi cheng	1
 往日攀陟沉積的血山	wang ri pan zhi chen ji de xue shan	1
 往日氣球	wang ri qi qiu	1
+征伐行道	zheng fa xing dao	1
+征伐陌地	zheng fa mo di	1
 征服寶石	zheng fu bao shi	1
 征服王	zheng fu wang	1
 征途是星辰大海	zheng tu shi xing chen da hai	1
@@ -3660,6 +3799,7 @@ sort: by_weight
 恰到好處	qia dao hao chu	1
 悄悄地	qiao qiao de	1
 悟心	wu xin	1
+悠暇庭	you xia ting	1
 悠木碧	you mu bi	1
 悠遊迷因	you you mi yin	1
 您撥打的號碼暫時無法接通	nin bo da di hao ma zan shi wu fa jie tong	1
@@ -3674,12 +3814,14 @@ sort: by_weight
 悲鳴	bei ming	1
 悵然若失	chang ran ruo shi	1
 悸動的心	ji dong de xin	1
+悼神斷崖	dao shen duan ya	1
 情況概括	qing kuang gai kuo	1
 情緒捨離	qing xu she li	1
 情緒舍鍋	qing xu she guo	1
 惑世蠧役	huo shi du yi	1
 惟首正丘	wei shou zheng qiu	1
 惠風和暢	hui feng he chang	1
+惡海逐波的船長	e hai zhu bo de chuan zhang	1
 惡狠狠斬擊	e hen hen zhan ji	1
 惡老闆	e lao ban	1
 惡趣味	e qu wei	1
@@ -3729,7 +3871,7 @@ sort: by_weight
 愛因斯坦樂隊兩件套	ai yin si tan yue dui liang jian tao	1
 愛因斯坦樂隊套	ai yin si tan yue dui tao	1
 愛在黑潮蔓延時	ai zai hei chao man yan shi	1
-愛夜的漫長遊祭	ai ye de man zhang you ji	1
+愛夜的漫長遊祭	ai ye de man chang you ji	1
 愛寵機密	ai chong ji mi	1
 愛德文哈勃	ai de wen ha bo	1
 愛德文哈勃三件套	ai de wen ha bo san jian tao	1
@@ -3787,12 +3929,14 @@ sort: by_weight
 感知	gan zhi	1
 感覺身體被掏空	gan jue shen ti bei tao kong	1
 感電	gan dian	1
+慈玉典押	ci yu dian ya	1
 慘劇	can ju	1
 慢撚抹復挑	man nian mo fu tiao	1
 慢波睡眠	man bo shui mian	1
 慧海度慈航	hui hai du ci hang	1
 慧駰	hui yin	1
 慨懷瀟瀟任風逝	kai huai xiao xiao ren feng shi	1
+慰靈奠儀	wei ling dian yi	1
 慶典祝禮	qing dian zhu li	1
 慶雲光覆儀禱	qing yun guang fu yi dao	1
 慾望之擁	yu wang zhi yong	1
@@ -3803,8 +3947,10 @@ sort: by_weight
 憤怒拳套	fen nu quan tao	1
 憤怒的摺紙小鳥	fen nu de zhe zhi xiao niao	1
 憤怒的金人	fen nu de jin ren	1
+憶域迷因	yi yu mi yin	1
 憶泡	yi pao	1
 憶種培育師	yi zhong pei yu shi	1
+應星	ying xing	1
 應答者	ying da zhe	1
 應行的路	ying xing de lu	1
 應龍畫地	ying long hua di	1
@@ -3814,15 +3960,20 @@ sort: by_weight
 懲膺	cheng ying	1
 懶惰	lan duo	1
 懶惰下	lan duo xia	1
+懷炎	huai yan	1
 懷疑	huai yi	1
 懷疑的四重根	huai yi de si chong gen	1
+懷離浴池	huai li yu chi	1
+懸夜骨械	xuan ye gu xie	1
 懸絲	xuan si	1
 懸置懷疑	xuan zhi huai yi	1
 懸賞委託	xuan shang wei tuo	1
 懸賞熟手	xuan shang shu shou	1
 懸賞開啟	xuan shang kai qi	1
+懸鋒城	xuan feng cheng	1
 懸鋒夥友	xuan feng huo you	1
 懸鋒旅人	xuan feng lv ren	1
+懸鋒鬥技場	xuan feng dou ji chang	1
 懺悔	chan hui	1
 戀愛詐騙	lian ai zha pian	1
 戍守	shu shou	1
@@ -3928,6 +4079,7 @@ sort: by_weight
 戰爭指令	zhan zheng zhi ling	1
 戰爭的黎明	zhan zheng de li ming	1
 戰犬	zhan quan	1
+戰略投資部	zhan lue tou zi bu	1
 戰神	zhan shen	1
 戰神三線	zhan shen san xian	1
 戰神無雙	zhan shen wu shuang	1
@@ -3969,6 +4121,7 @@ sort: by_weight
 手辦收集者八重櫻	shou ban shou ji zhe ba chong ying	1
 才通人	cai tong ren	1
 扎伊切克	zha yi qie ke	1
+扎格列斯	za ge lie si	1
 打上花火	da shang hua huo	1
 打人得打臉	da ren de da lian	1
 打人要打臉	da ren yao da lian	1
@@ -4001,6 +4154,7 @@ sort: by_weight
 技能玉	ji neng yu	1
 技能點回復滿	ji neng dian hui fu man	1
 技術宅拯救世界	ji shu zhai zheng jiu shi jie	1
+技術研發部	ji shu yan fa bu	1
 抄本	chao ben	1
 抉擇夢境	jue ze meng jing	1
 把宣敘呈獻給	ba xuan xu cheng xian gei	1
@@ -4032,7 +4186,10 @@ sort: by_weight
 拆彈部隊	chai dan bu dui	1
 拆散了傳統異能隊	chai san le chuan tong yi neng dui	1
 拆解零件箱	chai jie ling jian xiang	1
+拉冬	la dong	1
+拉帝奧	la di ao	1
 拉斐爾的紋章	la fei er de wen zhang	1
+拉格沃克	la ge wo ke	1
 拋球攻擊	pao qiu gong ji	1
 拋開世事斷愁怨	pao kai shi shi duan chou yuan	1
 拒死者	ju si zhe	1
@@ -4042,6 +4199,7 @@ sort: by_weight
 拓撲加速帶	tuo pu jia su dai	1
 招手停	zhao shou ting	1
 招蕩的黃金劇場	zhao dang de huang jin ju chang	1
+拜謁步道	bai ye bu dao	1
 拜謁神機	bai ye shen ji	1
 拭琴撫羅袂	shi qin fu luo mei	1
 拳似寒鐵	quan shi han tie	1
@@ -4061,7 +4219,10 @@ sort: by_weight
 拿來給我	na lai gei wo	1
 拿這個考我啊	na zhe ge kao wo a	1
 持傷破陣	chi shang po zhen	1
+持明	chi ming	1
 持明族	chi ming zu	1
+持明醫士	chi ming yi shi	1
+持明龍尊	chi ming long zun	1
 持盾旅團長	chi dun lv tuan chang	1
 持秉玄燭	chi bing xuan zhu	1
 持續	chi xu	1
@@ -4093,7 +4254,9 @@ sort: by_weight
 捉蠅術	zhuo ying shu	1
 捉迷藏	zhuo mi cang	1
 捷足悖論	jie zu bei lun	1
+捷足的羈客	jie zu de ji ke	1
 捷足飛賊	jie zu fei zei	1
+授事廳	shou shi ting	1
 掉幀炮	diao zhen pao	1
 掉落提升目標	diao luo ti sheng mu biao	1
 掌門人	zhang men ren	1
@@ -4102,9 +4265,11 @@ sort: by_weight
 排行榜	pai hang bang	1
 排行獎勵	pai hang jiang li	1
 掘墓人	jue mu ren	1
+掘石場	jue shi chang	1
 掠奪的本能	lue duo de ben neng	1
 掠奪者	lue duo zhe	1
 掠影	lue ying	1
+採石舊址	cai shi jiu zhi	1
 採藥人	cai shuo ren	1
 採蘑菇的小姑娘	cai mo gu de xiao gu niang	1
 採集蒐集	cai ji sou ji	1
@@ -4120,6 +4285,7 @@ sort: by_weight
 掣空如虹	che kong ru hong	1
 接受治療	jie shou zhi liao	1
 接大招	jie da zhao	1
+接待大廳	jie dai da ting	1
 接渡使	jie du shi	1
 控制	kong zhi	1
 控制力與輸出能力	kong zhi li yu shu chu neng li	1
@@ -4152,6 +4318,7 @@ sort: by_weight
 揭示前路的言靈	jie shi qian lu de yan ling	1
 援護打擊	yuan hu da ji	1
 揹包	bei bao	1
+搖光的醫師	yao guang de yi shi	1
 搖擺的禮儀	yao bai de li yi	1
 搖滾	yao gun	1
 搖花緞水	yao hua duan shui	1
@@ -4166,6 +4333,8 @@ sort: by_weight
 摯愛一生中	zhi ai yi sheng zhong	1
 摶星蠕蟲	tuan xing ru chong	1
 摺紙動物園	zhe zhi dong wu yuan	1
+摺紙大學	zhe zhi da xue	1
+摺紙大學學院	zhe zhi da xue xue yuan	1
 摺紙小鳥對對碰	zhe zhi xiao niao dui dui peng	1
 摺紙浩室	zhe zhi hao shi	1
 摺紙鳥	zhe zhi niao	1
@@ -4175,6 +4344,7 @@ sort: by_weight
 撤離	che li	1
 撬棍	qiao gun	1
 撬棍旅館的浣熊	qiao gun lv guan de huan xiong	1
+撲滿	pu man	1
 撲翼白聲	bu yi bai sheng	1
 撲騰騰強化	pu teng teng qiang hua	1
 撻楚抽薪	ta chu chou xin	1
@@ -4190,6 +4360,7 @@ sort: by_weight
 操控飛機	cao kong fei ji	1
 操行滿分	cao xing man fen	1
 擎天機甲	qing tian ji jia	1
+擎空骨械	qing kong gu xie	1
 擒縱機構	qin zong ji gou	1
 擒賊先擒王	qin zei xian qin wang	1
 擔孢子	dan bao zi	1
@@ -4213,6 +4384,7 @@ sort: by_weight
 擾亂性脈衝	rao luan xing mai chong	1
 擾動	rao dong	1
 擾動幅度	rao dong fu du	1
+擾夢石陵	rao meng shi ling	1
 攀升的刺激	pan sheng de ci ji	1
 攜手同心	xie shou tong xin	1
 攝伏諸惡	she fu zhu e	1
@@ -4318,6 +4490,9 @@ sort: by_weight
 斬首之邀	zhan shou zhi yao	1
 斯嘉蒂冰心	si jia di bing xin	1
 斯坦因之門的抉擇	si tan yin zhi men de jue ze	1
+斯基亞納	si ji ya na	1
+斯廷法洛	si ting fa luo	1
+斯緹科西亞	si ti ke xi ya	1
 新世界	xin shi jie	1
 新世界的大門	xin shi jie de da men	1
 新人建議	xin ren jian yi	1
@@ -4381,11 +4556,13 @@ sort: by_weight
 斷光	duan guang	1
 斷光之努亞達	duan guang zhi nu ya da	1
 斷業根	duan ye gen	1
+斷獄輪鑰	duan yu lun yao	1
 斷章	duan zhang	1
 斷腕	duan wan	1
 斷裁	duan cai	1
 斷裂的刀柄	duan lie de dao bing	1
 斷魂斬	duan hun zhan	1
+方壺	fang hu	1
 方定一傾浣俗塵	fang ding yi qing huan su chen	1
 於夜色中	yu ye se zhong	1
 施放技能	shi fang ji neng	1
@@ -4440,13 +4617,13 @@ sort: by_weight
 明光守護	ming guang shou hu	1
 明天	ming tian	1
 明天又是新的一天	ming tian you shi xin de yi tian	1
-明明超強卻過度謹慎	ming ming chao qiang que guo du jin shen	1
 明星養成	ming xing yang cheng	1
 明澈琉璃身	ming che liu li shen	1
 明爭天地	ming zheng tian di	1
 明補	ming bu	1
 明霄競武試鋒芒	ming xiao jing wu shi feng mang	1
-明顯不如長光中	ming xian bu ru chang guang zhong	1
+昏光庭院	hun guang ting yuan	1
+昏曦聖道	hun xi sheng dao	1
 易傷	yi shang	1
 星	xing	1
 星光榮譽綬帶	xing guang rong yu shou dai	1
@@ -4469,6 +4646,7 @@ sort: by_weight
 星核獵手	xing he lie shou	1
 星核獵手卡芙卡	xing he lie shou ka fu ka	1
 星槎海中樞	xing cha hai zhong shu	1
+星槎碼頭	xing cha ma tou	1
 星槎進出港報告管理辦法	xing cha jin chu gang bao gao guan li ban fa	1
 星流霆擊碎昆岡	xing liu ting ji sui kun gang	1
 星海	xing hai	1
@@ -4617,6 +4795,7 @@ sort: by_weight
 晚櫻	wan ying	1
 晦入三台	hui ru san tai	1
 晦明興滅	hui ming xing mie	1
+晨昏之眼	chen hun zhi yan	1
 晨昏交界的翔鷹	chen hun jiao jie de xiang ying	1
 晨昏卷隱	chen hun juan yin	1
 晨星	chen xing	1
@@ -4672,11 +4851,11 @@ sort: by_weight
 智障修女	zhi zhang xiu nv	1
 暈槍	yun qiang	1
 暈炮	yun pao	1
+暉長石號	hui chang shi hao	1
 暑假作業	shu jia zuo ye	1
 暑期軍備箱	shu qi jun bei xiang	1
 暑氣應對	shu qi ying dui	1
 暖夜不會漫長	nuan ye bu hui man chang	1
-暖夜不會漫長	nuan ye bu hui man zhang	1
 暖意味道	nuan yi wei dao	1
 暖暖	nuan nuan	1
 暗影之軀	an ying zhi qu	1
@@ -4800,6 +4979,7 @@ sort: by_weight
 月山戰	yue shan zhan	1
 月桂捎來訊息	yue gui shao lai xun xi	1
 月犯天關	yue fan tian guan	1
+月狂	yue kuang	1
 月神	yue shen	1
 月神之守護	yue shen zhi shou hu	1
 月神或柯爾特	yue shen huo ke er te	1
@@ -4827,6 +5007,7 @@ sort: by_weight
 有害垃圾	you hai la ji	1
 有尾龐龐	you wei pang pang	1
 有情之證	you qing zhi zheng	1
+有愛之館	you ai zhi guan	1
 有狐綏綏	you hu sui sui	1
 有趣的細節	you qu de xi jie	1
 有較大攻速加成下	you jiao da gong su jia cheng xia	1
@@ -4844,7 +5025,9 @@ sort: by_weight
 服裝兌換券	fu zhuang dui huan quan	1
 朔暈七星	shuo yun qi xing	1
 朔風	shuo feng	1
+朗道	lang dao	1
 朗道的選擇	lang dao de xuan ze	1
+朝露公館	zhao lu gong guan	1
 朧月	long yue	1
 朧月流光	long yue liu guang	1
 木人	mu ren	1
@@ -4862,6 +5045,7 @@ sort: by_weight
 未知的紋章	wei zhi de wen zhang	1
 未能寄出的家書	wei neng ji chu de jia shu	1
 未選擇的路	wei xuan ze de lu	1
+末世祭壇	mo shi ji tan	1
 末日狂歡	mo ri kuang huan	1
 末日獸	mo ri shou	1
 本層敵人	ben ceng di ren	1
@@ -4869,6 +5053,7 @@ sort: by_weight
 本末倒置	ben mo dao zhi	1
 本能感知	ben neng gan zhi	1
 本週玩法	ben zhou wan fa	1
+朱明	zhu ming	1
 朱雀踏雲	zhu que ta yun	1
 李春胤	li chun yin	1
 李耳	li er	1
@@ -4979,6 +5164,7 @@ sort: by_weight
 格拉默的寂靜墳碑	ge la mo de ji jing fen bei	1
 格拉默的鐵騎兵團	ge la mo de tie qi bing tuan	1
 格澤	ge ze	1
+格物院通道	ge wu yuan tong dao	1
 格鬥訓練室	ge dou xun lian shi	1
 桂乃芬	gui nai fen	1
 桑博	sang bo	1
@@ -4998,18 +5184,21 @@ sort: by_weight
 棉花糖兔子	mian hua tang tu zi	1
 棋枰作枕好入眠	qi ping zuo zhen hao ru mian	1
 棒棒糖	bang bang tang	1
+棧道前	zhan dao qian	1
 森林的妖精	sen lin de yao jing	1
 棲息聚光之下	qi xi ju guang zhi xia	1
 棺材舞者	guan cai wu zhe	1
 棺的迴響	guan de hui xiang	1
 植入	zhi ru	1
 植物和菌類	zhi wu he jun lei	1
+植船區	zhi chuan qu	1
 椒丘	jiao qiu	1
 楊夢露	yang meng lu	1
 楊超然	yang chao ran	1
 楚越	chu yue	1
 楛矢何參差	ku shi he can cha	1
 楠木燈	nan mu deng	1
+業務鞏固部	ye wu gong gu bu	1
 業報	ye bao	1
 業報恆常	ye bao geng chang	1
 業火	ye huo	1
@@ -5188,9 +5377,13 @@ sort: by_weight
 歌姬話筒	ge ji hua tong	1
 歌德賓館下午茶餐單	ge de bin guan xia wu cha can dan	1
 歌德賓館的夜與霧	ge de bin guan de ye yu wu	1
+歌斐木	ge fei mu	1
+歌耳戈	ge er ge	1
 歌舞青春	ge wu qing chun	1
+歐利龐	ou li pang	1
 歐姆彌賽亞	ou mu mi sai ya	1
 歐服	ou fu	1
+歐洛尼斯	ou luo ni si	1
 歐派	ou pai	1
 歐皇	ou huang	1
 歐米茄城	ou mi qie cheng	1
@@ -5200,6 +5393,7 @@ sort: by_weight
 歡迎來到學術自由主義教室	huan ying lai dao xue shu zi you zhu yi jiao shi	1
 歡迎來到猴子展廳	huan ying lai dao hou zi zhan ting	1
 歡迎來到瓦爾哈拉	huan ying lai dao wa er ha la	1
+止戈殘間	zhi ge can jian	1
 止戰之殤	zhi zhan zhi shang	1
 止苦諦	zhi ku di	1
 正弦雙馬尾	zheng xian shuang ma wei	1
@@ -5215,6 +5409,7 @@ sort: by_weight
 此身為劍	ci shen wei jian	1
 此身為盾	ci shen wei dun	1
 此輪艦團戰賽程	ci lun jian tuan zhan sai cheng	1
+步離	bu li	1
 步離人	bu li ren	1
 武內駿輔	wu nei jun fu	1
 武器	wu qi	1
@@ -5242,6 +5437,7 @@ sort: by_weight
 武骨	wu gu	1
 歪曲	wai qu	1
 歲月之神跡	sui yue zhi shen ji	1
+歲月神殿	sui yue shen dian	1
 歲月祭司	sui yue ji si	1
 歲記否泰	sui ji fou tai	1
 歲陽寄體	sui yang ji ti	1
@@ -5269,8 +5465,10 @@ sort: by_weight
 死神瞬	si shen shun	1
 死神破	si shen po	1
 死神騎車來	si shen qi che lai	1
+死蔭的侍女	si yin de shi nv	1
 死靈	si ling	1
 死靈之書	si ling zhi shu	1
+歿世的學士	mo shi de xue shi	1
 殘光	can guang	1
 殘夢盡染	can meng jin ran	1
 殘影	can ying	1
@@ -5338,7 +5536,7 @@ sort: by_weight
 氣球	qi qiu	1
 氣球商	qi qiu shang	1
 氣球永不落幕	qi qiu yong bu luo mu	1
-氣貫長虹	qi guan zhang hong	1
+氣貫長虹	qi guan chang hong	1
 氣通天真	qi tong tian zhen	1
 氪氪氪	ke ke ke	1
 氪金槍	ke jin qiang	1
@@ -5380,21 +5578,25 @@ sort: by_weight
 永壽天華	yong shou tian hua	1
 永壽幼芽	yong shou you ya	1
 永壽榮枝	yong shou rong zhi	1
+永夜	yong ye	1
 永夜流星雨	yong ye liu xing yu	1
 永屹之壁	yong yi zhi bi	1
 永屹城垣的壁壘	yong yi cheng yuan de bi lei	1
+永恆之地	yong heng zhi di	1
 永恆之花	yong heng zhi hua	1
 永恆和一日	yong geng he yi ri	1
 永恆唯真理	yong geng wei zhen li	1
 永恆國度的終焉	yong geng guo du de zhong yan	1
 永恆極槍	yong geng ji cheng	1
 永恆河流	yong heng he liu	1
+永恆聖城	yong heng sheng cheng	1
 永暮雙狼	yong mu shuang lang	1
 永無止境的約定	yong wu zhi jing de yue ding	1
 永續的狂歡	yong xu de kuang huan	1
 永遠與時間同步	yong yuan yu shi jian tong bu	1
 求不得	qiu bu de	1
 求生	qiu sheng	1
+求知靜庭	qiu zhi jing ting	1
 求藥使	qiu shuo shi	1
 汙染區域	wu ran qu yu	1
 汪！散步時間！	wang san bu shi jian	1
@@ -5404,6 +5606,8 @@ sort: by_weight
 決戰之前	jue zhan zhi qian	1
 決絕的痛恨	jue jue de tong hen	1
 決鬥	jue dou	1
+沉歡醉飲的海隅	chen huan zui yin de hai yu	1
+沉淪暮城	chen lun mu cheng	1
 沉淪黑曜	chen lun hei yao	1
 沉潛勿用	chen qian wu yong	1
 沉甸甸重擊	chen dian dian zhong ji	1
@@ -5494,6 +5698,9 @@ sort: by_weight
 治癒星球	zhi yu xing qiu	1
 沾衣不摘	zhan yi bu zhai	1
 泉台歧路	quan tai qi lu	1
+泊航區	bo hang qu	1
+泊船區	bo chuan qu	1
+法吉娜	fa ji na	1
 法外狂徒	fa wai kuang tu	1
 法夫尼爾吐息	fa fu ni er tu xi	1
 法夫尼爾爆炎	fa fu ni er bao yan	1
@@ -5511,6 +5718,7 @@ sort: by_weight
 波塞冬	bo sai dong	1
 波提歐	bo ti ou	1
 波瀾不驚的退休生活	bo lan bu jing de tui xiu sheng huo	1
+泣夜殘壁	qi ye can bi	1
 泥人哥連出世記	ni ren ge lian chu shi ji	1
 注意	zhu yi	1
 注意注意	zhu yi zhu yi	1
@@ -5533,8 +5741,10 @@ sort: by_weight
 泰勒斯中下	tai le si zhong xia	1
 泰勒斯兩件套	tai le si liang jian tao	1
 泰勒斯套	tai le si tao	1
+泰坦	tai tan	1
 泰坦或崩壞獸	tai tan huo beng huai shou	1
 泰坦擎天	tai tan qing tian	1
+泰坦斷崖	tai tan duan ya	1
 泰坦機甲	tai tan ji jia	1
 泰坦狂戰	tai tan kuang zhan	1
 泰坦防曬套裝	tai tan fang shai tao zhuang	1
@@ -5576,6 +5786,7 @@ sort: by_weight
 活死人黎明	huo si ren li ming	1
 活的隱喻	huo de yin yu	1
 活躍點	huo yue dian	1
+派對車廂	pai dui che xiang	1
 派系	pai xi	1
 流光定影	liu guang ding ying	1
 流光憶庭	liu guang yi ting	1
@@ -5583,10 +5794,12 @@ sort: by_weight
 流吧	liu ba	1
 流吧你的眼淚	liu ba ni de yan lei	1
 流夢學習小組	liu meng xue xi xiao zu	1
+流夢礁	liu meng jiao	1
 流寒之形	liu han zhi xing	1
 流嵐追孽物	liu lan zhui nie wu	1
 流式傳輸	liu shi chuan shu	1
 流影方暉	liu ying fang hui	1
+流憩大廳	liu qi da ting	1
 流星守護	liu xing shou hu	1
 流星散彈	liu xing san dan	1
 流星標矢	liu xing biao shi	1
@@ -5606,6 +5819,8 @@ sort: by_weight
 流轉的詩篇	liu zhuan de shi pian	1
 流鏑	liu di	1
 流雲渡	liu yun du	1
+流雲渡乘槎處	liu yun du cheng cha chu	1
+流雲渡貨道	liu yun du huo dao	1
 流電轉化	liu dian zhuan hua	1
 浪子	lang zi	1
 浪漫之神跡	lang man zhi shen ji	1
@@ -5633,6 +5848,7 @@ sort: by_weight
 浮世蹴鞠	fu shi cu ju	1
 浮世達摩	fu shi da mo	1
 浮夢若薇	fu meng ruo wei	1
+浮影海庭	fu ying hai ting	1
 浮游移動	fu you yi dong	1
 浮空	fu kong	1
 浮空斬	fu kong zhan	1
@@ -5645,6 +5861,7 @@ sort: by_weight
 浮財小事	fu cai xiao shi	1
 浮雲閉月	fu yun bi yue	1
 浮黎	fu li	1
+浴血戰端	yu xue zhan duan	1
 浴露均沾	yu lu jun zhan	1
 海姆達爾	hai mu da er	1
 海姆達爾的號角	hai mu da er de hao jiao	1
@@ -5660,6 +5877,7 @@ sort: by_weight
 海濱假日旅社	hai bin jia ri lv she	1
 海濱沙灘	hai bin sha tan	1
 海炮	hai pao	1
+海畔明珠	hai pan ming zhu	1
 海盜巢穴	hai dao chao xue	1
 海盜的好朋友	hai dao de hao peng you	1
 海盜聯邦	hai dao lian bang	1
@@ -5763,7 +5981,7 @@ sort: by_weight
 溢出鏡頭的情感	yi chu jing tou de qing gan	1
 溫世齊	wen shi qi	1
 溫妮莎	wen ni sha	1
-溫暖的長屋在何方	wen nuan de zhang wu zai he fang	1
+溫暖的長屋在何方	wen nuan de chang wu zai he fang	1
 溫柔亦同殘酷	wen rou yi tong can ku	1
 溫蒂	wen di	1
 溫蒂的復仇	wen di de fu chou	1
@@ -5787,12 +6005,14 @@ sort: by_weight
 滿分考卷	man fen kao juan	1
 滿咲	man xiao	1
 滿天星	man tian xing	1
+滿溢主池	man yi zhu chi	1
 滿溢之傷	man yi zhi shang	1
 漂亮宿舍	piao liang su she	1
 漂流迷界	piao liu mi jie	1
 漂流馬戲團	piao liu ma xi tuan	1
 漂浮曲與凝固音符	piao fu qu yu ning gu yin fu	1
 漆黑之月	qi hei zhi yue	1
+漆黑的虎克大人	qi hei de hu ke da ren	1
 漆黑苦難的織者	qi hei ku nan de zhi zhe	1
 漆黑麒麟	qi hei qi lin	1
 漏氣	lou qi	1
@@ -5800,6 +6020,7 @@ sort: by_weight
 演木偶戲的人	yan mu ou xi de ren	1
 演武儀典	yan wu yi dian	1
 演武儀典二十一響	yan wu yi dian er shi yi xiang	1
+演武台下層	yan wu tai xia ceng	1
 演武城樓	yan wu cheng lou	1
 漠視主義	mo shi zhu yi	1
 漢娜	han na	1
@@ -5812,6 +6033,7 @@ sort: by_weight
 漢娜中下	han na zhong xia	1
 漢娜兩件套	han na liang jian tao	1
 漢娜套	han na tao	1
+漢達克	han da ke	1
 漣漪上的蝴蝶	lian yi shang de hu die	1
 漩渦止於中心	xuan wo zhi yu zhong xin	1
 漫畫站	man hua zhan	1
@@ -5976,6 +6198,7 @@ sort: by_weight
 烈焰魔劍	lie yan mo jian	1
 烈酒一滴	lie jiu yi di	1
 烈陽先知	lie yang xian zhi	1
+烈陽驚雷的女武神	lie yang jing lei de nv wu shen	1
 烈風	lie feng	1
 烏號基笞	wu hao ji chi	1
 烏號綦箭	wu hao qi jian	1
@@ -6022,6 +6245,7 @@ sort: by_weight
 無敵的	wu di de	1
 無敵破壞王	wu di po huai wang	1
 無敵破壞王Ⅱ	wu di po huai wang	1
+無暉祈堂	wu hui qi tang	1
 無月之夜	wu yue zhi ye	1
 無果之樹	wu guo zhi shu	1
 無根據頌歌	wu gen ju song ge	1
@@ -6083,7 +6307,9 @@ sort: by_weight
 焦土政策	jiao tu zheng ce	1
 焦土行者	jiao tu xing zhe	1
 焦土隕擊	jiao tu yun ji	1
+焦熱獄	jiao re yu	1
 焰氣劍舞	yan qi jian wu	1
+焰輪八葉	yan lun ba ye	1
 焰風	yan feng	1
 然後	ran hou	1
 然後是再見	ran hou shi zai jian	1
@@ -6112,9 +6338,12 @@ sort: by_weight
 熔接鋼核	rong jie gang he	1
 熔核爆裂	rong he bao lie	1
 熔火騎士	rong huo qi shi	1
+熔金奠池	rong jin dian chi	1
+熔金懸台	rong jin xuan tai	1
 熱情會傳染	re qing hui chuan ran	1
 熱浮羊奶	re fu yang nai	1
 熱狂圓舞	re kuang yuan wu	1
+熱砂海選會場	re sha hai xuan hui chang	1
 熱能切割刀	re neng qie ge dao	1
 熱能切割刃	re neng qie ge ren	1
 熱血開拓者	re xue kai tuo zhe	1
@@ -6146,10 +6375,12 @@ sort: by_weight
 燎陽	liao yang	1
 燒火師	shao huo shi	1
 燔燎急襲	fan liao ji xi	1
+燕樂亭入口	yan yue ting ru kou	1
 燙手山芋	dang shou shan yu	1
 燭墨學者	zhu mo xue zhe	1
 燭墨校驗員	zhu mo xiao yan yuan	1
 燭夜	zhu ye	1
+燭淵將軍	zhu yuan jiang jun	1
 燭火招螢	zhu huo zhao ying	1
 燭臺切	zhu tai qie	1
 爆反裝甲	bao fan zhuang jia	1
@@ -6201,6 +6432,7 @@ sort: by_weight
 牧場物語	mu chang wu yu	1
 牧神的早餐	mu shen de zao can	1
 物品	wu pin	1
+物流中轉線	wu liu zhong zhuan xian	1
 物理	wu li	1
 物理傷害	wu li shang hai	1
 物理增傷聖痕	wu li zeng shang sheng hen	1
@@ -6270,6 +6502,7 @@ sort: by_weight
 特級機械芯片	te ji ji xie xin pian	1
 特級生物芯片	te ji sheng wu xin pian	1
 特級異能芯片	te ji yi neng xin pian	1
+特雷托斯	te lei tuo si	1
 牽制盜壘	qian zhi dao lei	1
 狀態	zhuang tai	1
 狀態欄優化	zhuang tai lan you hua	1
@@ -6293,6 +6526,7 @@ sort: by_weight
 狂龍	kuang long	1
 狄俄涅的暴雪	di e nie de bao xue	1
 狅夜時刻	kuang ye shi ke	1
+狐人	hu ren	1
 狐力附體	hu li fu ti	1
 狐塵已去	hu chen yi qu	1
 狐狸	hu li	1
@@ -6336,6 +6570,7 @@ sort: by_weight
 獲得成就	huo de cheng jiu	1
 獵人的歸處	lie ren de gui chu	1
 獵冕金爪	lie mian jin zhao	1
+獵劍士	lie jian shi	1
 獵彗人	lie hui ren	1
 獵慧人來信	lie hui ren lai xin	1
 獵慧人寶藏	lie hui ren bao zang	1
@@ -6351,10 +6586,13 @@ sort: by_weight
 獵鹿遊戲	lie lu you xi	1
 獸爪的形狀	shou zhao de xing zhuang	1
 獸道之層	shou dao zhi ceng	1
+獻身拱心	xian shen gong xin	1
 玄學	xuan xue	1
+玄機坪	xuan ji ping	1
 玄武歸心	xuan wu gui xin	1
 率從狻猊	lv cong suan ni	1
 玉角盤虯	yu jiao pan qiu	1
+玉闕	yu que	1
 王下十八桶	wang xia shi ba tong	1
 王之財寶	wang zhi cai bao	1
 王之路挑戰者	wang zhi lu tiao zhan zhe	1
@@ -6362,6 +6600,7 @@ sort: by_weight
 王國戰	wang guo zhan	1
 王國贈禮	wang guo zeng li	1
 王宇航	wang yu hang	1
+王宮廢庭	wang gong fei ting	1
 王座之終	wang zuo zhi zhong	1
 王昭君	wang zhao jun	1
 王昭君上	wang zhao jun shang	1
@@ -6390,6 +6629,7 @@ sort: by_weight
 玫瑰	mei gui	1
 玫瑰花蕾	mei gui hua lei	1
 玲可	ling ke	1
+玻呂茜亞	bo lv xi ya	1
 珠露	zhu lu	1
 班長	ban zhang	1
 現在的記敘者	xian zai de ji xu zhe	1
@@ -6422,6 +6662,8 @@ sort: by_weight
 理想自由	li xiang zi you	1
 琉炎玉	liu yan yu	1
 琉璃	liu li	1
+琢石區	zhuo shi qu	1
+琢石寂地	zhuo shi ji di	1
 琥珀	hu po	1
 琥珀的堅守	hu po de jian shou	1
 琥珀裡的千年蟲	hu po li de qian nian chong	1
@@ -6438,6 +6680,7 @@ sort: by_weight
 琪亞娜端午	qi ya na duan wu	1
 琪亞娜端午上	qi ya na duan wu shang	1
 瑞應之來	rui ying zhi lai	1
+瑟希斯	se xi si	1
 瑟希斯不完備定理	se xi si bu wan bei ding li	1
 瑟風亦止	se feng yi zhi	1
 瑪士撒拉之子	ma shi sa la zhi zi	1
@@ -6454,6 +6697,7 @@ sort: by_weight
 瑪麗雪萊套	ma li xue lai tao	1
 環波月古海	huan bo yue gu hai	1
 瓊實鳥串	qiong shi niao chuan	1
+瓊玉牌	qiong yu pai	1
 瓣櫻不沾	ban ying bu zhan	1
 瓦爾哈拉的迴音	wa er ha la de hui yin	1
 瓦爾特	wa er te	1
@@ -6474,8 +6718,10 @@ sort: by_weight
 生命值回覆量	sheng ming zhi hui fu liang	1
 生命值總量	sheng ming zhi zong liang	1
 生命傳輸器	sheng ming chuan shu qi	1
+生命因何而沉睡	sheng ming yin he er chen shui	1
 生命提升	sheng ming ti sheng	1
 生命的翁瓦克	sheng ming de weng wa ke	1
+生命花園	sheng ming hua yuan	1
 生命補給	sheng ming bu gei	1
 生命補給改	sheng ming bu gei gai	1
 生命詩篇	sheng ming shi pian	1
@@ -6505,10 +6751,12 @@ sort: by_weight
 用愛來感動崩壞獸	yong ai lai gan dong beng huai shou	1
 田中理惠	tian zhong li hui	1
 田村由香里	tian cun you xiang li	1
+甲板演武台	jian ban yan wu tai	1
 甲胄之殤	jia zhou zhi shang	1
 甲蟲	jia chong	1
 男孩子	nan hai zi	1
 界域定錨	jie yu ding mao	1
+界寰陣	jie huan zhen	1
 界面	jie mian	1
 留下希望	liu xia xi wang	1
 留在眼底	liu zai yan di	1
@@ -6549,6 +6797,7 @@ sort: by_weight
 異世界啟程	yi shi jie qi cheng	1
 異器盈界	yi qi ying jie	1
 異型赫爾之弓	yi xing he er zhi gong	1
+異域	yi yu	1
 異寵拾遺	yi chong shi yi	1
 異常狀態	yi chang zhuang tai	1
 異度黑核侵蝕	yi du hei he qin shi	1
@@ -6605,11 +6854,13 @@ sort: by_weight
 發條蘋果	fa tiao ping guo	1
 發火裝填	fa huo zhuang tian	1
 白刃耀雪舞駭浪	bai ren yao xue wu hai lang	1
+白厄	bai e	1
 白夜	bai ye	1
 白夜執事	bai ye zhi shi	1
 白嫖	bai piao	1
 白山白	bai shan bai	1
 白教父	bai jiao fu	1
+白日夢酒店	bai ri meng jiu dian	1
 白日漫漫路迢迢	bai ri man man lu tiao tiao	1
 白星驅逐者	bai xing qu zhu zhe	1
 白月留影	bai yue liu ying	1
@@ -6621,6 +6872,7 @@ sort: by_weight
 白狐套	bai hu tao	1
 白狐神社	bai hu shen she	1
 白玉	bai yu	1
+白珩	bai heng	1
 白的連白的	bai de lian bai de	1
 白矢決射御	bai shi jue she yu	1
 白石晴香	bai shi qing xiang	1
@@ -6680,6 +6932,7 @@ sort: by_weight
 皮中	pi zhong	1
 皮中下	pi zhong xia	1
 皮兩件套	pi liang jian tao	1
+皮利亞	pi li ya	1
 皮套	pi tao	1
 皮皮馬	pi pi ma	1
 皮皮馬破盾後	pi pi ma po dun hou	1
@@ -6701,6 +6954,7 @@ sort: by_weight
 盛夏派對	sheng xia pai dui	1
 盛夏煙火	sheng xia yan huo	1
 盛夏邀約	sheng xia yao yue	1
+盛會之星	sheng hui zhi xing	1
 盛會之星專案團隊	sheng hui zhi xing zhuan an tuan dui	1
 盛會之星與六苜蓿幣	sheng hui zhi xing yu liu mu xu bi	1
 盛滿晨曦的寶藏	sheng man chen xi de bao cang	1
@@ -6710,11 +6964,13 @@ sort: by_weight
 盜寶吼姆	dao bao hou mu	1
 盜寶狸貓娘	dao bao li mao niang	1
 盜寶衣	dao bao yi	1
+盜火行者	dao huo xing zhe	1
 盜賊公國塔利亞	dao zei gong guo ta li ya	1
 盜賊的魔彈	dao zei de mo dan	1
 盡在不言中	jin zai bu yan zhong	1
 監察者的日記未知	jian cha zhe de ri ji wei zhi	1
 監牢要塞	jian lao yao sai	1
+監督機器	jian du ji qi	1
 盤上棋爭	pan shang qi zheng	1
 盤根盆栽	pan gen pen zai	1
 盧卡	lu ka	1
@@ -6876,6 +7132,7 @@ sort: by_weight
 石中劍	shi zhong jian	1
 石中榨血	shi zhong zha xue	1
 石川由依	shi chuan you yi	1
+石心十人	shi xin shi ren	1
 石火明滅	shi huo ming mie	1
 石火流光	shi huo liu guang	1
 石田彰	shi tian zhang	1
@@ -6972,6 +7229,7 @@ sort: by_weight
 祈禱室	qi dao shi	1
 祈禱落幕時	qi dao luo mu shi	1
 祈願之地	qi yuan zhi di	1
+祈龍壇	qi long tan	1
 祖輩的鑽頭	zu bei de zuan tou	1
 祝福	zhu fu	1
 祝福的鈴聲	zhu fu de ling sheng	1
@@ -6984,6 +7242,7 @@ sort: by_weight
 神俠死士	shen xia si shi	1
 神們自己	shen men zi ji	1
 神力百夫長	shen li bai fu zhang	1
+神君	shen jun	1
 神啟的轉呈者	shen qi de zhuan cheng zhe	1
 神域飛刃	shen yu fei ren	1
 神奇撲滿與它們的產地	shen qi bu man yu ta men de chan di	1
@@ -6997,6 +7256,9 @@ sort: by_weight
 神恩全程駐場	shen en quan cheng zhu chang	1
 神恩頌歌	shen en song ge	1
 神恩頌歌熾翎	shen en song ge chi ling	1
+神悟樹庭	shen wu shu ting	1
+神悟樹庭的沉思巨桹	shen wu shu ting de chen si ju qiang	1
+神悟樹庭的聯識葉路	shen wu shu ting de lian shi ye lu	1
 神機	shen ji	1
 神機之心	shen ji zhi xin	1
 神機和魔女黑鴨	shen ji he mo nv hei ya	1
@@ -7009,6 +7271,8 @@ sort: by_weight
 神秘型網紅	shen mi xing wang hong	1
 神秘日記	shen mi ri ji	1
 神秘構造體零件	shen mi gou zao ti ling jian	1
+神策將軍	shen ce jiang jun	1
+神策府	shen ce fu	1
 神經仿繡圖	shen jing fang xiu tu	1
 神聖	shen sheng	1
 神聖之光	shen sheng zhi guang	1
@@ -7017,6 +7281,7 @@ sort: by_weight
 神聖車行	shen sheng che xing	1
 神聖馬賽克	shen sheng ma sai ke	1
 神聖騎士	shen sheng qi shi	1
+神諭聖地	shen yu sheng di	1
 神農	shen nong	1
 神農守護	shen nong shou hu	1
 神農的愛	shen nong de ai	1
@@ -7051,6 +7316,7 @@ sort: by_weight
 禁錮之矛	jin gu zhi mao	1
 禁錮狀態	jin gu zhuang tai	1
 禁錮解除	jin gu jie chu	1
+禁閉艙段	jin bi cang duan	1
 禁飛區	jin fei qu	1
 禍祖礪兵尋舊恨愚人揮劍斬金身	huo zu li bing xun jiu hen yu ren hui jian zhan jin shen	1
 福利	fu li	1
@@ -7059,6 +7325,7 @@ sort: by_weight
 福賓計畫	fu bin ji hua	1
 福靈膠	fu ling jiao	1
 福音	fu yin	1
+禨祥台	qi xiang tai	1
 禮包	li bao	1
 禮包幣	li bao bi	1
 禮包幣充值	li bao bi chong zhi	1
@@ -7105,11 +7372,13 @@ sort: by_weight
 科技補給箱	ke ji bu gei xiang	1
 科技護具	ke ji hu ju	1
 科技點	ke ji dian	1
+科斯基	ke si ji	1
 科爾奇人	ke er qi ren	1
 秘傳	mi chuan	1
 秘密派對	mi mi pai dui	1
 秘密誓心	mi mi shi xin	1
 秘密造就女人	mi mi zao jiu nv ren	1
+秘思暗廊	mi si an lang	1
 秘技破陣	mi ji po zhen	1
 秘索維	mi suo wei	1
 秘銀	mi yin	1
@@ -7123,6 +7392,7 @@ sort: by_weight
 稀有晶體核心	xi you jing ti he xin	1
 稀薄以太	xi bo yi tai	1
 程式記憶	cheng shi ji yi	1
+稚子的夢	zhi zi de meng	1
 稜面折光	leng mian zhe guang	1
 種大劍	zhong da jian	1
 種太陽	zhong tai yang	1
@@ -7137,10 +7407,13 @@ sort: by_weight
 積分獎勵	ji fen jiang li	1
 積木	ji mu	1
 積木師	ji mu shi	1
+積玉坊	ji yu fang	1
+積玉坊南側	ji yu fang nan ce	1
 穩定	wen ding	1
 穹	qiong	1
 穹儀	qiong yi	1
 穹施後承	qiong shi hou cheng	1
+穹頂關塞	qiong ding guan sai	1
 空中救援	kong zhong jiu yuan	1
 空中載具	kong zhong zai ju	1
 空之律令	kong zhi lv ling	1
@@ -7149,11 +7422,12 @@ sort: by_weight
 空之律者度假	kong zhi lv zhe du jia	1
 空之結界	kong zhi jie jie	1
 空乏	kong fa	1
-空亡事不長	kong wang shi bu zhang	1
+空亡事不長	kong wang shi bu chang	1
 空夢	kong meng	1
 空心	kong xin	1
 空投支援	kong tou zhi yuan	1
 空明	kong ming	1
+空氣蛹	kong qi yong	1
 空港指揮室	kong gang zhi hui shi	1
 空無	kong wu	1
 空無之鑰	kong wu zhi yao	1
@@ -7215,6 +7489,7 @@ sort: by_weight
 端午套	duan wu tao	1
 端感棒	duan gan bang	1
 競速之王	jing su zhi wang	1
+競鋒艦	jing feng jian	1
 笑面劊子手	xiao mian gui zi shou	1
 笠間淳	li jian chun	1
 符玄	fu xuan	1
@@ -7298,6 +7573,8 @@ sort: by_weight
 築城者遺寶	zhu cheng zhe yi bao	1
 築夢工業化	zhu meng gong ye hua	1
 築夢師	zhu meng shi	1
+築夢邊境	zhu meng bian jing	1
+築材物流部	zhu cai wu liu bu	1
 篡奪者手炮	cuan duo zhe shou pao	1
 篡改的野心	cuan gai de ye xin	1
 篡改者	cuan gai zhe	1
@@ -7336,6 +7613,7 @@ sort: by_weight
 米哈遊	mi ha you	1
 米套	mi tao	1
 米忽悠	mi hu you	1
+米拉瓦塔	mi la wa ta	1
 米斯特汀	mi si te ting	1
 米斯特汀裂光	mi si te ting lie guang	1
 米普米	mi pu mi	1
@@ -7345,6 +7623,7 @@ sort: by_weight
 米沙	mi sha	1
 米沙米	mi sha mi	1
 米糊	mi hu	1
+米里奧斯	mi li ao si	1
 米開	mi kai	1
 米開三件套	mi kai san jian tao	1
 米開上	mi kai shang	1
@@ -7430,6 +7709,7 @@ sort: by_weight
 紅套	hong tao	1
 紅娃	hong wa	1
 紅教父	hong jiao fu	1
+紅方觀眾席	hong fang guan zhong xi	1
 紅普莎	hong pu sha	1
 紅月之吻	hong yue zhi wen	1
 紅月使者	hong yue shi zhe	1
@@ -7477,6 +7757,7 @@ sort: by_weight
 純粹高潔宣言	chun cui gao jie xuan yan	1
 純美之袍	chun mei zhi pao	1
 純美的自助	chun mei de zi zhu	1
+純美騎士團	chun mei qi shi tuan	1
 紙筏漂流銀灣	zhi fa piao liu yin wan	1
 紙箱圓桌	zhi xiang yuan zhuo	1
 紙箱床	zhi xiang chuang	1
@@ -7493,6 +7774,8 @@ sort: by_weight
 紛爭	fen zheng	1
 紛爭之神跡	fen zheng zhi shen ji	1
 紛爭劇作家	fen zheng ju zuo jia	1
+紛爭正殿	fen zheng zheng dian	1
+紛爭荒墟	fen zheng huang xu	1
 紛爭見證屍骸的喉鳴	fen zheng jian zheng shi hai de hou ming	1
 紛爭餘夜	fen zheng yu ye	1
 素刃	su ren	1
@@ -7569,6 +7852,7 @@ sort: by_weight
 絕對絕望帝王	jue dui jue wang di wang	1
 絕對零度	jue dui ling du	1
 絕影結界	jue ying jie jie	1
+絕滅大君	jue mie da jun	1
 給您來段看家戲	gei nin lai duan kan jia xi	1
 給我停止吧	gei wo ting zhi ba	1
 給我這裝備我上我也行	gei wo zhe zhuang bei wo shang wo ye xing	1
@@ -7576,8 +7860,10 @@ sort: by_weight
 綁定	bang ding	1
 綁定手機	bang ding shou ji	1
 綁定郵箱	bang ding you xiang	1
+綏園	sui yuan	1
 綏綏狐魅	sui sui hu mei	1
 經年劣化任俠無忍義	jing nian lie hua ren xia wu ren yi	1
+經緯小徑	jing wei xiao jing	1
 經驗活動	jing yan huo dong	1
 綠塔	lv ta	1
 綠天使	lv tian shi	1
@@ -7599,6 +7885,7 @@ sort: by_weight
 維持	wei chi	1
 維達	wei da	1
 維達的復仇	wei da de fu chou	1
+維里塔斯	wei li ta si	1
 網路詐騙	wang lu zha pian	1
 綺夜雪花	qi ye xue hua	1
 綻放在終竟的明天	zhan fang zai zhong jing de ming tian	1
@@ -7661,7 +7948,10 @@ sort: by_weight
 編年史新篇章	bian nian shi xin pian zhang	1
 編織雲朵	bian zhi yun duo	1
 編輯	bian ji	1
+緹安	ti an	1
+緹寧	ti ning	1
 緹寶	ti bao	1
+緹里西庇俄絲	ti li xi bi e si	1
 緻密型閃焰	zhi mi xing shan yan	1
 縈天	ying tian	1
 縛心魔	fu xin mo	1
@@ -7679,6 +7969,7 @@ sort: by_weight
 繁星璀璨的天才	fan xing cui can de tian cai	1
 繁星競技場	fan xing jing ji chang	1
 繁榮基石	fan rong ji shi	1
+繁生	fan sheng	1
 繁育	fan yu	1
 繁花將盡	fan hua jiang jin	1
 繆斯	miu si	1
@@ -7727,6 +8018,7 @@ sort: by_weight
 羅伯特皮裡套	luo bo te pi li tao	1
 羅剎	luo cha	1
 羅剎	luo sha	1
+羅浮	luo fu	1
 羅浮仙舟	luo fu xian zhou	1
 羅浮仙舟的天外樓船	luo fu xian zhou de tian wai lou chuan	1
 羅浮仙舟的建木枝蔓	luo fu xian zhou de jian mu zhi wan	1
@@ -7778,9 +8070,11 @@ sort: by_weight
 群青風暴	qun qing feng bao	1
 群體物理易傷	qun ti wu li yi shang	1
 義的名號	yi de ming hao	1
+翁法羅斯	weng fa luo si	1
 翁法羅斯公民	weng fa luo si gong min	1
 翁法羅斯定位系統	weng fa luo si ding wei xi tong	1
 翁法羅斯掌管寶箱的半神	weng fa luo si zhang guan bao xiang de ban shen	1
+翁法羅斯英雄紀	weng fa luo si ying xiong ji	1
 翁法羅斯萬事通	weng fa luo si wan shi tong	1
 翁法羅斯順風耳	weng fa luo si shun feng er	1
 翁瓦克	weng wa ke	1
@@ -7789,7 +8083,7 @@ sort: by_weight
 翎之詠嘆調	ling zhi yong tan tiao	1
 翔鷹的絨羽綁帶	xiang ying de rong yu bang dai	1
 翔鷹的翼裝束帶	xiang ying de yi zhuang shu dai	1
-翔鷹的長喙頭盔	xiang ying de zhang hui tou kui	1
+翔鷹的長喙頭盔	xiang ying de chang hui tou kui	1
 翔鷹的鷹擊指環	xiang ying de ying ji zhi huan	1
 翠羽落花	cui yu luo hua	1
 翠鳥董事會專員	cui niao dong shi hui zhuan yuan	1
@@ -7808,12 +8102,14 @@ sort: by_weight
 老王是誰客服娘不認識呢	lao wang shi shui ke fu niang bu ren shi ne	1
 老礦頭的寶貝	lao kuang tou de bao bei	1
 老練戰士	lao lian zhan shi	1
+老鐵	lao tie	1
 考前熱身	kao qian re shen	1
 考場簽到	kao chang qian dao	1
 考試即戰場	kao shi ji zhan chang	1
 而今幾姓	er jin ji xing	1
 耍耍把式賣賣藝	shua shua ba shi mai mai yi	1
 耐力考試	nai li kao shi	1
+耶利卡城	ye li ka cheng	1
 耶夢加得的毒牙	ye meng jia de de du ya	1
 聆聽是最好的陪伴	ling ting shi zui hao de pei ban	1
 聊天	liao tian	1
@@ -8024,7 +8320,7 @@ sort: by_weight
 自欺咖啡館	zi qi ka fei guan	1
 自滅者	zi mie zhe	1
 自滅者的火種	zi mie zhe de huo zhong	1
-自無夢的長夜亮起	zi wu meng de zhang ye liang qi	1
+自無夢的長夜亮起	zi wu meng de chang ye liang qi	1
 自然調和	zi ran tiao he	1
 自爆機甲	zi bao ji jia	1
 自由	zi you	1
@@ -8084,6 +8380,10 @@ sort: by_weight
 般若之心	bo re zhi xin	1
 船中八策	chuan zhong ba ce	1
 船散	chuan san	1
+船長的捕光星盤	chuan zhang de bu guang xing pan	1
+船長的踏浪遊靴	chuan zhang de ta lang you xue	1
+船長的領航笠帽	chuan zhang de ling hang li mao	1
+船長的馭風斗篷	chuan zhang de yu feng dou peng	1
 艙室升級結束	cang shi sheng ji jie shu	1
 艙段	cang duan	1
 艦團	jian tuan	1
@@ -8108,6 +8408,7 @@ sort: by_weight
 色塊疊加	se kuai die jia	1
 色彩大師	se cai da shi	1
 色欲	se yu	1
+艾格勒	ai ge le	1
 艾絲妲	ai si da	1
 艾絲妲與商業精英	ai si da yu shang ye jing ying	1
 芙樂艾	fu le ai	1
@@ -8159,9 +8460,11 @@ sort: by_weight
 苗槍	miao qiang	1
 苟延殘喘	gou yan can chuan	1
 若山詩音	ruo shan shi yin	1
+若木亭	ruo mu ting	1
 若木折枝	ruo mu zhe zhi	1
 若罪若福	ruo zui ruo fu	1
 若罪若福施諸願印	ruo zui ruo fu shi zhu yuan yin	1
+若蟲	ruo chong	1
 苦寒晶殼	ku han jing ke	1
 苦役者未知	ku yi zhe wei zhi	1
 苦憶釀酒師	ku yi niang jiu shi	1
@@ -8173,10 +8476,17 @@ sort: by_weight
 苦痛鹹魚	ku tong xian yu	1
 苦藥似的真理	ku shuo shi de zhen li	1
 苦難與陽光	ku nan yu yang guang	1
+英豪的冠軍桂冠	ying hao de guan jun gui guan	1
+英豪的赴火護脛	ying hao de fu huo hu jing	1
+英豪的鑑金腕鎧	ying hao de jian jin wan kai	1
+英豪的驍戰金甲	ying hao de xiao zhan jin jia	1
+英雄浴池	ying xiong yu chi	1
 英雄王	ying xiong wang	1
 英靈	ying ling	1
 英魂交響之詩	ying hun jiao xiang zhi shi	1
 茂盛盆栽	mao sheng pen zai	1
+茨岡尼亞的母神臥榻	ci gang ni ya de mu shen wo ta	1
+茨岡尼亞的輪迴紐結	ci gang ni ya de lun hui niu jie	1
 茫茫白夜	mang mang bai ye	1
 茶濃於水	cha nong yu shui	1
 茶茶	cha cha	1
@@ -8273,6 +8583,7 @@ sort: by_weight
 萌新出了這個請問好用嗎	meng xin chu le zhe ge qing wen hao yong ma	1
 萌新指引	meng xin zhi yin	1
 萌新求好友	meng xin qiu hao you	1
+萌甲	meng jia	1
 萌遊姬	meng you ji	1
 萬一真出了冰傻呢	wan yi zhen chu le bing sha ne	1
 萬乘之變	wan cheng zhi bian	1
@@ -8348,6 +8659,7 @@ sort: by_weight
 葉採章中下	ye cai zhang zhong xia	1
 葉採章兩件套	ye cai zhang liang jian tao	1
 葉採章套	ye cai zhang tao	1
+葉琳娜	ye lin na	1
 葉知秋	ye zhi qiu	1
 著書人	zhu shu ren	1
 著迷	zhao mi	1
@@ -8412,6 +8724,9 @@ sort: by_weight
 蕉個朋友	jiao ge peng you	1
 蕉學事故	jiao xue shi gu	1
 蕉惡非道	jiao e fei dao	1
+蕉樂園	jiao le yuan	1
+蕉樂園的蕉芯廣場	jiu le yuan de jiao xin guang chang	1
+蕉樂園的迷因纜線	jiu le yuan de mi yin lan xian	1
 蕉滑陷阱	jiao hua xian jing	1
 蕉育高手	jiao yu gao shou	1
 蕩滌妖邪琉璃劍	dang di yao xie liu li jian	1
@@ -8486,8 +8801,11 @@ sort: by_weight
 薩爾索圖	sa er suo tu	1
 薩爾索圖的晨昏界線	sa er suo tu de chen hun jie xian	1
 薩爾索圖的移動城市	sa er suo tu de yi dong cheng shi	1
+薩白尼	sa bai ni	1
+薩蘭	sa lan	1
 薩迦尼	sa jia ni	1
 藍天使	lan tian shi	1
+藍方觀眾席	lan fang guan zhong xi	1
 藍毛	lan mao	1
 藍玉或藍蛋	lan yu huo lan dan	1
 藍白沙灘球	lan bai sha tan qiu	1
@@ -8513,8 +8831,10 @@ sort: by_weight
 藿藿	huo huo	1
 蘆前漫步	lu qian man bu	1
 蘇打豆汁兒	su da dou zhi er	1
+蘇樂達	su le da	1
 蘇樂達代言人	su le da dai yan ren	1
 蘋果糖	ping guo tang	1
+蘭德	lan de	1
 蘿莎莉婭	luo sha li ya	1
 蘿莎莉婭阿琳	luo sha li ya a lin	1
 蘿蔔	luo bo	1
@@ -8567,11 +8887,13 @@ sort: by_weight
 虛空權能	xu kong quan neng	1
 虛空黑曜	xu kong hei yao	1
 虛粒子	xu li zi	1
+虛陵	xu ling	1
 虛飾之夢	xu shi zhi meng	1
 號臥室	hao wo shi	1
 號角的奉獻	hao jiao de feng xian	1
 號角驚覺緘默的狂獅	hao jiao jing jue jian mo de kuang shi	1
 虹石	hong shi	1
+虹霓盡處	hong ni jin chu	1
 蚊子	wen zi	1
 蚩尤外傳	chi you wai zhuan	1
 蚩尤巨炮	chi you ju pao	1
@@ -8616,6 +8938,7 @@ sort: by_weight
 蟲鳴秘聞	chong ming mi wen	1
 蠢動原核	chun dong yuan he	1
 蠶食者之影	can shi zhe zhi ying	1
+蠻都	man du	1
 血之樂章	xue zhi yue zhang	1
 血之舞步	xue zhi wu bu	1
 血之處女	xue zhi chu nv	1
@@ -8655,6 +8978,7 @@ sort: by_weight
 行星淨化工	xing xing jing hua gong	1
 行舟命運的眼瞼	xing zhou ming yun de yan jian	1
 行跡	xing ji	1
+行醫市集	xing yi shi ji	1
 行騙不露怯	xing pian bu lou qie	1
 衍生	yan sheng	1
 街頭出身的拳王	jie tou chu shen de quan wang	1
@@ -8663,6 +8987,7 @@ sort: by_weight
 衝出機率泥沼	chong chu ji lv ni zhao	1
 衝擊共振	chong ji gong zhen	1
 衝陣	chong zhen	1
+衣匠	yi jiang	1
 表現尚可	biao xian shang ke	1
 表蓮花	biao lian hua	1
 表蓮華	biao lian hua	1
@@ -8764,6 +9089,9 @@ sort: by_weight
 視肉	shi rou	1
 親啟佳釀	qin qi jia niang	1
 親摯的音容	qin zhi de yin rong	1
+覲神狹室	jin shen xia shi	1
+覲神祭台	jin shen ji tai	1
+覲見處	jin jian chu	1
 覺醒	jue xing	1
 觀察日記	guan cha ri ji	1
 觀察者	guan cha zhe	1
@@ -8777,7 +9105,9 @@ sort: by_weight
 觀星中下	guan xing zhong xia	1
 觀星兩件套	guan xing liang jian tao	1
 觀星套	guan xing tao	1
+觀景車廂	guan jing che xiang	1
 觀瓊視煢門前清	guan qiong shi qiong men qian qing	1
+觀頤台	guan yi tai	1
 角色	jue se	1
 角色小隊	jue se xiao dui	1
 角色小隊訓練	jue se xiao dui xun lian	1
@@ -8806,6 +9136,7 @@ sort: by_weight
 記憶中的它	ji yi zhong di ta	1
 記憶中的模樣	ji yi zhong de mu yang	1
 記憶中的模樣	ji yi zhong di mo yang	1
+記憶命途	ji yi ming tu	1
 記憶商店	ji yi shang dian	1
 記憶如往日重現	ji yi ru wang ri chong xian	1
 記憶戰場	ji yi zhan chang	1
@@ -8842,6 +9173,10 @@ sort: by_weight
 試煉	shi lian	1
 試煉之間	shi lian zhi jian	1
 試膽大會	shi dan da hui	1
+詩人的綴星裙襬	shi ren de zhui xing qun bai	1
+詩人的蒔蘿花冠	shi ren de shi luo hua guan	1
+詩人的貴金手鐲	shi ren de gui jin shou zhuo	1
+詩人的釘銀之履	shi ren de ding yin zhi lu	1
 詩仙機器人	shi xian ji qi ren	1
 詩寇蒂安魂曲	shi kou di an hun qu	1
 詩庫璐德女神聖衣	shi ku lu de nv shen sheng yi	1
@@ -8884,6 +9219,7 @@ sort: by_weight
 調律	diao lv	1
 調性合頌	tiao xing he song	1
 調整循環模式	tiao zheng xun huan mo shi	1
+談狐林後門	tan hu lin
 請別叫她大姐姐	qing bie jiao ta da jie jie	1
 請勿搖晃汽水	qing wu yao huang qi shui	1
 請勿模仿	qing wu mo fang	1
@@ -8893,6 +9229,7 @@ sort: by_weight
 請讓一下	qing rang yi xia	1
 論劍	lun jian	1
 論心不論跡	lun xin bu lun ji	1
+論泰坦與地上萬邦	lun tai tan yu di shang wan bang	1
 論跡不論心	lun ji bu lun xin	1
 諧振傳遞	xie zhen chuan di	1
 諧樂小調	xie le xiao diao	1
@@ -8923,7 +9260,9 @@ sort: by_weight
 諾貝爾套	nuo bei er tao	1
 謊言亦需雕琢	huang yan yi xu diao zhuo	1
 謐寧拾骨地	mi ning shi gu di	1
+謐寧拾骨地	ming ning shi gu di	1
 謝債發行機	xie zhai fa xing ji	1
+謝爾蓋耶夫娜	xie er gai ye fu na	1
 謝瑩	xie ying	1
 謝謝你	xie xie ni	1
 謹此核押	jin ci he ya	1
@@ -8951,6 +9290,7 @@ sort: by_weight
 豐永利行	feng yong li xing	1
 豐饒	feng rao	1
 豐饒之種	feng rao zhi zhong	1
+豐饒民戰爭	feng rao min zhan zheng	1
 豐饒玄鹿	feng rao xuan lu	1
 豐饒眾生	feng rao zhong sheng	1
 豐饒眾生一法界心	feng rao zhong sheng yi fa jie xin	1
@@ -9042,6 +9382,8 @@ sort: by_weight
 貝露丹迪搖籃曲	bei lu dan di yao lan qu	1
 貝龍	bei long	1
 貞凶體質	zhen xiong ti zhi	1
+負世	fu shi	1
+負世祭壇	fu shi ji tan	1
 負子樹	fu zi shu	1
 負罪之羽	fu zui zhi yu	1
 負責主力輸出	fu ze zhu li shu chu	1
@@ -9071,9 +9413,11 @@ sort: by_weight
 資料室	zi liao shi	1
 資料收集	zi liao shou ji	1
 賊樂師	zei le shi	1
+賊靈	zei ling	1
 賜與盡美	ci yu jin mei	1
 賞品兌換	shang pin dui huan	1
 賞金獵人	shang jin lie ren	1
+賢者之鄉	xian zhe zhi xiang	1
 賢者的禮物	xian zhe de li wu	1
 賣火柴的琪亞娜	mai huo chai de qi ya na	1
 賦生雕塑家	fu sheng diao su jia	1
@@ -9083,6 +9427,7 @@ sort: by_weight
 賭貓	du mao	1
 購物清單	gou wu qing dan	1
 購物袋	gou wu dai	1
+賽法利婭	sai fa li ya	1
 賽飛兒	sai fei er	1
 贖珠閣	shu zhu ge	1
 赤字	chi zi	1
@@ -9357,9 +9702,11 @@ sort: by_weight
 逐星之矢	zhu xing zhi shi	1
 逐浪海妖	zhu lang hai yao	1
 逐漸理解一切	zhu jian li jie yi qie	1
+逐火之旅	zhu huo zhi lv	1
 逐火同盟	zhu huo tong meng	1
 逐藪	zhu sou	1
 逐蝗疫於四裔	zhu huang yi yu si yi	1
+逐魂隘口	zhu hun ai kou	1
 逗留一下吧	dou liu yi xia ba	1
 這一曲	zhe yi qu	1
 這個人	zhe ge ren	1
@@ -9396,8 +9743,10 @@ sort: by_weight
 速度加快	su du jia kuai	1
 速度大幅提升	su du da fu ti sheng	1
 速度提高	su du ti gao	1
+造化洪爐	zao hua hong lu	1
 造成	zao cheng	1
 造成凍結效果	zao cheng dong jie xiao guo	1
+造物之柱	zao wu zhi zhu	1
 造物引擎	zao wu yin qing	1
 造物歌唱家	zao wu ge chang jia	1
 造翼者	zao yi zhe	1
@@ -9448,7 +9797,7 @@ sort: by_weight
 進入盛夏之門	jin ru sheng xia zhi men	1
 進入臨界狀態	jin ru lin jie zhuang tai	1
 進入艙室	jin ru cang shi	1
-進入黑夜的漫長旅程	jin ru hei ye de man zhang lv cheng	1
+進入黑夜的漫長旅程	jin ru hei ye de man chang lv cheng	1
 進化材料自選箱	jin hua cai liao zi xuan xiang	1
 進化論	jin hua lun	1
 進行詳細介紹	jin xing xiang xi jie shao	1
@@ -9553,6 +9902,8 @@ sort: by_weight
 遺器	yi qi	1
 遺器分解	yi qi fen jie	1
 遺器殘骸	yi qi can hai	1
+遺堡之底	yi bao zhi di	1
+遺堡垂井	yi bao chui jing	1
 遺失光塵	yi shi guang chen	1
 遺失晶塊	yi shi jing kuai	1
 遺失的記憶	yi shi de ji yi	1
@@ -9569,9 +9920,11 @@ sort: by_weight
 邀請	yao qing	1
 邀請碼	yao qing ma	1
 邀遊天外	yao you tian wai	1
+邁德謨斯	mai de mo si	1
 邂逅	xie hou	1
 還是我來吧	hai shi wo lai ba	1
 還是門比較硬	hai shi men bi jiao ying	1
+還陽	huan yang	1
 邊塞之女	bian sai zhi nv	1
 邊塞妖女	bian sai yao nv	1
 邊星快槍手	bian xing kuai cheng shou	1
@@ -9593,6 +9946,8 @@ sort: by_weight
 郵件	you jian	1
 都柏林漫步	du bo lin man bu	1
 都無法起效	dou wu fa qi xiao	1
+都藍的器獸韁轡	dou lan de qi shou jiang pei	1
+都藍的穹窿金帳	dou lan de qiong long jin zhang	1
 酋長	qiu zhang	1
 配合戰車無限聚怪	pei he zhan che wu xian ju guai	1
 酒櫃收藏家姬子	jiu gui shou cang jia ji zi	1
@@ -9684,6 +10039,9 @@ sort: by_weight
 量子身軀	liang zi shen qu	1
 量子鎖定	liang zi suo ding	1
 金人司閽	jin ren si hun	1
+金人巷	jin ren xiang	1
+金人巷夜市	jin ren xiang ye shi	1
+金人巷碼頭	jin ren xiang ma tou	1
 金人舊巷市廛喧	jin ren jiu xiang shi chan xuan	1
 金元壽子	jin yuan shou zi	1
 金娜	jin na	1
@@ -9704,6 +10062,7 @@ sort: by_weight
 金槍鎖咽喉	jin cheng suo yan hou	1
 金玫之指	jin mei zhi zhi	1
 金線降神	jin xian jiang shen	1
+金織	jin zhi	1
 金織如夢	jin zhi ru meng	1
 金色	jin se	1
 金色雷霆	jin se lei ting	1
@@ -9777,11 +10136,13 @@ sort: by_weight
 錢琛	qian chen	1
 錯誤道具	cuo wu dao ju	1
 鍾可	zhong ke	1
+鎔金坊通道	rong jin fang tong dao	1
 鎔金徽章	rong jin hui zhang	1
 鎖定	suo ding	1
 鎖定場	suo ding chang	1
 鎖定方式	suo ding fang shi	1
 鎮尾鎖靈	zhen wei suo ling	1
+鎮惡門	zhen e men	1
 鎮綏天鈞	zhen sui tian jun	1
 鎮魂之鐮	zhen hun zhi lian	1
 鎮魂歌	zhen hun ge	1
@@ -9795,6 +10156,11 @@ sort: by_weight
 鏤月裁雲之意	lou yue cai yun zhi yi	1
 鐘慢效應	zhong man xiao ying	1
 鐘擺	zhong bai	1
+鐘錶匠	zhong biao jiang	1
+鐘錶匠的交運腕錶	zhong biao jiang de jiao yun wan biao	1
+鐘錶匠的極目透鏡	zhong biao jiang de ji mu tou jing	1
+鐘錶匠的空幻禮服	zhong biao jiang de kong huan li fu	1
+鐘錶匠的隱夢革履	zhong biao jiang de yin meng ge lv	1
 鐘錶小子	zhong biao xiao zi	1
 鐘錶小子和他的夥伴們	zhong biao xiao zi he ta de huo ban men	1
 鐮刀	lian dao	1
@@ -9820,14 +10186,22 @@ sort: by_weight
 鐵衛軍徽	tie wei jun hui	1
 鐵鏽之海	tie xiu zhi hai	1
 鐵風	tie feng	1
+鐵騎的摧堅鐵腕	tie qi de cui jian tie wan	1
+鐵騎的索敵戰盔	tie qi de suo di zhan kui	1
+鐵騎的行空護脛	tie qi de xing kong hu jing	1
+鐵騎的銀影裝甲	tie qi de yin ying zhuang jia	1
 鐵齒銅牙	tie chi tong ya	1
+鑄煉宮的焰輪天綢	zhu lian gong de yan lun tian chou	1
+鑄煉宮的蓮華燈芯	zhu lian gong de lian hua deng xin	1
+鑄魂儀門	zhu hun yi
+鑄魂頹垣	zhu hun tui yuan	1
 鑰匙的統治	yao shi de tong zhi	1
 鑽石喵王	zuan shi miao wang	1
 鑽石喵神	zuan shi miao shen	1
 鑽石星辰	zuan shi xing chen	1
 鑽石與鐵鏽	zuan shi yu tie xiu	1
 鑿破大荒	zao po da huang	1
-長久的陪伴	zhang jiu de pei ban	1
+長久的陪伴	chang jiu de pei ban	1
 長光	chang guang	1
 長光三件套	chang guang san jian tao	1
 長光上	chang guang shang	1
@@ -9839,20 +10213,23 @@ sort: by_weight
 長光兩件套	chang guang liang jian tao	1
 長光套	chang guang tao	1
 長右	chang you	1
-長夜利好偷兒	zhang ye li hao tou er	1
-長夢一覺	zhang meng yi jue	1
-長日入夜行	zhang ri ru ye xing	1
+長夜利好偷兒	chang ye li hao tou er	1
+長夢一覺	chang meng yi jue	1
+長夢宸扉	chang meng chen fei	1
+長日入夜行	chang ri ru ye xing	1
 長期推薦	chang qi tui jian	1
-長槍試	zhang cheng shi	1
+長槍試	chang cheng shi	1
 長樂天	chang le tian	1
-長生夢短	zhang sheng meng duan	1
-長生陌客	zhang sheng mo ke	1
+長生夢短	chang sheng meng duan	1
+長生陌客	chang sheng mo ke	1
 長短處	chang duan chu	1
-長繩麻理亞	zhang sheng ma li ya	1
-長路終有歸途	zhang lu zhong you gui tu	1
+長繩麻理亞	chang sheng ma li ya	1
+長路終有歸途	chang lu zhong you gui tu	1
 門前清	men qian qing	1
+門徑	men jing	1
 門徑之神跡	men jing zhi shen ji	1
 門徑律法	men jing lv fa	1
+門徑終處	men jing zhong chu	1
 門扉之啟	men fei zhi qi	1
 門捷列夫	men jie lie fu	1
 門捷列夫三件套	men jie lie fu san jian tao	1
@@ -9948,6 +10325,10 @@ sort: by_weight
 闖關崩壞達人	chuang guan beng huai da ren	1
 關卡	guan qia	1
 關卡效果	guan qia xiao guo	1
+關塞垂井	guan sai chui jing	1
+關塞懸廊	guan sai xuan lang	1
+關塞顱頂	guan sai lu ding	1
+關妮薇	guan ni wei	1
 關於往昔	guan yu wang xi	1
 關於黎明	guan yu li ming	1
 關根明良	guan gen ming liang	1
@@ -9972,6 +10353,7 @@ sort: by_weight
 阿修羅院	a xiu luo yuan	1
 阿刃	a ren	1
 阿卡夏記錄	a ka xia ji lu	1
+阿卡索斯	a ka suo si	1
 阿哈玩偶	a ha wan ou	1
 阿多尼斯電梯	a duo ni si dian ti	1
 阿座上洋平	a zuo shang yang ping	1
@@ -9991,6 +10373,7 @@ sort: by_weight
 阿溼波	a shi bo	1
 阿澄佳奈	a cheng jia nai	1
 阿爾忒彌斯的狩獵	a er tei mi si de shou lie	1
+阿狄安	a di an	1
 阿琳	a lin	1
 阿瑞斯紛爭	a rui si fen zheng	1
 阿符	a fu	1
@@ -10010,6 +10393,8 @@ sort: by_weight
 阿蘭	a lan	1
 阿貝利希	a bei li xi	1
 阿達諾斯的裁決	a da nuo si de cai jue	1
+阿那克薩戈拉斯	a na ke sa ge la si	1
+阿里斯蒂亞	a li si di ya	1
 附加	fu jia	1
 附加傷害	fu jia shang hai	1
 附加異常狀態	fu jia yi chang zhuang tai	1
@@ -10043,6 +10428,7 @@ sort: by_weight
 陣容打法	zhen rong da fa	1
 除制去縛	chu zhi qu fu	1
 除邪避諱	chu xie bi hui	1
+陰寒獄	yin han yu	1
 陰影從未離去	yin ying cong wei li qu	1
 陰極子炮	yin ji zi pao	1
 陰極子炮式	yin ji zi pao shi	1
@@ -10104,9 +10490,14 @@ sort: by_weight
 雅典娜	ya dian na	1
 雅典娜的號令	ya dian na de hao ling	1
 雅利洛	ya li luo	1
+雅利洛-Ⅵ  ya li luo liu hao	1
 雅利洛六號	ya li luo liu hao	1
+雅努斯	ya nu si	1
 雅努斯的饋贈	ya nu si de kui zeng	1
+雅努薩波利斯	ya nu sa bo li si	1
 雅痞之夢	ya pi zhi meng	1
+雅辛忒絲	ya xin te si	1
+集合點	ji he dian	1
 集會所的留言板	ji hui suo de liu yan ban	1
 集束轟炸	ji shu hong zha	1
 集火流星	ji huo liu xing	1
@@ -10140,6 +10531,7 @@ sort: by_weight
 雙月	shuang yue	1
 雙月玉	shuang yue yu	1
 雙月的騎士	shuang yue de qi shi	1
+雙月高塔	shuang yue gao ta	1
 雙極噴流	shuang ji pen liu	1
 雙槍	shuang qiang	1
 雙狼	shuang lang	1
@@ -10159,6 +10551,7 @@ sort: by_weight
 離巢浪人	li chao lang ren	1
 離弦	li xian	1
 離愁者的輓歌	li chou zhe de wan ge	1
+離懷之路	li huai zhi lu	1
 離析	li xi	1
 離火	li huo	1
 離火標記	li huo biao ji	1
@@ -10181,6 +10574,7 @@ sort: by_weight
 雪原尋蹤	xue yuan xun zong	1
 雪原急救方案	xue yuan ji jiu fang an	1
 雪原的原風景	xue yuan de yuan feng jing	1
+雪原科考隊	xue yuan ke kao dui	1
 雪原重逢	xue yuan chong feng	1
 雪原露營	xue yuan lu ying	1
 雪國冒險奇譚	xue guo mao xian qi tan	1
@@ -10189,6 +10583,7 @@ sort: by_weight
 雪地戰車	xue di zhan che	1
 雪地狙擊	xue di ju ji	1
 雪地量身定製	xue di liang shen ding zhi	1
+雪城	xue cheng	1
 雪天應對	xue tian ying dui	1
 雪山之巔的王者	xue shan zhi dian de wang zhe	1
 雪山戰	xue shan zhan	1
@@ -10208,22 +10603,29 @@ sort: by_weight
 雪菜	xue cai	1
 雪衣	xue yi	1
 雪霜玉	xue shuang yu	1
+雲上五驍	yun shang wu xiao	1
 雲中人	yun zhong ren	1
 雲之彼端	yun zhi bi duan	1
 雲吟乍湧墜珠露	yun yin zha yong zhui zhu lu	1
+雲崖聖道	yun ya sheng dao	1
 雲旂	yun qi	1
 雲樹百丈蔽重樓	yun shu bai zhang bi chong lou	1
 雲無留跡	yun wu liu ji	1
 雲無留跡的過客	yun wu liu ji de guo ke	1
 雲璃	yun li	1
+雲石天宮	yun shi tian gong	1
+雲石市集	yun shi shi ji	1
+雲端遺堡	yun duan yi bao	1
 雲笈七籤	yun ji qi qian	1
 雲鏑逐步離	yun di zhu bu li	1
 雲駕有期	yun jia you qi	1
 雲騎之友	yun qi zhi you	1
 雲騎劍經	yun qi jian jing	1
+雲騎將軍	yun qi jiang jun	1
 雲騎巡防士卒	yun qi xun fang shi zu	1
 雲騎槍術	yun qi cheng shu	1
 雲騎軍	yun qi jun	1
+雲騎軍驍衛	yun qi jun xiao wei	1
 雲騎驍衛	yun qi xiao wei	1
 雲鳶逐風	yun yuan zhu feng	1
 零件	ling jian	1
@@ -10271,6 +10673,7 @@ sort: by_weight
 雷電元素	lei dian yuan su	1
 雷電元素抗性	lei dian yuan su kang xing	1
 雷電女王的鬼鎧	lei dian nv wang de gui kai	1
+雷電忘川守芽衣	lei dian wang chuan shou ya yi	1
 雷電招來	lei dian zhao lai	1
 雷電易傷	lei dian yi shang	1
 雷電暴斬	lei dian bao zhan	1
@@ -10331,6 +10734,9 @@ sort: by_weight
 霰彈女王	xian dan nv wang	1
 露比沖劑	lu bi chong ji	1
 露營篝火的薄暮	lu ying gou huo de bo mu	1
+露莎卡	lu sha ka	1
+露莎卡的水朽蒼都	lu sha ka de shui xiu cang du	1
+露莎卡的雙生航道	lu sha ka de shuang sheng hang dao	1
 露西亞	lu xi ya	1
 露西亞三件套	lu xi ya san jian tao	1
 露西亞上	lu xi ya shang	1
@@ -10368,6 +10774,7 @@ sort: by_weight
 靈魂綁定好友	ling hun bang ding hao you	1
 靈魂鏈接	ling hun lian jie	1
 靈鷲宮石壁	ling jiu gong shi bi	1
+青丘台入口	qing qiu tai ru kou	1
 青丘行軍	qing qiu xing jun	1
 青丘遺澤	qing qiu yi ze	1
 青囊聖手	qing nang sheng shou	1
@@ -10386,6 +10793,7 @@ sort: by_weight
 青龍出水	qing long chu shui	1
 青龍結界	qing long jie jie	1
 靜宸	jing chen	1
+靜水主池	jing shui zhu chi	1
 靜籟永恆	jing lai yong heng	1
 靜謐利刃	jing mi li ren	1
 靜謐寶石	jing mi bao shi	1
@@ -10440,6 +10848,7 @@ sort: by_weight
 預演家	yu yan jia	1
 預登陸限定	yu deng lu xian ding	1
 預言	yu yan	1
+預言書庫	yu yan shu ku	1
 預選賽	yu xuan sai	1
 頑疾診斷書	kun ji zhen duan shu	1
 領域	ling yu	1
@@ -10465,6 +10874,7 @@ sort: by_weight
 顯微而闡幽	xian wei er chan you	1
 顯著	xian zhu	1
 顯赫行止的道路	xian he xing zhi de dao lu	1
+顯龍大雩殿	xian long da wu dian	1
 風之律者	feng zhi lv zhe	1
 風之旋	feng zhi xuan	1
 風化	feng hua	1
@@ -10486,6 +10896,7 @@ sort: by_weight
 飛向明天	fei xiang ming tian	1
 飛失流星	fei shi liu xing	1
 飛星之禮	fei xing zhi li	1
+飛星小築	fei xing xiao zhu	1
 飛機	fei ji	1
 飛濺蠱	fei jian gu	1
 飛燼玄靈	fei jin xuan ling	1
@@ -10495,6 +10906,7 @@ sort: by_weight
 飛舞如蝶	fei wu ru die	1
 飛虹誅鑿齒	fei hong zhu zao chi	1
 飛螢之火	fei ying zhi huo	1
+飛行士	fei xing shi	1
 飛越平台期	fei yue ping tai qi	1
 飛鋏震赫	fei jia zhen he	1
 飛鐃	fei nao	1
@@ -10506,6 +10918,7 @@ sort: by_weight
 飯店內禁止執行任務	fan dian nei jin zhi zhi xing ren wu	1
 飲料	yin liao	1
 飲月	yin yue	1
+飲月之亂	yin yue zhi luan	1
 飲月君	yin yue jun	1
 飲月君臨	yin yue jun lin	1
 飽和式轟炸	bao he shi hong zha	1
@@ -10636,6 +11049,7 @@ sort: by_weight
 魄之刃	po zhi ren	1
 魈魅尋蹤	xiao mei xun zong	1
 魑魅魍魎	chi mei wang liang	1
+魔劍	mo jian	1
 魔力	mo li	1
 魔力三件套	mo li san jian tao	1
 魔力上	mo li shang	1
@@ -10657,6 +11071,8 @@ sort: by_weight
 魔王之城	mo wang zhi cheng	1
 魔神死士	mo shen si shi	1
 魔術師	mo shu shi	1
+魔陰	mo yin	1
+魔陰身	mo yin shen	1
 魔陰身士卒	mo yin shen shi zu	1
 魔陰身考在哪裡	mo yin shen kao zai na li	1
 魔鬼剋星	mo gui ke xing	1
@@ -10725,12 +11141,17 @@ sort: by_weight
 黃金喵神	huang jin miao shen	1
 黃金大地	huang jin da di	1
 黃金征途	huang jin zheng tu	1
+黃金的時刻	huang jin de shi ke	1
+黃金的織者	huang jin de zhi zhe	1
 黃金與機械	huang jin yu ji xie	1
+黃金裔	huang jin yi	1
 黃龍破天	huang long po tian	1
 黎明之子	li ming zhi zi	1
 黎明劇團	li ming ju tuan	1
 黎明審判	li ming shen pan	1
+黎明機器	li ming ji qi	1
 黎明處決	li ming chu jue	1
+黎明雲崖	li ming yun ya	1
 黑劍	hei jian	1
 黑塔	hei ta	1
 黑塔情詩	hei ta qing shi	1
@@ -10759,6 +11180,7 @@ sort: by_weight
 黑洞雷	hei dong lei	1
 黑淵白花	hei yuan bai hua	1
 黑淵的棘刺	hei yuan de ji ci	1
+黑潮	hei chao	1
 黑玉	hei yu	1
 黑科技武器	hei ke ji wu qi	1
 黑科技裝甲	hei ke ji zhuang jia	1
@@ -10897,5 +11319,6 @@ sort: by_weight
 龍馬中下	long ma zhong xia	1
 龍馬兩件套	long ma liang jian tao	1
 龍馬套	long ma tao	1
+龍骸古城	long hai gu cheng	1
 龐克洛德	pang ke luo de	1
 龜娘	gui niang	1
