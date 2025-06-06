@@ -5,16 +5,26 @@
 name: rime_ice
 version: "2024-11-27"
 import_tables:
-  - cn_dicts/8105     # 字表
-  # - cn_dicts/41448  # 大字表（按需启用）（启用时和 8105 同时启用并放在 8105 下面）
-  - cn_dicts/base     # 基础词库
-  - cn_dicts/ext      # 扩展词库
-  - cn_dicts/tencent  # 腾讯词向量（大词库，部署时间较长）
-  - cn_dicts/others   # 一些杂项
+  - tw_dicts/8105_tw     # 字表
+  - tw_dicts/41448_tw    # 大字表（按需启用）（启用时和 8105 同时启用并放在 8105 下面）
+  - tw_dicts/base_tw     # 基础词库
+  - tw_dicts/ext_tw      # 扩展词库
+  - tw_dicts/tencent_tw  # 腾讯词向量（大词库，部署时间较长）
+  - tw_dicts/others_tw   # 一些杂项
 
   # 建议把扩展词库放到下面，有重复词条时，最上面的权重生效
-  # - mydict1           # 挂载配置目录下的 mydict1.dict.yaml 词库文件
-  # - cn_dicts/mydict2  # 挂载 cn_dicts 目录里的 mydict2.dict.yaml 词库文件
+  - tw_dicts/taiwanese
+  - tw_dicts/hanyu
+  - tw_dicts/hanhe
+  - tw_dicts/poetry
+  - tw_dicts/bangdream
+  - tw_dicts/genshin
+  - tw_dicts/honkai
+  - tw_dicts/zenless
+  - tw_dicts/location_names
+  - tw_dicts/fate
+  - tw_dicts/cs
+  - tw_dicts/physics
 ...
 
 # 按需启用：
@@ -75,49 +85,50 @@ M4
 3D
 4D
 3D打印
+3D列印
 
 # 加入词典，响应 opencc/others.txt 的 emoji 集合
-V动物
-V国旗
-V手势
+V動物
+V國旗
+V手勢
 V表情
-V分数
-V按键
-V星号
+V分數
+V按鍵
+V星號
 V特殊
 V常用
-V中华
+V中華
 V中餐
 V串串
-V亚裔
-V亚裔女
-V亚裔男
-V运动
-V运动员
+V亞裔
+V亞裔女
+V亞裔男
+V運動
+V運動員
 V元素
 V公交
-V动物脸
+V動物臉
 V包
 V午餐
-V饭
-V景点
+V飯
+V景點
 V器官
-V圆形
-V地铁
+V圓形
+V地鐵
 V交通
-V坚果
-V外汇
-V钞票
-V纸币
-V货币
-V多媒体
+V堅果
+V外匯
+V鈔票
+V紙幣
+V貨幣
+V多媒體
 V夜晚
 V夜空
 V大自然
 V自然
-V气象
-V天气
-V娱乐
+V氣象
+V天氣
+V娛樂
 V宗教
 V家禽
 V冷
@@ -134,7 +145,7 @@ V拉美
 V拉美人
 V拉美裔
 V卷
-V数码
+V數碼
 V方形
 V正方形
 V日料
@@ -142,79 +153,79 @@ V日式料理
 V日本菜
 V日用
 V早餐
-V早点
+V早點
 V星座
-V时钟
+V時鐘
 V月亮
 V有毒
-V服装
-V服饰
-V东亚人
-V东亚裔
+V服裝
+V服飾
+V東亞人
+V東亞裔
 V果
 V水果
 V棕色人
-V棕色人种
+V棕色人種
 V植物
-V乐器
-V机械
+V樂器
+V機械
 V正餐
 V武器
-V车
-V汽车
-V火车
-V热饮
+V車
+V汽車
+V火車
+V熱飲
 V牲畜
-V奖
-V奖项
-V奖牌
+V獎
+V獎項
+V獎牌
 V球
 V甜食
-V甜点
+V甜點
 V生肖
 V畜生
 V白人
-V白种人
-V眼镜
-V科学
+V白種人
+V眼鏡
+V科學
 V穆斯林
-V节日
-V粗粮
-V精灵
+V節日
+V粗糧
+V精靈
 V肉
-V肤色
+V膚色
 V船
 V花
 V花朵
 V菜
 V蔬菜
-V叶子
-V虫
+V葉子
+V蟲
 V血型
 V衣服
 V西餐
-V调料
-V游乐园
+V調料
+V遊樂園
 V酒
 V野味
-V野生动物
+V野生動物
 V阿拉伯
 V阿拉伯人
 V雪
 V零食
-V电器
-V电子
+V電器
+V電子
 V鞋
 V鞋子
-V颜色
-V飞行器
-V饮料
+V顏色
+V飛行器
+V飲料
 V餐具
-V发型
-V发色
-V鱼
-V鸟
-V面包
-V黄种人
+V髮型
+V發色
+V魚
+V鳥
+V麵包
+V黃種人
 V黑人
-V点心
+V點心
