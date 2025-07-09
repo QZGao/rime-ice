@@ -64,3 +64,8 @@ code	code
 SOHO	soho
 
 評論員	ply
+
+zh-Hans-CN	zhc
+zh-Hant-TW	zht
+zh-Hant-HK	zhh
+en-US	enu

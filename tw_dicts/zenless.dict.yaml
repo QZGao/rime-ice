@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: zenless
-version: "2025-05-26"
+version: "2025-06-13"
 sort: origin
 use_preset_vocabulary: true
 ...
@@ -33,7 +33,7 @@ use_preset_vocabulary: true
 「魔王」獎章	mo wang jiang zhang	1
 11號	shi yi hao	1
 25馬赫	er shi wu ma he	1
-3Z設計工作室	san z she ji gong zuo shi	1
+3Z設計工作室	san Z she ji gong zuo shi	1
 3根骨頭	san gen gu tou	1
 7710和他的貓	qi yi qi ling he ta de mao	1
 一份普通的任務記錄	yi fen pu tong de ren wu ji lu	1
@@ -388,6 +388,7 @@ use_preset_vocabulary: true
 奇蹟從不遲到	qi ji cong bu chi dao	1
 奔襲獠牙	ben xi liao ya	1
 奧波勒斯小隊	ao bo le si xiao dui	1
+奧菲絲	ao fei si	1
 她的星空下	ta de xing kong xia	1
 好鬥的阿炮	hao dou de a pao	1
 如在冰箱內	ru zai bing xiang nei	1
@@ -521,6 +522,7 @@ use_preset_vocabulary: true
 思念撥開海霧	si nian bo kai hai wu	1
 急速狂飆	ji su kuang biao	1
 急需醫療援助	ji xu yi liao yuan zhu	1
+怪啖屋	guai dan wu	1
 怪奇旅伴	guai qi lv ban	1
 怪盜的職業素養	guai dao de zhi ye su yang	1
 恭喜發財	gong xi fa cai	1
@@ -532,6 +534,8 @@ use_preset_vocabulary: true
 惡毒打手	e du da shou	1
 惡靈	e ling	1
 惡魔布	e mo bu	1
+愛麗絲	ai li si	1
+愛麗絲·泰姆菲爾德	ai li si tai mu fei er de	1
 感電	gan dian	1
 慣性定律	guan xing ding lv	1
 懷斯塔之友	huai si ta zhi you	1
@@ -696,6 +700,7 @@ use_preset_vocabulary: true
 本·比格	ben bi ge	1
 朱鳶	zhu yuan	1
 李嬋妃	li chan fei	1
+村上奈津實	cun shang nai jin shi	1
 杜伊的回信	du yi de hui xin	1
 杜冥鴉	du ming ya	1
 杜拉罕	du la han	1
@@ -712,6 +717,7 @@ use_preset_vocabulary: true
 枯萎脈晶·玄黃	ku wei mai jing xuan huang	1
 枯萎脈晶·礬紅	ku wei mai jing fan hong	1
 柏妮思	bai ni si	1
+柚葉	you ye	1
 柳的特別關心	liu de te bie guan xin	1
 柿原徹也	shi yuan che ye	1
 核心	he xin	1
@@ -782,6 +788,7 @@ use_preset_vocabulary: true
 法布提	fa bu ti	1
 波可娜	bo ke na	1
 波特山	bo te shan	1
+泰姆菲爾德	tai mu fei er de	1
 泰拉斯奎禍車	tai la si kui huo che	1
 洗衣粉還是老牌子好	xi yi fen hai shi lao pai zi hao	1
 洛威爾	luo wei er	1
@@ -791,6 +798,8 @@ use_preset_vocabulary: true
 派派	pai pai	1
 派派·韋爾	pai pai wei er	1
 测量器	ce liang qi	1
+浮波	fu bo	1
+浮波柚葉	fu bo you ye	1
 消失的數字5	xiao shi de shu zi wu	1
 消失的油畫	xiao shi de you hua	1
 消失的電梯	xiao shi de dian ti	1
@@ -884,6 +893,10 @@ use_preset_vocabulary: true
 狂信之塑	kuang xin zhi su	1
 狂熱採購者	kuang re cai gou zhe	1
 狂野司機	kuang ye si ji	1
+狛野	bo ye	1
+狛野	po ye	1
+狛野真斗	bo ye zhen dou	1
+狛野真斗	po ye zhen dou	1
 狡兔屋	jiao tu wu	1
 猩紅引擎	xing hong yin qing	1
 獅耶	shi ye	1
@@ -919,6 +932,7 @@ use_preset_vocabulary: true
 白菜扎根	bai cai zha gen	1
 白銀的復甦	bai yin de fu su	1
 白銀的見證者	bai yin de jian zheng zhe	1
+百鬼夜談	bai gui ye tan	1
 皇室典範	huang shi dian fan	1
 皛四白	xiao si bai	1
 盆栽	pen zai	1
@@ -937,6 +951,7 @@ use_preset_vocabulary: true
 直到蒼白荒歳之地	zhi dao cang bai huang sui zhi di	1
 直到蒼白荒穢之地	zhi dao cang bai huang hui zhi di	1
 真·玩命驗收	zhen wan ming yan shou	1
+真斗	zhen dou	1
 真理的凝視	zhen li de ning shi	1
 真相不止一個	zhen xiang bu zhi yi ge	1
 真相常與孤獨結伴而行	zhen xiang chang yu gu du jie ban er xing	1
@@ -1025,6 +1040,7 @@ use_preset_vocabulary: true
 縱火須克制	zong huo xu ke zhi	1
 繆斯的衣櫥	miao si de yi chu	1
 繩匠	sheng jiang	1
+繩匠兄妹	sheng jiang xiong mei	1
 繩匠業務	sheng jiang ye wu	1
 繩網	sheng wang	1
 繩網信用	sheng wang xin yong	1
@@ -1230,6 +1246,8 @@ use_preset_vocabulary: true
 迷失之地	mi shi zhi di	1
 迷宮的跨越者	mi gong de kua yue zhe	1
 迷蹤的調查團	mi zong de tiao cha tuan	1
+追擊	zhui ji	1
+追擊隊	zhu ji dui	1
 退休生活	tui xiu sheng huo	1
 逆位的高塔	ni wei de gao ta	1
 逍遙遊球	xiao yao you qiu	1
@@ -1299,6 +1317,7 @@ use_preset_vocabulary: true
 鏖戰試煉	ao zhan shi lian	1
 鏖戰試煉·末路	ao zhan shi lian mo lu	1
 鐵道地精	tie dao di jing	1
+長谷川育美	chang gu chuan yu mei	1
 閃擊破陣	shan ji po zhen	1
 閃耀的此刻	shan yao de ci ke	1
 閃避	shan bi	1
