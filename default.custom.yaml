@@ -1,0 +1,96 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.16.1
+  generator: "Rime::SwitcherSettings"
+  modified_time: "Sun Jun 23 23:14:44 2024"
+  rime_version: 1.11.2
+
+patch:
+  schema_list:
+    - schema: rime_ice
+
+  menu/page_size: 7
+  ascii_composer:
+    good_old_caps_lock: false
+    switch_key:
+      Caps_Lock: commit_code
+      Shift_L: noop
+      Shift_R: noop
+      Control_L: noop
+      Control_R: noop
+
+  punctuator:
+    full_shape:
+      ' ': { commit: '　' }
+      ',': { commit: ， }
+      '.': { commit: 。 }
+      '<': [ 《, 〈, «, ‹ ]
+      '>': [ 》, 〉, », › ]
+      '/': [ ／, ÷ ]
+      '?': { commit: ？ }
+      ';': { commit: ； }
+      ':': { commit: ： }
+      '''': { pair: [ '‘', '’' ] }
+      '"': { pair: [ '“', '”' ] }
+      '\': [ 、, ＼ ]
+      '|': [ ·, ｜, '§', '¦' ]
+      '`': ｀
+      '~': ～
+      '!': { commit: ！ }
+      '@': [ ＠, ☯ ]
+      '#': [ ＃, ⌘ ]
+      '%': [ ％, '°', '℃' ]
+      '$': [ ￥, '$', '€', '£', '¥', '¢', '¤' ]
+      '^': { commit: …… }
+      '&': ＆
+      '*': [ ＊, ·, ・, ×, ※, ❂ ]
+      '(': （
+      ')': ）
+      '-': －
+      '_': ——
+      '+': ＋
+      '=': ＝
+      '[': [ 「, 【, 〔, ［ ]
+      ']': [ 」, 】, 〕, ］ ]
+      '{': [ 『, 〖, ｛ ]
+      '}': [ 』, 〗, ｝ ]
+    half_shape:
+      ',': '，'
+      '.': '。'
+      '<': [ 《, 〈, «, ‹ ]
+      '>': [ 》, 〉, », › ]
+      '/': '/'
+      '?': '？'
+      ';': '；'
+      ':': '：'
+      '''': { pair: [ '‘', '’' ] }
+      '"': { pair: [ '“', '”' ] }
+      '\': '、'
+      '|': [ '|', ｜, '§', '¦' ]
+      '`': '`'
+      '~': '~'
+      '!': '！'
+      '@': '@'
+      '#': '#'
+      '%': [ '%', '°', '℃' ]
+      '$': [ '¥', '$', '€', '£', '¥', '¢', '¤' ]
+      '^': '……'
+      '&': '&'
+      '*': [ ·, '*', ・, ×, ※, ❂ ]
+      '(': '（'
+      ')': '）'
+      '-': '-'
+      '_': [ ——, '–', '—', '−' ]
+      '+': '+'
+      '=': '='
+      '[': [ 「, 【, 〔, ［ ]
+      ']': [ 」, 】, 〕, ］ ]
+      '{': [ 『, 〖, ｛ ]
+      '}': [ 』, 〗, ｝ ]
+
+  key_binder/bindings/+:
+    - { when: paging, accept: comma, send: Page_Up }
+    - { when: has_menu, accept: period, send: Page_Down }
+    - { when: paging, accept: bracketleft, send: Page_Up }
+    - { when: has_menu, accept: bracketright, send: Page_Down }
+    - { when: always, accept: Control+Shift+F, toggle: traditionalization }       # 切换简繁

@@ -1,0 +1,152 @@
+patch:
+  switches:
+    - name: ascii_mode
+      states: ["中", "Ａ"]
+    - name: ascii_punct
+      states: ["¥", "$"]
+    - name: traditionalization
+      states: [ 繁, 简 ]
+    - name: emoji
+      reset: 1
+      states: ["💀", "😄"]
+    - name: full_shape
+      states: ["半角", "全角"]
+    - abbrev: ["词", "单"]
+      name: search_single_char
+      states: ["正常", "单字"]
+  traditionalize/opencc_config: t2s.json
+  emoji/opencc_config: emoji_tw.json
+  cn_en/user_dict: en_dicts/tw_en
+  translator/preedit_format/+:
+    - xform/([nl])v/$1ü/    # 显示为 nü lü
+    - xform/([nl])ue/$1üe/  # 显示为 nüe lüe
+  reduce_english_filter/mode: all
+  pin_cand_filter:
+    - q	去 千
+    - w	我 萬 往
+    - e	呃
+    - r	讓 人
+    - t	他 她 它 祂
+    - y	與 於
+    - o	哦
+    - p	片 篇
+    - a	啊
+    - s	是 時 使 式
+    - d	的 地 得
+    - f	發 放 分
+    - g	個 各
+    - h	和 或
+    - j	及 將 即 既 繼
+    - k	可
+    - l	了 啦 嘍 嘞
+    - z	在 再 自
+    - x	想 像 向
+    - c	才 從
+    - b	吧 把 唄 百
+    - n	那 哪 拿 吶
+    - m	嗎 嘛 呣 呒
+    - qing	請
+    - qu	去
+    - wo	我
+    - wei	為
+    - er	而 兒 二
+    - en	嗯
+    - rang	讓
+    - ta	他 她 它 祂
+    - tai	太
+    - tong	同
+    - yu	與 於
+    - you	有 又 由
+    - yao	要
+    - ye	也
+    - shi	是 時 使 式
+    - suo	所
+    - shang	上
+    - shuo	說
+    - de	的 地 得
+    - dan	但
+    - dou	都
+    - dao	到 倒
+    - dian	點
+    - dang	當
+    - dui	對
+    - fa	發
+    - ge	個 各
+    - gang	剛
+    - he	和
+    - huo	或
+    - hui	會
+    - hai	還
+    - hao	好
+    - ji	及 即 既
+    - jin	僅
+    - jiu	就
+    - jiang	將
+    - ke	可
+    - kan	看
+    - kai	開
+    - le	了
+    - la	啦 拉
+    - lai	來
+    - li	裡
+    - zai	在 再
+    - zhi	只
+    - zhe	這 著
+    - zhen	真
+    - zui	最
+    - zheng	正
+    - zuo	做 坐 左
+    - ze	則
+    - xiang	想 像 向
+    - xian	先
+    - xia	下
+    - xing	行
+    - cai	才
+    - cong	從
+    - chu	出
+    - ba	把 吧
+    - bu	不
+    - bei	被
+    - bie	別
+    - bi	比
+    - bing	並
+    - na	那 哪 拿 呐
+    - ni	你 妳
+    - ma	嗎 嘛 嗎
+    - mei	沒
+    - mai	買 賣
+    - reng	仍 扔
+    - ta men	他們 她們 它們
+    - tm	他們 她們 它們
+    - ta de	他的 她的 它的
+    - td	他的 她的 它的
+    - ta men de	他們的 她們的 它們的
+    - na er	那兒 哪兒
+    - na ge	那個 哪個
+    - ng	那個 哪個 拿個
+    - na xie	那些 哪些
+    - na li	那里 哪里
+    - na bian	那边 哪边
+    - na bian er	那边兒 哪边兒
+    - na wei	那位 哪位
+    - zh	這
+    - dd	等等
+    - dddd	等等等等
+    - gg	剛剛
+    - cgg	才剛剛
+    - zd	知道
+    - bzd	不知道
+    - ww	往往
+    - hh	哈哈
+    - kk	看看
+    - cc	常常
+    - xx	想想 想象
+    - yw	因為
+    - sm	什麼
+    - wsm	為什麼
+    - sbs	是不是
+    - msm	沒什麼
+    - smd	什麼的
+    - sms	什麼是
+    - sma	什麼啊
+    - qs	確實
