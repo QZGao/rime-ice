@@ -31,7 +31,7 @@ class Translator:
         translation_dict_checked_files = list(
             filter(
                 lambda x: x.startswith(self.translation_dict_checked_filename),
-                os.listdir("tw_dicts"),
+                os.listdir("tw_dicts/translation_dict"),
             )
         )
         translation_dict = {}
@@ -40,11 +40,11 @@ class Translator:
         )
         for translation_dict_file in translation_dict_checked_files:
             with open(
-                f"tw_dicts/{translation_dict_file}", "r", encoding="utf-8-sig"
+                f"tw_dicts/translation_dict/{translation_dict_file}", "r", encoding="utf-8-sig"
             ) as f:
                 task = progress.add_task(
                     f"{os.path.basename(translation_dict_file)}",
-                    total=os.path.getsize(f"tw_dicts/{translation_dict_file}"),
+                    total=os.path.getsize(f"tw_dicts/translation_dict/{translation_dict_file}"),
                 )
                 for line in f:
                     if not line.strip() or line.startswith("#"):
@@ -60,7 +60,7 @@ class Translator:
     def __save_translation_dict(self, dict_filename: str, dict_obj: dict):
         file_index = 1
         current_file = open(
-            f"tw_dicts/{dict_filename}_{file_index}.txt", "w", encoding="utf-8-sig"
+            f"tw_dicts/translation_dict/{dict_filename}_{file_index}.txt", "w", encoding="utf-8-sig"
         )
         task = progress.add_task(
             f"[cyan]Saving to {dict_filename}{file_index}", total=len(dict_obj)
@@ -73,7 +73,7 @@ class Translator:
                 current_file.close()
                 file_index += 1
                 current_file = open(
-                    f"tw_dicts/{dict_filename}_{file_index}.txt",
+                    f"tw_dicts/translation_dict/{dict_filename}_{file_index}.txt",
                     "w",
                     encoding="utf-8-sig",
                 )
@@ -88,7 +88,7 @@ class Translator:
         translation_dict_files = list(
             filter(
                 lambda x: x.startswith(dict_filename),
-                os.listdir("tw_dicts"),
+                os.listdir("tw_dicts/translation_dict"),
             )
         )
         for translation_dict_file in translation_dict_files:
@@ -98,7 +98,7 @@ class Translator:
                 )
             )
             if index > file_index:
-                os.remove(f"tw_dicts/{translation_dict_file}")
+                os.remove(f"tw_dicts/translation_dict/{translation_dict_file}")
                 print(f"Removed {translation_dict_file} as it is not needed anymore.")
 
     def __load_file_by_line(self, from_dict_file: str):
